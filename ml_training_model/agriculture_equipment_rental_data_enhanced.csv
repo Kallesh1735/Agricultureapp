@@ -1,0 +1,1001 @@
+equipment_type,equipment_name,brand,age,condition,usage_frequency,fuel_type,horsepower,maintenance_score,location,demand_level,rental_duration_preference,fuel_efficiency,technology_level,weather_dependency,seasonal_demand_multiplier,rental_price_per_day
+Cultivator,Manure Spreader Model 15,Brand C,12,New,49,Electric,362,0.6805994826384917,Rural,0.7023934798347791,Long-Term,5.690136417138026,Intermediate,Low,1.1,4733.26
+Tractor,Sprayer Model 19,Brand A,1,Good,288,Hybrid,307,0.46692457093940143,Rural,0.6463593541609427,Long-Term,6.258240236743288,Basic,High,1.3,4347.57
+Mower,Mower Model 24,Brand D,7,Good,53,Hybrid,164,0.7089048905789789,Urban,0.5190864324361094,Short-Term,9.586062268194585,Basic,Medium,0.8,1447.03
+Tractor,Harrow Model 33,Brand A,12,Fair,127,Electric,355,0.8176850109539606,Rural,0.355584566748241,Long-Term,5.680097375590421,Intermediate,High,1.3,2369.19
+Combine Harvester,Sprayer Model 19,Brand C,7,Good,141,Electric,199,0.20143076337384758,Rural,0.8827072856499264,Short-Term,6.624145934981456,Intermediate,Low,1.2,3032.6
+Combine Harvester,Mower Model 13,Brand C,13,Good,77,Diesel,393,0.257371540667256,Rural,0.3359412260776725,Long-Term,14.526015001832818,Intermediate,High,1.2,2685.59
+Combine Harvester,Tractor Model 16,Brand D,10,Fair,171,Electric,175,0.7495733520929472,Suburban,0.41044269125794086,Short-Term,14.356139031659223,Intermediate,Medium,1.2,768.29
+Seed Drill,Cultivator Model 28,Brand A,3,Good,81,Diesel,193,0.7350314999623296,Rural,0.938961993970388,Short-Term,7.87604314114223,Advanced,High,1.2,6955.15
+Cultivator,Tractor Model 8,Brand C,8,Good,194,Diesel,161,0.9181650604491369,Rural,0.3469166394796279,Long-Term,10.120016233584714,Basic,Low,1.1,771.01
+Combine Harvester,Harrow Model 28,Brand C,4,Good,297,Hybrid,311,0.6757951987433958,Urban,0.8306678690345765,Short-Term,10.360109261907738,Advanced,High,1.2,5079.0
+Combine Harvester,Plough Model 34,Brand A,7,Fair,38,Diesel,300,0.9770022807130472,Urban,0.5656988930458446,Short-Term,14.589951112051105,Intermediate,Low,1.2,4249.7
+Sprayer,Plough Model 47,Brand B,10,Fair,255,Diesel,351,0.4733282058224252,Suburban,0.14234461199210258,Long-Term,10.240811574455648,Intermediate,Medium,0.9,879.95
+Harrow,Plough Model 1,Brand A,9,Poor,64,Electric,280,0.13706088407182082,Rural,0.41170664152774683,Short-Term,13.900999866740797,Basic,High,1.0,1666.18
+Harrow,Seed Drill Model 5,Brand D,6,Good,59,Hybrid,77,0.2172468282085639,Urban,0.4615630091004842,Long-Term,8.000179502347292,Basic,Low,1.0,667.63
+Seed Drill,Plough Model 33,Brand A,12,Fair,262,Diesel,185,0.6598794192165273,Urban,0.2787833571225258,Short-Term,12.150356072690458,Advanced,Medium,1.2,1144.32
+Seed Drill,Harrow Model 36,Brand A,6,Good,219,Electric,230,0.4943188265758247,Urban,0.8732733438619035,Short-Term,5.358903972660009,Basic,Low,1.2,3417.21
+Mower,Seed Drill Model 19,Brand B,4,Poor,112,Hybrid,478,0.6558743362862175,Suburban,0.6429692920831371,Long-Term,11.60212119452115,Basic,Medium,0.8,2336.98
+Combine Harvester,Cultivator Model 22,Brand A,13,Good,39,Electric,123,0.8834324120464891,Urban,0.45461198067739406,Long-Term,12.631194343417272,Basic,Low,1.2,1177.21
+Plough,Cultivator Model 12,Brand D,2,Good,106,Hybrid,157,0.04803472641444262,Rural,0.8020739243428716,Short-Term,11.733748241108787,Basic,High,1.0,2260.48
+Plough,Cultivator Model 43,Brand C,2,Fair,136,Diesel,377,0.7433347031973915,Suburban,0.15048402634321922,Long-Term,10.46779263584333,Intermediate,Medium,1.0,2161.73
+Seed Drill,Mower Model 20,Brand C,11,Good,242,Electric,251,0.09337102169895806,Suburban,0.5056504182877145,Long-Term,8.129299746293542,Intermediate,High,1.2,1397.29
+Tractor,Harrow Model 4,Brand B,6,Poor,130,Diesel,77,0.7286375800804717,Rural,0.14579350712870087,Short-Term,10.842026997221751,Intermediate,Medium,1.3,516.54
+Cultivator,Sprayer Model 45,Brand B,13,Good,104,Electric,386,0.618472701367195,Suburban,0.20129700187836974,Short-Term,7.756946144405551,Basic,High,1.1,3018.3
+Plough,Plough Model 1,Brand B,12,Good,216,Hybrid,117,0.37255592361182455,Rural,0.392897614392574,Short-Term,5.4726802409270014,Advanced,Medium,1.0,914.93
+Seed Drill,Manure Spreader Model 47,Brand C,7,Fair,263,Diesel,233,0.6245950434801579,Rural,0.5470247472089826,Short-Term,7.013551864262615,Intermediate,Low,1.2,1769.82
+Mower,Mower Model 22,Brand C,5,Good,165,Hybrid,235,0.06790125010974934,Suburban,0.8745191996358358,Short-Term,13.493651592437216,Basic,High,0.8,1939.77
+Mower,Mower Model 30,Brand C,10,Fair,41,Diesel,128,0.5636644613074216,Rural,0.4081017662102685,Short-Term,6.100647374583156,Basic,High,0.8,745.06
+Sprayer,Seed Drill Model 17,Brand C,5,Fair,277,Hybrid,426,0.356703414735971,Urban,0.4559293901424609,Long-Term,6.315568520059762,Intermediate,Medium,0.9,2002.53
+Sprayer,Harrow Model 33,Brand D,3,Good,168,Electric,330,0.8862248492374615,Suburban,0.025178121370316386,Short-Term,7.237294409846264,Intermediate,Low,0.9,2101.37
+Seed Drill,Combine Harvester Model 39,Brand C,7,Good,234,Diesel,134,0.15678284649904284,Rural,0.6713712936428561,Short-Term,8.636501875776798,Basic,Low,1.2,1292.08
+Manure Spreader,Combine Harvester Model 31,Brand B,6,New,161,Hybrid,221,0.41702366484831577,Rural,0.08210111598129799,Long-Term,10.003221799473895,Advanced,Low,1.0,1806.08
+Mower,Manure Spreader Model 3,Brand B,5,Good,206,Diesel,173,0.27714123536582014,Suburban,0.3396456632803103,Short-Term,14.815587514356354,Advanced,High,0.8,1293.82
+Tractor,Harrow Model 11,Brand A,13,Fair,92,Diesel,126,0.017763924903101747,Rural,0.5143436783797242,Short-Term,12.632026768989501,Basic,Low,1.3,1138.93
+Combine Harvester,Manure Spreader Model 12,Brand B,2,Fair,175,Diesel,111,0.4721245089727989,Suburban,0.31117842184240185,Short-Term,11.620452386526612,Intermediate,High,1.2,1034.59
+Manure Spreader,Cultivator Model 32,Brand B,9,Good,241,Hybrid,350,0.7772159718333814,Urban,0.3090398957648731,Short-Term,10.511427328893912,Intermediate,Low,1.0,2172.88
+Combine Harvester,Seed Drill Model 26,Brand B,12,Good,250,Diesel,397,0.2029079251667706,Suburban,0.9566680932263293,Short-Term,6.607918739246577,Advanced,Low,1.2,5124.3
+Harrow,Cultivator Model 49,Brand D,3,Good,10,Electric,492,0.7415836690705416,Rural,0.13115632428378243,Short-Term,10.75411941405351,Basic,Low,1.0,5872.82
+Cultivator,Mower Model 16,Brand B,2,Good,54,Diesel,235,0.7433849227068005,Suburban,0.34784960149988653,Short-Term,11.961084685416683,Basic,High,1.1,4066.22
+Combine Harvester,Plough Model 49,Brand A,7,Good,295,Electric,383,0.03211363606818263,Rural,0.26098804126026665,Short-Term,9.771370254778448,Advanced,Medium,1.2,4250.53
+Combine Harvester,Combine Harvester Model 40,Brand C,12,Good,36,Electric,197,0.677425549677335,Urban,0.2883331570272506,Short-Term,13.469481449537685,Intermediate,Medium,1.2,2023.35
+Mower,Sprayer Model 45,Brand C,6,Good,12,Hybrid,324,0.6207518744605668,Urban,0.5633540954563873,Short-Term,11.379880288476311,Basic,Medium,0.8,3841.32
+Sprayer,Harrow Model 5,Brand C,3,New,15,Hybrid,428,0.5297486396382707,Suburban,0.3392247027599008,Short-Term,14.337143666913976,Intermediate,High,0.9,7603.12
+Mower,Combine Harvester Model 8,Brand D,9,New,189,Diesel,321,0.7862601983212364,Urban,0.30128637520382096,Long-Term,5.612228357842405,Advanced,High,0.8,1578.89
+Plough,Mower Model 4,Brand A,2,Fair,141,Hybrid,132,0.9561325616322283,Rural,0.7514848748402805,Short-Term,14.744304293777018,Intermediate,Medium,1.0,1647.7
+Manure Spreader,Sprayer Model 14,Brand C,8,Good,161,Diesel,144,0.6651671464455042,Urban,0.7444379827550918,Short-Term,5.377691942394876,Basic,Low,1.0,1325.16
+Cultivator,Tractor Model 36,Brand C,8,Fair,166,Electric,391,0.21904105115130412,Rural,0.25629206658929093,Short-Term,10.182960185860983,Basic,Low,1.1,1901.97
+Mower,Manure Spreader Model 29,Brand C,3,Fair,149,Electric,196,0.9259470128994985,Rural,0.10928169672606325,Short-Term,11.315578394514077,Basic,High,0.8,920.05
+Cultivator,Harrow Model 48,Brand A,13,Poor,214,Electric,227,0.9490943694600665,Urban,0.8430653501584748,Short-Term,5.184554936785793,Intermediate,Low,1.1,1398.57
+Cultivator,Tractor Model 4,Brand D,1,Poor,135,Electric,304,0.9758090701951077,Urban,0.6244617873175556,Short-Term,7.0653237919490754,Advanced,High,1.1,3383.53
+Harrow,Sprayer Model 17,Brand B,2,Fair,25,Electric,245,0.5207921064279257,Suburban,0.2743302230503475,Long-Term,14.098616947562784,Intermediate,High,1.0,2355.06
+Mower,Plough Model 13,Brand C,10,Fair,174,Hybrid,404,0.9731699887272566,Rural,0.16475184580844382,Short-Term,9.74382656799487,Intermediate,Low,0.8,1176.12
+Mower,Manure Spreader Model 13,Brand C,14,Good,226,Hybrid,226,0.7038686022821345,Urban,0.6148093717677514,Short-Term,5.719488495335364,Basic,Medium,0.8,1141.03
+Plough,Combine Harvester Model 49,Brand A,11,Good,99,Hybrid,400,0.18196361343127387,Urban,0.7316189576165689,Short-Term,9.298655033840408,Basic,High,1.0,4422.46
+Sprayer,Seed Drill Model 14,Brand B,14,Good,90,Electric,190,0.2122331564587615,Suburban,0.881439470120589,Long-Term,5.5482654308850945,Basic,Medium,0.9,1568.03
+Harrow,Combine Harvester Model 7,Brand B,4,Good,169,Hybrid,287,0.39219888838908923,Urban,0.27207586943304296,Short-Term,5.689144080899825,Basic,Low,1.0,2698.48
+Cultivator,Seed Drill Model 3,Brand B,12,Good,191,Hybrid,375,0.7809475219820574,Rural,0.5393750167384215,Short-Term,7.745374418930117,Intermediate,High,1.1,2890.75
+Tractor,Plough Model 7,Brand D,14,Good,195,Hybrid,271,0.23289877714259477,Rural,0.024895325752956388,Short-Term,6.662693452350437,Advanced,Medium,1.3,1622.34
+Tractor,Mower Model 46,Brand D,9,Good,191,Electric,144,0.23742593169664472,Rural,0.5804584782194939,Long-Term,11.172958727600767,Basic,High,1.3,772.29
+Plough,Cultivator Model 7,Brand B,9,Poor,125,Electric,86,0.0003993702705126223,Suburban,0.8331588046217105,Short-Term,13.249823143698482,Intermediate,High,1.0,541.82
+Tractor,Plough Model 12,Brand D,12,Fair,31,Hybrid,447,0.3938574884157804,Rural,0.2683428924618405,Short-Term,5.737037910977472,Advanced,High,1.3,4624.39
+Manure Spreader,Combine Harvester Model 25,Brand A,14,Good,10,Hybrid,402,0.02983820761204581,Rural,0.4808914564523661,Long-Term,9.626273004500542,Intermediate,High,1.0,4158.02
+Tractor,Seed Drill Model 33,Brand A,3,Good,100,Hybrid,357,0.7814026315625391,Suburban,0.8295759493811404,Long-Term,14.008074963807859,Basic,Low,1.3,6246.7
+Seed Drill,Tractor Model 24,Brand C,12,Good,261,Diesel,325,0.05942267873924134,Rural,0.8489604030046177,Short-Term,9.442028471678288,Advanced,Medium,1.2,3412.38
+Harrow,Harrow Model 36,Brand C,13,Fair,38,Hybrid,428,0.0656038829333424,Suburban,0.5700657367285747,Long-Term,14.464658963746746,Basic,Low,1.0,2220.5
+Manure Spreader,Sprayer Model 7,Brand A,8,Good,89,Hybrid,338,0.48915831557103706,Urban,0.38219939964681093,Short-Term,11.757373862233253,Intermediate,High,1.0,3887.34
+Seed Drill,Combine Harvester Model 33,Brand C,14,Fair,186,Electric,387,0.7006378792852237,Suburban,0.8188731545649277,Short-Term,10.983890102670053,Intermediate,Medium,1.2,2459.35
+Harrow,Combine Harvester Model 49,Brand B,11,Good,245,Diesel,170,0.33618776054104116,Suburban,0.8749638105068421,Long-Term,13.90430285759934,Advanced,High,1.0,1134.57
+Tractor,Cultivator Model 12,Brand A,6,Fair,278,Hybrid,416,0.47806229830226954,Urban,0.02535416913730182,Short-Term,11.844091228447011,Intermediate,Medium,1.3,2664.75
+Mower,Seed Drill Model 37,Brand D,11,Good,141,Electric,124,0.477187714246494,Suburban,0.16062807836840975,Long-Term,9.337734949309617,Basic,Low,0.8,347.95
+Tractor,Combine Harvester Model 5,Brand B,12,Poor,217,Hybrid,484,0.08521135786516298,Suburban,0.7191044520486731,Short-Term,10.896527520828265,Intermediate,Medium,1.3,2699.22
+Mower,Tractor Model 34,Brand A,13,Good,102,Electric,357,0.6968070775579512,Urban,0.0721917290915639,Long-Term,6.773783164564076,Advanced,Medium,0.8,1978.64
+Cultivator,Mower Model 45,Brand A,5,Poor,14,Electric,399,0.46580995586892826,Suburban,0.9217601637212672,Short-Term,9.68028099250549,Advanced,High,1.1,8022.55
+Manure Spreader,Tractor Model 36,Brand A,2,Fair,144,Electric,448,0.6384856008321391,Rural,0.7151283278178175,Short-Term,7.0376742305193405,Basic,Low,1.0,5748.02
+Sprayer,Plough Model 8,Brand A,11,Good,89,Electric,290,0.7658151471852946,Suburban,0.8433577751232414,Short-Term,5.129628951722362,Intermediate,Medium,0.9,3794.38
+Tractor,Manure Spreader Model 49,Brand A,11,Good,261,Diesel,79,0.4208232309285095,Rural,0.5995167646450436,Short-Term,8.795660920912425,Basic,High,1.3,726.74
+Seed Drill,Sprayer Model 42,Brand A,3,Poor,95,Hybrid,416,0.09192966371800104,Rural,0.8367514713041245,Short-Term,9.535789278867217,Basic,Medium,1.2,5865.28
+Harrow,Seed Drill Model 49,Brand D,4,Good,203,Diesel,312,0.9404194255837789,Suburban,0.08643567367732952,Long-Term,5.690354016432925,Advanced,High,1.0,1860.95
+Mower,Tractor Model 50,Brand C,12,Fair,185,Electric,194,0.42906168103555054,Rural,0.19469617732581568,Long-Term,6.107917118244146,Basic,Medium,0.8,404.7
+Seed Drill,Plough Model 5,Brand B,5,Good,66,Electric,173,0.4218912650494755,Suburban,0.6652346891754902,Long-Term,9.814322264898177,Intermediate,Medium,1.2,2785.87
+Plough,Cultivator Model 32,Brand C,9,Good,284,Hybrid,139,0.9747813522123066,Rural,0.8632585869575548,Long-Term,12.399432621694373,Basic,Medium,1.0,732.3
+Tractor,Seed Drill Model 37,Brand A,8,Fair,199,Hybrid,81,0.5401700166731341,Suburban,0.5830576101386556,Short-Term,7.948665667019791,Basic,High,1.3,674.7
+Combine Harvester,Combine Harvester Model 13,Brand C,5,New,292,Electric,389,0.4445893688807595,Rural,0.5534558763480549,Short-Term,6.147268096622181,Basic,Low,1.2,5271.95
+Manure Spreader,Plough Model 33,Brand D,6,Good,158,Hybrid,286,0.4777408564631801,Rural,0.2398604948614398,Long-Term,12.522696891946904,Basic,Low,1.0,1299.26
+Harrow,Sprayer Model 21,Brand C,6,New,210,Hybrid,313,0.649053199527483,Rural,0.33068953431703285,Short-Term,5.62411695946126,Intermediate,Low,1.0,3139.0
+Combine Harvester,Manure Spreader Model 9,Brand A,7,New,20,Electric,83,0.5541783305352056,Rural,0.8483907827181181,Long-Term,11.201939534688137,Basic,Medium,1.2,1788.3
+Combine Harvester,Harrow Model 24,Brand D,1,Good,295,Electric,292,0.034996178150308865,Urban,0.7318606564355025,Short-Term,10.051770249509257,Basic,Medium,1.2,3731.86
+Plough,Mower Model 25,Brand B,3,Good,238,Diesel,335,0.10131566434106631,Urban,0.3122317496982422,Short-Term,7.184160326768394,Intermediate,Low,1.0,3438.64
+Combine Harvester,Cultivator Model 42,Brand C,7,Fair,166,Hybrid,411,0.26582456568109025,Suburban,0.5805239135508943,Short-Term,6.919000414676326,Basic,Low,1.2,3167.31
+Seed Drill,Tractor Model 30,Brand B,2,New,182,Electric,222,0.18413071948620352,Rural,0.6555711705176969,Long-Term,10.727052333244632,Intermediate,High,1.2,3203.62
+Harrow,Tractor Model 11,Brand C,14,Good,210,Diesel,116,0.660683138828423,Urban,0.30013438519357327,Long-Term,7.751608057508862,Basic,High,1.0,425.51
+Plough,Sprayer Model 49,Brand B,7,Fair,275,Hybrid,320,0.6825177095930351,Urban,0.12632035734109404,Long-Term,14.863703866038158,Intermediate,Medium,1.0,1036.39
+Manure Spreader,Mower Model 32,Brand A,13,Good,59,Diesel,259,0.5509369395521628,Rural,0.04457468672126075,Short-Term,6.334555827922283,Intermediate,Medium,1.0,2313.66
+Manure Spreader,Combine Harvester Model 10,Brand B,8,Good,222,Diesel,178,0.5733137867576982,Urban,0.00413695466880748,Long-Term,14.042813347918532,Basic,Medium,1.0,585.51
+Seed Drill,Tractor Model 3,Brand B,13,Fair,35,Electric,283,0.028294576262289595,Rural,0.9596011055083395,Long-Term,13.530998992823744,Intermediate,Low,1.2,2740.25
+Manure Spreader,Plough Model 34,Brand C,9,Good,161,Diesel,315,0.03731640629595523,Rural,0.4102253030384203,Short-Term,6.176480471488369,Intermediate,High,1.0,2328.39
+Cultivator,Manure Spreader Model 40,Brand B,13,Poor,241,Diesel,313,0.6688742366051752,Rural,0.5559855323666479,Long-Term,10.955209666535152,Advanced,Low,1.1,1183.54
+Cultivator,Combine Harvester Model 35,Brand B,9,Poor,106,Diesel,123,0.12428186004618691,Suburban,0.785161599395542,Short-Term,14.842724387738098,Basic,High,1.1,786.64
+Manure Spreader,Combine Harvester Model 17,Brand D,7,Fair,56,Hybrid,179,0.22792015820999134,Rural,0.13213015085189372,Short-Term,9.643332433289203,Basic,Medium,1.0,1091.65
+Sprayer,Seed Drill Model 49,Brand C,5,Good,272,Hybrid,136,0.3805851765166893,Suburban,0.25806648516404507,Short-Term,7.222195358882487,Advanced,Medium,0.9,1141.05
+Tractor,Manure Spreader Model 25,Brand D,2,Good,243,Diesel,355,0.6135046852021705,Suburban,0.17378782851091368,Short-Term,7.035314197634967,Intermediate,Medium,1.3,3681.19
+Sprayer,Tractor Model 44,Brand C,5,Good,184,Electric,232,0.0796667625126194,Rural,0.5260404989751707,Short-Term,10.648975955339749,Basic,Low,0.9,1698.31
+Tractor,Mower Model 11,Brand C,10,Good,266,Electric,494,0.08000125334224373,Rural,0.2589506657574303,Short-Term,6.421479829238006,Advanced,High,1.3,4054.58
+Plough,Seed Drill Model 2,Brand D,14,Fair,61,Electric,135,0.5282897201336029,Urban,0.5144969117530354,Short-Term,9.811696864865965,Basic,Low,1.0,830.71
+Mower,Seed Drill Model 24,Brand B,9,Poor,192,Diesel,343,0.19845861534321263,Urban,0.9270795944853155,Short-Term,9.054664445077565,Basic,High,0.8,1369.06
+Manure Spreader,Plough Model 29,Brand B,11,Good,125,Electric,145,0.27638330918511633,Urban,0.40659381656034466,Short-Term,5.0728328688854765,Advanced,Medium,1.0,1516.84
+Plough,Harrow Model 7,Brand C,1,Good,220,Hybrid,56,0.9661205971891881,Rural,0.5234452608057999,Long-Term,5.175971224226164,Intermediate,Low,1.0,527.87
+Harrow,Manure Spreader Model 37,Brand B,1,Good,199,Diesel,396,0.8633394832250955,Urban,0.369982373924414,Long-Term,7.625389306719539,Basic,High,1.0,3206.79
+Cultivator,Harrow Model 36,Brand C,14,Good,292,Electric,452,0.2444931624133483,Rural,0.4173164732728436,Long-Term,8.562670688884308,Intermediate,Low,1.1,2153.09
+Cultivator,Plough Model 12,Brand B,7,Good,236,Electric,455,0.8737399719622636,Suburban,0.989437270971653,Short-Term,10.66373875650427,Basic,High,1.1,5057.89
+Manure Spreader,Sprayer Model 44,Brand B,6,Good,243,Electric,426,0.8653888305930482,Suburban,0.6171512420348315,Short-Term,14.601445044000537,Advanced,High,1.0,4508.15
+Mower,Manure Spreader Model 35,Brand C,10,Good,281,Diesel,477,0.850533462870217,Suburban,0.6820955206182734,Short-Term,11.027219148551369,Intermediate,Low,0.8,2489.65
+Harrow,Combine Harvester Model 8,Brand D,11,Fair,22,Hybrid,169,0.4489137726869945,Urban,0.27220380507433084,Long-Term,13.76238105036246,Intermediate,Medium,1.0,749.14
+Combine Harvester,Cultivator Model 42,Brand B,2,Fair,54,Diesel,478,0.8650842980701577,Suburban,0.7840434601989383,Short-Term,11.233771814975931,Advanced,High,1.2,11820.44
+Sprayer,Seed Drill Model 14,Brand A,14,Good,80,Diesel,479,0.008744577421661348,Suburban,0.6163842999078025,Short-Term,9.967747873636952,Intermediate,Medium,0.9,5174.41
+Sprayer,Harrow Model 7,Brand D,14,Fair,230,Diesel,395,0.16832826971818238,Suburban,0.9250146683841436,Short-Term,11.74369649705989,Intermediate,Medium,0.9,1765.46
+Combine Harvester,Cultivator Model 10,Brand A,1,Good,125,Electric,395,0.014959459630930927,Urban,0.1822092969211574,Short-Term,10.014557387251248,Basic,Low,1.2,6046.89
+Harrow,Cultivator Model 47,Brand D,5,Poor,95,Diesel,103,0.7837961852632129,Rural,0.2154275048773543,Short-Term,8.832021892514868,Basic,High,1.0,537.34
+Combine Harvester,Tractor Model 29,Brand A,5,Fair,263,Diesel,437,0.9682474605664768,Rural,0.9367872919111279,Short-Term,9.501106962021128,Basic,High,1.2,4985.32
+Harrow,Seed Drill Model 11,Brand A,11,Good,187,Hybrid,211,0.4835729298300222,Rural,0.9621009320478577,Short-Term,13.306858375289073,Intermediate,High,1.0,1837.23
+Manure Spreader,Tractor Model 35,Brand C,1,New,61,Electric,414,0.08618472338074978,Rural,0.28360838420282175,Short-Term,10.425093897454234,Intermediate,High,1.0,8254.57
+Combine Harvester,Harrow Model 48,Brand B,12,New,78,Diesel,332,0.5053300877159979,Rural,0.16395137416419936,Short-Term,6.850155775765421,Basic,Low,1.2,3837.16
+Seed Drill,Seed Drill Model 13,Brand C,11,Poor,163,Electric,442,0.2991798367561792,Suburban,0.6745896497343119,Short-Term,9.829302294498222,Basic,High,1.2,2071.57
+Harrow,Sprayer Model 40,Brand B,6,New,276,Hybrid,375,0.6272365693778504,Suburban,0.4009787798285067,Short-Term,9.369909095378308,Intermediate,Medium,1.0,4055.34
+Sprayer,Manure Spreader Model 35,Brand D,8,Good,173,Electric,292,0.7783009986917011,Urban,0.3376963711842852,Short-Term,8.456443082267214,Intermediate,Medium,0.9,1630.59
+Manure Spreader,Mower Model 17,Brand A,10,Good,102,Hybrid,236,0.10042221693398412,Urban,0.6741024658404435,Short-Term,10.129908915209533,Intermediate,High,1.0,2698.57
+Cultivator,Mower Model 38,Brand D,14,Good,166,Diesel,148,0.09556869822107072,Rural,0.897984805710226,Short-Term,11.204882519105814,Basic,Medium,1.1,1065.34
+Cultivator,Mower Model 42,Brand B,4,Fair,89,Hybrid,477,0.43334186575599387,Rural,0.47921728134979436,Short-Term,13.149653005699857,Intermediate,Medium,1.1,5749.12
+Mower,Tractor Model 31,Brand A,9,Fair,138,Electric,294,0.6448640051948754,Rural,0.7309211036545569,Short-Term,8.583561443514581,Intermediate,Low,0.8,2041.46
+Manure Spreader,Plough Model 38,Brand B,6,Good,114,Hybrid,192,0.8419734997761578,Urban,0.8394479937333865,Short-Term,10.414471735422678,Basic,High,1.0,2670.59
+Harrow,Cultivator Model 18,Brand C,7,Good,219,Hybrid,372,0.5832513142278427,Urban,0.17069587485736482,Long-Term,11.373912826187755,Advanced,Low,1.0,1932.58
+Combine Harvester,Cultivator Model 23,Brand A,5,Poor,40,Hybrid,185,0.7812491530071023,Rural,0.9581825331349141,Short-Term,9.823214068638013,Intermediate,Low,1.2,3230.31
+Harrow,Harrow Model 21,Brand C,12,Good,281,Diesel,479,0.4552312255079741,Urban,0.34684284576589763,Long-Term,6.381925895631487,Basic,Medium,1.0,1867.92
+Mower,Manure Spreader Model 25,Brand C,1,Fair,103,Electric,278,0.04263826886774669,Rural,0.5783209120845523,Short-Term,12.377044591836565,Intermediate,Medium,0.8,2708.48
+Harrow,Tractor Model 3,Brand A,4,Good,167,Electric,98,0.6737678942872662,Rural,0.68346923999352,Short-Term,8.157910479648244,Advanced,Low,1.0,1667.6
+Combine Harvester,Tractor Model 44,Brand B,10,New,166,Electric,75,0.8096535958951947,Suburban,0.04078392724056856,Short-Term,8.524675387920484,Advanced,Low,1.2,676.66
+Plough,Harrow Model 34,Brand D,4,Good,95,Diesel,64,0.7803517919480589,Suburban,0.49502888577311766,Short-Term,11.35187017939133,Intermediate,Low,1.0,785.39
+Sprayer,Seed Drill Model 30,Brand C,12,Fair,217,Diesel,137,0.3063037900965586,Urban,0.514021059165197,Short-Term,14.378284641341848,Intermediate,Low,0.9,505.89
+Combine Harvester,Harrow Model 18,Brand A,14,Good,282,Hybrid,276,0.8921847394740479,Rural,0.551165575518504,Short-Term,9.089727554498417,Basic,Low,1.2,2259.79
+Combine Harvester,Tractor Model 41,Brand C,4,New,250,Diesel,321,0.14109545093737108,Urban,0.5532917404067642,Short-Term,9.0526689013684,Intermediate,High,1.2,4828.54
+Combine Harvester,Mower Model 2,Brand C,9,New,64,Diesel,421,0.11900472703397658,Suburban,0.8944423167701668,Short-Term,12.049400506472288,Intermediate,High,1.2,8242.71
+Sprayer,Plough Model 15,Brand B,4,Poor,252,Hybrid,480,0.845987230072966,Urban,0.7376298970408426,Short-Term,8.444863690750775,Basic,Medium,0.9,2860.72
+Combine Harvester,Combine Harvester Model 1,Brand C,1,Good,213,Electric,351,0.7992964963147091,Urban,0.8344854090473814,Short-Term,10.571405611522735,Basic,Medium,1.2,5224.77
+Harrow,Manure Spreader Model 28,Brand C,6,Good,281,Diesel,390,0.913984141451139,Urban,0.7440484704059641,Short-Term,7.55136430839189,Intermediate,High,1.0,3955.58
+Tractor,Combine Harvester Model 36,Brand B,5,Good,198,Diesel,56,0.3359149587868474,Urban,0.1555618571501225,Short-Term,12.804984476339785,Intermediate,Medium,1.3,518.84
+Sprayer,Manure Spreader Model 27,Brand A,6,Good,59,Diesel,55,0.6778765326709071,Urban,0.7227304508465899,Long-Term,5.634069398796098,Intermediate,Low,0.9,775.72
+Plough,Plough Model 14,Brand C,4,Good,129,Diesel,458,0.39333470897135836,Urban,0.7823330041193295,Long-Term,9.004574185682198,Intermediate,Low,1.0,5116.12
+Harrow,Manure Spreader Model 34,Brand B,6,Fair,229,Hybrid,64,0.7958387547471457,Rural,0.9603698474596312,Short-Term,14.216218136562862,Intermediate,Medium,1.0,525.46
+Combine Harvester,Mower Model 7,Brand C,8,Good,111,Hybrid,418,0.8255015671756255,Urban,0.6856449368953933,Short-Term,6.777054760401762,Intermediate,High,1.2,5952.51
+Cultivator,Cultivator Model 5,Brand A,1,Poor,161,Hybrid,275,0.7356640905422466,Urban,0.7170169390164117,Long-Term,9.667481215586918,Intermediate,Low,1.1,2308.63
+Plough,Manure Spreader Model 43,Brand D,4,Fair,43,Hybrid,154,0.6957341288736006,Suburban,0.9257984888690478,Long-Term,9.329363785522448,Basic,High,1.0,1546.32
+Seed Drill,Manure Spreader Model 19,Brand A,9,Poor,297,Electric,68,0.26926155520564465,Urban,0.8161495085142181,Long-Term,14.173664301130477,Basic,Low,1.2,282.38
+Sprayer,Tractor Model 20,Brand B,6,Poor,59,Hybrid,227,0.7862870358565445,Suburban,0.7672334269795188,Long-Term,13.976689624713995,Advanced,Medium,0.9,1757.01
+Tractor,Plough Model 12,Brand D,11,Good,291,Diesel,121,0.08659201350175849,Urban,0.11073986699564031,Short-Term,6.885016081878338,Basic,Low,1.3,601.36
+Mower,Seed Drill Model 46,Brand A,5,Good,72,Diesel,105,0.48494568581225606,Rural,0.7079877305390757,Short-Term,8.165627629047789,Intermediate,Low,0.8,1702.1
+Seed Drill,Manure Spreader Model 11,Brand A,11,Good,164,Diesel,128,0.6117260738918212,Urban,0.8243548383148176,Long-Term,7.482766680619899,Intermediate,Low,1.2,1155.32
+Cultivator,Cultivator Model 3,Brand A,4,Fair,84,Diesel,243,0.9808976522408542,Urban,0.5994075002028371,Short-Term,6.650096909495873,Basic,Medium,1.1,3641.08
+Tractor,Sprayer Model 27,Brand D,5,Fair,174,Electric,157,0.20433963246606157,Suburban,0.31906295235996285,Short-Term,13.621112815538494,Basic,High,1.3,952.64
+Sprayer,Harrow Model 40,Brand D,7,Good,115,Hybrid,113,0.01942134664859385,Suburban,0.3596042201393278,Long-Term,13.233464755928617,Intermediate,High,0.9,615.63
+Mower,Combine Harvester Model 4,Brand C,2,Fair,230,Hybrid,232,0.9551025734508951,Urban,0.13786529610860576,Short-Term,8.45558651588757,Intermediate,Low,0.8,1163.88
+Harrow,Sprayer Model 29,Brand B,8,Good,52,Diesel,422,0.23863798454203344,Urban,0.16316147290952132,Short-Term,11.50835137817731,Intermediate,High,1.0,4267.76
+Cultivator,Tractor Model 8,Brand D,1,Good,120,Diesel,381,0.47365420225628585,Rural,0.5356635584138257,Short-Term,10.94947932378381,Intermediate,Medium,1.1,5739.6
+Plough,Seed Drill Model 18,Brand A,2,Good,59,Diesel,197,0.5188552993597446,Suburban,0.5583602042801135,Short-Term,12.998059239671719,Intermediate,Low,1.0,4138.92
+Harrow,Sprayer Model 18,Brand B,11,New,214,Diesel,95,0.6032289513399379,Rural,0.9087796470590727,Short-Term,5.38291936635888,Intermediate,Medium,1.0,1078.54
+Harrow,Mower Model 43,Brand C,3,Good,269,Electric,205,0.1296176508214748,Suburban,0.703054118899969,Long-Term,12.38426012595878,Basic,Low,1.0,1526.07
+Manure Spreader,Sprayer Model 47,Brand A,8,Good,286,Electric,252,0.6641129706774621,Rural,0.8734629571163183,Long-Term,10.566277613427648,Intermediate,Medium,1.0,1996.26
+Manure Spreader,Manure Spreader Model 37,Brand B,4,Poor,204,Diesel,287,0.8793066218899052,Rural,0.0376786174792747,Short-Term,10.695953014453513,Advanced,High,1.0,1411.02
+Tractor,Tractor Model 18,Brand C,7,Poor,250,Electric,409,0.3042786425307171,Urban,0.8678662010919659,Long-Term,14.248585518451623,Advanced,Medium,1.3,2418.88
+Sprayer,Mower Model 2,Brand B,1,Fair,169,Diesel,480,0.961506367625965,Suburban,0.9148863323558439,Long-Term,12.646492162249617,Basic,Medium,0.9,3561.01
+Cultivator,Mower Model 39,Brand A,8,Good,233,Electric,377,0.6468952287564481,Rural,0.8051543990505089,Short-Term,14.379601835593643,Intermediate,Low,1.1,3894.89
+Cultivator,Manure Spreader Model 47,Brand A,3,Fair,86,Hybrid,496,0.13144167966055786,Suburban,0.5174827631133273,Short-Term,10.410044719990662,Intermediate,High,1.1,7605.89
+Harrow,Combine Harvester Model 2,Brand B,1,Good,60,Electric,297,0.38616394214682304,Rural,0.24417889555744865,Short-Term,14.572724384622843,Advanced,High,1.0,5488.01
+Combine Harvester,Seed Drill Model 16,Brand A,9,Fair,284,Hybrid,205,0.04233879031708354,Urban,0.3148353971546397,Short-Term,10.61121685303345,Advanced,Low,1.2,1480.29
+Cultivator,Harrow Model 32,Brand C,11,Good,38,Hybrid,397,0.16956190123394133,Urban,0.7525159686910343,Short-Term,9.439797647032043,Intermediate,High,1.1,5491.16
+Cultivator,Tractor Model 20,Brand C,7,New,108,Electric,254,0.845297735904924,Rural,0.49028726235143005,Short-Term,12.84073240969245,Intermediate,High,1.1,3558.87
+Tractor,Tractor Model 6,Brand B,10,Good,40,Hybrid,414,0.5161581211554551,Urban,0.18523049508976264,Long-Term,14.612571377693971,Basic,Medium,1.3,3062.59
+Mower,Manure Spreader Model 41,Brand D,3,Good,197,Diesel,451,0.48291836537689636,Rural,0.8564842557278478,Long-Term,10.126517010599738,Basic,Medium,0.8,2760.02
+Harrow,Mower Model 37,Brand D,13,Fair,209,Diesel,444,0.9874459846856996,Suburban,0.6314837664497692,Long-Term,11.493691584071989,Intermediate,Low,1.0,1408.82
+Manure Spreader,Combine Harvester Model 12,Brand B,14,Poor,73,Electric,390,0.25600526911904875,Suburban,0.22262215051404421,Long-Term,10.364980845539051,Basic,Medium,1.0,1312.1
+Harrow,Tractor Model 22,Brand D,12,Poor,247,Hybrid,126,0.40381989791487405,Urban,0.5294832669852059,Short-Term,12.081766431037494,Intermediate,Medium,1.0,383.97
+Cultivator,Cultivator Model 45,Brand C,3,New,38,Electric,452,0.4388392917653047,Urban,0.7066212863203555,Short-Term,12.099044917415172,Intermediate,Low,1.1,12256.92
+Harrow,Seed Drill Model 31,Brand A,14,Good,262,Diesel,467,0.7173945064720224,Urban,0.44229203883299717,Short-Term,13.600484046011903,Advanced,High,1.0,3510.27
+Manure Spreader,Mower Model 17,Brand B,2,Fair,53,Diesel,166,0.7705502151275815,Suburban,0.0594563505035286,Short-Term,5.591222913844376,Intermediate,Low,1.0,1923.99
+Harrow,Manure Spreader Model 3,Brand D,7,Fair,257,Diesel,395,0.7859627171207014,Urban,0.32846609732057275,Short-Term,6.407939469490836,Basic,High,1.0,1776.76
+Harrow,Cultivator Model 19,Brand A,8,Good,92,Hybrid,380,0.9625121009524613,Suburban,0.6624683838630804,Long-Term,6.926997202021251,Advanced,Low,1.0,5070.02
+Manure Spreader,Combine Harvester Model 40,Brand B,11,Good,160,Hybrid,172,0.7121475570474929,Suburban,0.48874241948248165,Short-Term,14.791518569569167,Basic,Medium,1.0,1029.87
+Mower,Plough Model 43,Brand C,12,Good,257,Diesel,137,0.36646541375583697,Rural,0.8516562522727961,Long-Term,9.577106227797012,Intermediate,Medium,0.8,607.83
+Seed Drill,Cultivator Model 3,Brand C,1,Fair,297,Diesel,483,0.4864293817119236,Rural,0.45308980975076296,Short-Term,10.257288635394186,Basic,Medium,1.2,4298.31
+Combine Harvester,Plough Model 23,Brand C,2,Good,214,Hybrid,383,0.5403914690663115,Urban,0.6366942116641452,Short-Term,8.319347901854847,Advanced,Low,1.2,6549.74
+Seed Drill,Mower Model 16,Brand D,7,New,288,Diesel,237,0.9286211709318304,Suburban,0.3313163306588268,Short-Term,7.267004056883812,Advanced,Low,1.2,2733.16
+Sprayer,Harrow Model 49,Brand A,9,New,139,Electric,297,0.7216815476065638,Rural,0.712241912591272,Long-Term,11.740991983099688,Intermediate,Medium,0.9,2680.76
+Plough,Seed Drill Model 33,Brand D,6,Good,292,Hybrid,444,0.8421785589320351,Suburban,0.30240095501922015,Short-Term,11.76290901665185,Basic,Low,1.0,2530.53
+Harrow,Combine Harvester Model 48,Brand A,14,Fair,169,Hybrid,171,0.6626975591237307,Urban,0.76207616875032,Short-Term,12.778514414701672,Basic,Low,1.0,990.21
+Tractor,Plough Model 10,Brand A,8,Good,228,Electric,138,0.35769942654111964,Urban,0.10447988272620257,Short-Term,6.680322963482777,Intermediate,Medium,1.3,1204.91
+Manure Spreader,Mower Model 37,Brand C,4,Fair,45,Hybrid,281,0.9941065120304291,Urban,0.32070825144599413,Short-Term,5.804710427195915,Advanced,High,1.0,3961.13
+Mower,Combine Harvester Model 49,Brand D,1,Good,164,Diesel,160,0.4876801973638807,Urban,0.28681516750723524,Short-Term,8.545103934891985,Intermediate,Low,0.8,1264.18
+Tractor,Seed Drill Model 4,Brand B,9,Good,232,Hybrid,340,0.907771101178843,Suburban,0.32590028654031244,Short-Term,5.883042383957085,Basic,High,1.3,2763.02
+Harrow,Manure Spreader Model 25,Brand B,6,Good,229,Diesel,130,0.8669309778958508,Rural,0.9866410291309056,Short-Term,13.328817607302593,Basic,High,1.0,1336.49
+Plough,Tractor Model 11,Brand A,5,Fair,123,Electric,55,0.4370354606865715,Urban,0.4432710038605766,Short-Term,13.740928569645742,Advanced,Low,1.0,615.28
+Combine Harvester,Plough Model 25,Brand C,7,Poor,15,Hybrid,137,0.7905844793135934,Rural,0.31058659959547896,Long-Term,6.348439762363612,Advanced,Low,1.2,1180.19
+Combine Harvester,Cultivator Model 46,Brand A,4,Poor,111,Diesel,493,0.7033094153420398,Rural,0.21122678056853628,Short-Term,11.74161299843962,Basic,Medium,1.2,3881.04
+Manure Spreader,Sprayer Model 25,Brand B,8,Poor,44,Electric,332,0.6794316922531918,Suburban,0.14152962943877556,Short-Term,12.480353073506354,Basic,High,1.0,1756.16
+Tractor,Combine Harvester Model 10,Brand A,5,Fair,145,Hybrid,73,0.9615412163909602,Suburban,0.9969132801824749,Short-Term,14.094390023232483,Basic,Low,1.3,1019.34
+Harrow,Tractor Model 42,Brand C,5,Good,178,Diesel,191,0.3721521537124708,Urban,0.037869943138990614,Long-Term,5.2299514705728045,Basic,High,1.0,901.12
+Sprayer,Plough Model 13,Brand D,6,Fair,180,Electric,455,0.9874794620793886,Suburban,0.26267683455967805,Short-Term,5.562698303141589,Advanced,Low,0.9,2523.82
+Harrow,Seed Drill Model 26,Brand C,10,Good,155,Electric,110,0.40247680654564366,Rural,0.5767635859153708,Short-Term,13.831853482106965,Advanced,Medium,1.0,862.45
+Sprayer,Manure Spreader Model 34,Brand D,12,Fair,181,Diesel,56,0.9456381644640183,Rural,0.1554770007749503,Short-Term,6.329548542435718,Advanced,High,0.9,199.1
+Mower,Seed Drill Model 27,Brand C,7,Fair,278,Diesel,307,0.33545779508688167,Rural,0.16910852985786118,Short-Term,5.921717046824884,Basic,Medium,0.8,1090.04
+Seed Drill,Seed Drill Model 42,Brand C,12,Good,181,Electric,303,0.7632039842907868,Urban,0.9795112370052612,Long-Term,8.98535837724115,Basic,Medium,1.2,1999.06
+Combine Harvester,Sprayer Model 19,Brand A,5,Good,156,Diesel,318,0.19653199387942089,Suburban,0.13828918683663893,Short-Term,7.703107526383616,Advanced,High,1.2,4382.97
+Manure Spreader,Mower Model 25,Brand C,2,Fair,230,Hybrid,72,0.026955642645216105,Urban,0.15473350043612,Short-Term,8.446824116590967,Advanced,High,1.0,541.6
+Sprayer,Plough Model 45,Brand B,7,Good,108,Diesel,472,0.29995020942751904,Urban,0.8599734149780816,Long-Term,13.893482474456505,Intermediate,Medium,0.9,4357.59
+Plough,Sprayer Model 36,Brand D,6,Good,234,Diesel,478,0.6082426629308902,Rural,0.9588248873932217,Short-Term,6.793981115382835,Intermediate,High,1.0,4971.41
+Combine Harvester,Plough Model 3,Brand C,12,New,280,Diesel,176,0.28263902336355506,Rural,0.5584725296054153,Long-Term,12.36997740380639,Intermediate,High,1.2,1164.05
+Combine Harvester,Tractor Model 26,Brand C,3,Good,134,Diesel,197,0.6508213593585759,Suburban,0.77643031764322,Short-Term,13.102767799786042,Basic,Low,1.2,3051.22
+Cultivator,Combine Harvester Model 12,Brand C,5,Fair,14,Hybrid,358,0.037014437186507654,Rural,0.980464134521446,Long-Term,9.17459873505129,Advanced,High,1.1,6020.84
+Plough,Seed Drill Model 33,Brand D,3,Good,95,Hybrid,466,0.4983203602842484,Rural,0.07561737900658738,Short-Term,8.277355814837161,Advanced,Medium,1.0,5492.79
+Tractor,Plough Model 34,Brand D,4,Fair,36,Electric,138,0.9831407139943683,Rural,0.45180601019670175,Long-Term,13.69741346532867,Intermediate,High,1.3,1394.7
+Combine Harvester,Harrow Model 1,Brand B,10,Good,169,Electric,339,0.542857815757336,Suburban,0.6735472646724506,Short-Term,10.876229000639814,Advanced,Low,1.2,3698.05
+Manure Spreader,Combine Harvester Model 8,Brand C,3,Good,264,Diesel,63,0.7706636732649776,Urban,0.748819101690178,Long-Term,13.331545592561687,Basic,Low,1.0,472.01
+Sprayer,Harrow Model 34,Brand B,1,Fair,151,Diesel,258,0.7346034376050428,Urban,0.8689963182051345,Short-Term,12.218628251291697,Intermediate,Low,0.9,3018.65
+Seed Drill,Harrow Model 7,Brand C,11,New,146,Diesel,318,0.5325884186175294,Urban,0.4325259376545013,Short-Term,5.084964085011968,Basic,Medium,1.2,3242.1
+Sprayer,Manure Spreader Model 22,Brand C,14,Good,225,Electric,456,0.1127104726628182,Urban,0.4626928716420807,Short-Term,9.786256400644493,Advanced,Low,0.9,2821.36
+Seed Drill,Combine Harvester Model 47,Brand A,9,Fair,215,Diesel,223,0.05557366725202317,Suburban,0.5999380591307163,Short-Term,11.151085016801503,Intermediate,Low,1.2,1639.85
+Seed Drill,Manure Spreader Model 9,Brand A,7,Fair,35,Hybrid,327,0.5258455470101359,Suburban,0.7576910311755196,Long-Term,12.69463051340545,Basic,High,1.2,3727.46
+Mower,Mower Model 19,Brand D,1,Good,234,Diesel,460,0.6799095328248911,Suburban,0.10028265589283791,Short-Term,11.350181349298541,Basic,High,0.8,2425.28
+Manure Spreader,Sprayer Model 5,Brand C,8,Good,273,Electric,88,0.8151280387139109,Rural,0.010238231285741528,Long-Term,12.389000411508913,Intermediate,Medium,1.0,301.7
+Cultivator,Harrow Model 16,Brand C,7,Good,164,Electric,273,0.5953420285066205,Urban,0.6044730161591999,Long-Term,11.18386771519336,Intermediate,Medium,1.1,2000.39
+Harrow,Manure Spreader Model 29,Brand C,10,Poor,69,Diesel,192,0.25558448816121826,Rural,0.5082893878968637,Short-Term,7.0124368899698455,Advanced,Low,1.0,1358.88
+Plough,Plough Model 49,Brand C,2,Good,12,Hybrid,429,0.8083927158448199,Suburban,0.12175989336373816,Short-Term,11.031382280107474,Basic,Medium,1.0,5907.34
+Mower,Seed Drill Model 26,Brand D,14,Fair,208,Electric,305,0.9768467549267063,Urban,0.36696752548156464,Short-Term,5.965910032763345,Basic,Medium,0.8,875.9
+Manure Spreader,Manure Spreader Model 39,Brand B,4,New,223,Hybrid,399,0.6280762391678,Suburban,0.1698862068515391,Short-Term,10.398132161491812,Advanced,High,1.0,4767.75
+Mower,Mower Model 49,Brand A,4,Poor,143,Hybrid,52,0.35671109638527165,Urban,0.1475601939218778,Short-Term,12.642682583762868,Basic,High,0.8,221.77
+Sprayer,Combine Harvester Model 6,Brand B,10,Poor,86,Diesel,383,0.7886502098821633,Suburban,0.3876435976083338,Short-Term,12.494724071470038,Intermediate,Medium,0.9,1765.38
+Manure Spreader,Manure Spreader Model 15,Brand B,8,Good,78,Hybrid,414,0.8375459364452724,Urban,0.2176642255765422,Short-Term,8.421705973711656,Basic,High,1.0,3886.16
+Sprayer,Mower Model 48,Brand D,9,Fair,263,Diesel,137,0.7057417053127394,Suburban,0.017118456471219345,Short-Term,11.86672148636272,Advanced,Medium,0.9,419.52
+Manure Spreader,Harrow Model 7,Brand B,9,Poor,70,Hybrid,278,0.4909766955867937,Rural,0.18650275237858538,Long-Term,13.51004526852081,Intermediate,High,1.0,1039.25
+Harrow,Combine Harvester Model 17,Brand D,10,Good,197,Diesel,485,0.24349739211693489,Urban,0.06946113870299497,Long-Term,13.907977462638335,Intermediate,High,1.0,1278.09
+Cultivator,Sprayer Model 41,Brand A,11,Good,74,Hybrid,185,0.37846839695503975,Rural,0.8291554532499443,Long-Term,5.040363124844283,Basic,Low,1.1,2113.8
+Harrow,Cultivator Model 16,Brand C,7,Good,249,Diesel,183,0.41842238817313215,Rural,0.6704702024555943,Short-Term,5.904709613206716,Intermediate,Low,1.0,1702.62
+Harrow,Manure Spreader Model 11,Brand A,13,Fair,278,Hybrid,237,0.45017894636207845,Rural,0.06558093655280084,Short-Term,5.2593948388394,Basic,Medium,1.0,895.82
+Tractor,Seed Drill Model 14,Brand C,6,Good,59,Electric,228,0.6592995890914948,Suburban,0.5346914266875005,Short-Term,12.271829485060483,Basic,Low,1.3,3669.38
+Manure Spreader,Plough Model 36,Brand B,6,Good,94,Electric,462,0.11288740500598138,Rural,0.9381510604954616,Long-Term,5.9546258017733,Advanced,High,1.0,7768.77
+Manure Spreader,Sprayer Model 29,Brand A,13,Good,71,Electric,300,0.856339892013836,Urban,0.35099926151266014,Long-Term,13.681655113728553,Intermediate,Medium,1.0,2155.67
+Mower,Harrow Model 8,Brand A,7,Good,83,Diesel,150,0.39944202484245717,Rural,0.8950269821704805,Short-Term,11.863807269717752,Intermediate,Low,0.8,2089.8
+Plough,Sprayer Model 2,Brand A,4,New,152,Hybrid,86,0.36564900900737185,Suburban,0.5340537134115091,Long-Term,10.676718326542419,Advanced,High,1.0,1279.55
+Manure Spreader,Mower Model 11,Brand B,2,Good,98,Electric,188,0.8506733387357811,Suburban,0.4082831960258041,Short-Term,14.163155859710903,Basic,Low,1.0,2531.1
+Plough,Harrow Model 15,Brand D,5,Good,99,Diesel,398,0.1260290491182562,Urban,0.017743190733609415,Short-Term,11.736310106938868,Advanced,Medium,1.0,3600.56
+Sprayer,Sprayer Model 49,Brand D,13,Good,141,Hybrid,295,0.6795482779568672,Urban,0.7699467896029033,Long-Term,6.281729954372903,Advanced,Low,0.9,1957.54
+Combine Harvester,Cultivator Model 15,Brand B,9,Good,133,Diesel,497,0.9929647118110883,Suburban,0.08901751865979857,Short-Term,11.512371689595025,Intermediate,Medium,1.2,3836.53
+Tractor,Sprayer Model 19,Brand C,6,Fair,220,Hybrid,307,0.42105206754615776,Suburban,0.6698167516606877,Long-Term,12.059679634776133,Advanced,Low,1.3,2354.93
+Combine Harvester,Sprayer Model 21,Brand D,8,Good,287,Hybrid,240,0.5979496391638127,Rural,0.2835023792253778,Short-Term,14.12332856598303,Basic,Low,1.2,1318.67
+Manure Spreader,Sprayer Model 48,Brand B,14,Good,219,Hybrid,292,0.7676866842777591,Suburban,0.5803199194934893,Short-Term,6.863869662241019,Intermediate,Medium,1.0,2136.17
+Plough,Cultivator Model 5,Brand D,6,Poor,194,Diesel,425,0.9014211906993259,Urban,0.028340649558169284,Long-Term,9.650068225848571,Advanced,High,1.0,1135.4
+Harrow,Plough Model 2,Brand A,12,Fair,157,Diesel,403,0.32989280194777293,Rural,0.2871034036600948,Short-Term,11.327691077839823,Basic,High,1.0,1864.56
+Sprayer,Plough Model 37,Brand C,13,Poor,271,Electric,265,0.6152588110114436,Suburban,0.8381479854366974,Short-Term,10.974399860833923,Advanced,Medium,0.9,1173.5
+Sprayer,Manure Spreader Model 40,Brand D,3,Fair,47,Electric,270,0.7896748962890702,Suburban,0.27321202310745774,Short-Term,13.73653870659628,Intermediate,Low,0.9,2266.66
+Cultivator,Mower Model 41,Brand B,11,Fair,225,Electric,221,0.36773894043680655,Rural,0.3020949907910474,Long-Term,10.945641094526263,Intermediate,Medium,1.1,760.93
+Combine Harvester,Manure Spreader Model 38,Brand C,1,Poor,38,Electric,316,0.054331266094675534,Urban,0.43461327896237956,Short-Term,7.559960528534729,Advanced,Medium,1.2,5302.7
+Sprayer,Sprayer Model 32,Brand C,8,Fair,63,Electric,108,0.3384341847159299,Suburban,0.6482812490413915,Short-Term,6.2849044309285516,Basic,Medium,0.9,922.81
+Manure Spreader,Plough Model 41,Brand A,13,Good,238,Electric,473,0.5028824467323979,Rural,0.397512992309331,Short-Term,8.067980430656034,Basic,Low,1.0,2965.96
+Cultivator,Combine Harvester Model 38,Brand D,13,Good,208,Diesel,95,0.6497645218995642,Suburban,0.3682269686946228,Short-Term,11.737176002305635,Basic,Medium,1.1,447.16
+Combine Harvester,Tractor Model 15,Brand A,2,Good,214,Hybrid,137,0.06276035189686402,Suburban,0.7085410493873091,Short-Term,6.442320511193872,Advanced,High,1.2,3041.44
+Plough,Mower Model 46,Brand C,6,Good,215,Hybrid,356,0.23671270036789338,Urban,0.3975069617332947,Short-Term,11.087148222582941,Advanced,High,1.0,3188.83
+Plough,Plough Model 46,Brand C,6,Good,24,Electric,310,0.6852710828185261,Rural,0.9736688430529813,Short-Term,12.297428898335834,Advanced,High,1.0,7146.17
+Tractor,Tractor Model 14,Brand D,4,New,124,Electric,354,0.261406568114678,Rural,0.9581421678946556,Short-Term,9.197462664032415,Basic,High,1.3,7834.94
+Mower,Combine Harvester Model 23,Brand B,12,Fair,211,Electric,69,0.665483820099842,Urban,0.07839872471686815,Short-Term,6.906598575633302,Intermediate,Medium,0.8,206.51
+Plough,Plough Model 37,Brand A,14,Fair,285,Diesel,148,0.01933342131681537,Rural,0.9609150728523388,Long-Term,9.697446969677765,Advanced,Low,1.0,922.34
+Sprayer,Harrow Model 3,Brand A,8,Good,99,Electric,193,0.025205983654366104,Suburban,0.008572967628039718,Short-Term,6.589439216586809,Basic,High,0.9,1414.0
+Sprayer,Combine Harvester Model 33,Brand C,5,Good,37,Diesel,213,0.7340085028796378,Rural,0.11271414005473401,Long-Term,7.405375452425146,Basic,Low,0.9,1633.21
+Mower,Combine Harvester Model 37,Brand B,9,Fair,284,Hybrid,277,0.5686205152098289,Urban,0.49983608735212215,Long-Term,14.962848341006003,Basic,Low,0.8,733.54
+Tractor,Tractor Model 35,Brand D,6,Poor,17,Diesel,379,0.6631733339419074,Suburban,0.10173160388554292,Short-Term,7.677386890272167,Basic,High,1.3,2866.05
+Combine Harvester,Seed Drill Model 26,Brand B,11,Good,146,Diesel,125,0.8760581485627742,Urban,0.05764488383442179,Long-Term,9.640297764708025,Advanced,Medium,1.2,740.33
+Combine Harvester,Manure Spreader Model 14,Brand C,3,Good,216,Electric,243,0.45936243257735376,Urban,0.30683882641128835,Short-Term,12.27388384324216,Basic,High,1.2,2226.11
+Mower,Cultivator Model 48,Brand A,12,Good,51,Diesel,386,0.10760395111920218,Rural,0.7179928261805564,Long-Term,7.961506150548462,Intermediate,Medium,0.8,3385.77
+Seed Drill,Mower Model 45,Brand C,6,Fair,233,Diesel,411,0.3390516860609688,Urban,0.1606130151957469,Short-Term,13.299867452968973,Intermediate,High,1.2,2223.02
+Sprayer,Plough Model 30,Brand D,1,Fair,237,Hybrid,474,0.4398181092064798,Suburban,0.6193855885558253,Short-Term,11.736716239683096,Basic,Medium,0.9,3078.77
+Cultivator,Plough Model 4,Brand D,6,Poor,12,Electric,185,0.8692515915377989,Suburban,0.6929194832617611,Short-Term,11.836978641290559,Intermediate,Medium,1.1,1868.27
+Harrow,Seed Drill Model 17,Brand D,5,Fair,262,Diesel,477,0.41832164043449627,Urban,0.2748280085689949,Short-Term,12.023675739783144,Basic,High,1.0,2126.79
+Mower,Manure Spreader Model 2,Brand B,13,Fair,49,Hybrid,130,0.2096292037310028,Rural,0.15281608583756112,Long-Term,11.132031459406992,Intermediate,High,0.8,497.14
+Plough,Manure Spreader Model 35,Brand D,12,Good,23,Diesel,110,0.8994801192105149,Urban,0.5041545791903227,Long-Term,9.771052429420589,Advanced,Low,1.0,983.97
+Tractor,Seed Drill Model 26,Brand A,6,Fair,102,Diesel,99,0.27332452784004224,Rural,0.22171590941666441,Short-Term,10.860947856664957,Basic,Low,1.3,1010.12
+Tractor,Plough Model 25,Brand C,3,Good,11,Hybrid,256,0.30597463922123225,Urban,0.1879065826381794,Short-Term,12.069054538662828,Basic,High,1.3,4498.87
+Harrow,Cultivator Model 33,Brand D,6,New,171,Hybrid,493,0.6252903603665586,Suburban,0.0050027285197769,Long-Term,13.452264068804178,Intermediate,Medium,1.0,2293.6
+Sprayer,Plough Model 41,Brand D,14,Good,45,Electric,274,0.7241067573978409,Suburban,0.9785464236744696,Short-Term,5.7695409796860675,Intermediate,Medium,0.9,3307.02
+Manure Spreader,Seed Drill Model 14,Brand D,13,Fair,98,Diesel,308,0.08754856273752676,Urban,0.09508900529261921,Long-Term,8.770065497306321,Advanced,High,1.0,1197.88
+Tractor,Combine Harvester Model 43,Brand C,13,Poor,52,Diesel,318,0.6128878641933885,Suburban,0.5851684117192618,Short-Term,9.793942474934532,Basic,High,1.3,2369.91
+Combine Harvester,Combine Harvester Model 34,Brand D,9,Good,228,Electric,53,0.0626849157299656,Suburban,0.8333994324099505,Short-Term,5.754562461501896,Basic,High,1.2,450.86
+Cultivator,Cultivator Model 8,Brand A,3,Good,226,Electric,289,0.019514150046867407,Suburban,0.4545669717949926,Long-Term,7.233448513581349,Basic,High,1.1,2687.86
+Harrow,Mower Model 30,Brand D,1,Good,273,Electric,340,0.8171457903190832,Urban,0.2154918706133695,Short-Term,9.052136534202251,Intermediate,High,1.0,2851.53
+Seed Drill,Sprayer Model 24,Brand A,10,Poor,251,Diesel,133,0.3245866907534529,Suburban,0.8589780806234387,Long-Term,9.382498312238344,Intermediate,Medium,1.2,624.44
+Manure Spreader,Combine Harvester Model 10,Brand D,13,Poor,150,Hybrid,332,0.7223716518170195,Urban,0.749830901533267,Short-Term,12.626856116772228,Intermediate,High,1.0,1348.11
+Mower,Harrow Model 45,Brand D,8,Good,103,Hybrid,228,0.7621905738467498,Urban,0.2305744308815959,Short-Term,8.672145402793358,Advanced,Low,0.8,1671.95
+Seed Drill,Plough Model 4,Brand B,3,New,120,Diesel,430,0.5744405638147053,Suburban,0.9715582100188962,Long-Term,5.5148234720658955,Intermediate,High,1.2,10331.87
+Mower,Mower Model 38,Brand C,13,New,275,Electric,224,0.3540922177758561,Rural,0.44959103923590105,Short-Term,11.465749354724895,Basic,Medium,0.8,1134.68
+Cultivator,Combine Harvester Model 23,Brand B,3,Good,83,Diesel,455,0.1889610060820488,Rural,0.4355930201223436,Short-Term,10.447408760894145,Basic,Medium,1.1,7407.34
+Mower,Tractor Model 36,Brand D,12,Fair,45,Diesel,75,0.16670893269824938,Rural,0.5683395912002316,Long-Term,7.677561693520345,Intermediate,High,0.8,346.14
+Manure Spreader,Cultivator Model 35,Brand D,12,Good,220,Diesel,265,0.714077474560677,Urban,0.3723418926733053,Short-Term,5.01197532297907,Intermediate,Low,1.0,1425.42
+Sprayer,Combine Harvester Model 23,Brand C,1,Good,280,Hybrid,395,0.35107482740132634,Suburban,0.918192751990574,Long-Term,10.179933638412296,Basic,High,0.9,3485.65
+Mower,Sprayer Model 24,Brand A,7,Fair,32,Hybrid,289,0.9587077516988404,Urban,0.09751205221476733,Short-Term,11.955349454676536,Intermediate,High,0.8,2061.27
+Sprayer,Harrow Model 9,Brand C,5,Good,269,Hybrid,378,0.9783901115715775,Suburban,0.3456487924461785,Short-Term,9.22976041102546,Intermediate,Medium,0.9,2761.16
+Combine Harvester,Cultivator Model 12,Brand C,8,New,54,Electric,190,0.45879185671559064,Urban,0.8100500966178061,Short-Term,5.7110568132272475,Basic,High,1.2,4123.43
+Cultivator,Combine Harvester Model 42,Brand B,7,Fair,266,Hybrid,348,0.20320173738706626,Suburban,0.48883449831777015,Short-Term,13.097551375154556,Intermediate,High,1.1,2270.58
+Harrow,Mower Model 19,Brand D,10,Fair,256,Hybrid,235,0.644044090345563,Urban,0.18504761261889358,Short-Term,14.248789650637889,Basic,Medium,1.0,619.22
+Sprayer,Mower Model 17,Brand C,1,Good,178,Hybrid,131,0.7301997014116327,Rural,0.43535514002206654,Short-Term,10.305084351045274,Basic,Low,0.9,1178.83
+Manure Spreader,Cultivator Model 38,Brand C,3,Poor,38,Diesel,425,0.10410157079369797,Urban,0.9505687641577271,Short-Term,11.077661485391115,Advanced,Low,1.0,6745.03
+Combine Harvester,Combine Harvester Model 16,Brand A,4,Good,269,Hybrid,412,0.6208741371196981,Rural,0.23519954752611139,Long-Term,10.403395255212,Intermediate,High,1.2,3454.26
+Plough,Mower Model 42,Brand A,1,Poor,104,Hybrid,428,0.48590408102539073,Urban,0.1743254493688714,Long-Term,14.522837815845486,Intermediate,High,1.0,2582.51
+Harrow,Plough Model 39,Brand C,14,Good,101,Diesel,156,0.3759548224564637,Urban,0.5138763516218616,Long-Term,7.750083884147985,Intermediate,Low,1.0,1060.3
+Cultivator,Harrow Model 16,Brand C,11,Good,135,Electric,90,0.31385244616194774,Suburban,0.18908469258201488,Short-Term,8.01213829280658,Intermediate,Medium,1.1,610.86
+Harrow,Sprayer Model 20,Brand B,14,Good,168,Electric,379,0.8757860693395249,Rural,0.3658159417276199,Short-Term,10.240668283578579,Intermediate,Medium,1.0,2422.3
+Mower,Mower Model 33,Brand A,3,Fair,17,Diesel,420,0.3913290737445587,Rural,0.9072917197449576,Short-Term,8.12456305749211,Advanced,Low,0.8,9078.24
+Seed Drill,Seed Drill Model 6,Brand D,1,Good,209,Diesel,210,0.534064905007207,Rural,0.9265635157970354,Long-Term,6.302034827101,Basic,Medium,1.2,2407.31
+Seed Drill,Sprayer Model 12,Brand A,3,Good,100,Hybrid,95,0.3883610244145892,Suburban,0.8931289094690986,Short-Term,12.415437167422887,Basic,High,1.2,2190.27
+Manure Spreader,Mower Model 48,Brand C,8,Good,153,Hybrid,52,0.12340111580827817,Rural,0.10386634935106809,Long-Term,11.156312395876924,Advanced,High,1.0,274.36
+Tractor,Seed Drill Model 24,Brand A,3,Good,172,Diesel,360,0.10304931841377252,Suburban,0.783791011837918,Short-Term,10.729644541492686,Basic,Medium,1.3,6389.0
+Tractor,Sprayer Model 16,Brand A,13,Good,226,Electric,443,0.6848776067791639,Suburban,0.8012359361232904,Short-Term,5.762905854316148,Intermediate,High,1.3,5347.13
+Sprayer,Sprayer Model 13,Brand B,1,Fair,214,Electric,51,0.04866009938515459,Suburban,0.5048970543830971,Long-Term,10.398657685742501,Advanced,Medium,0.9,377.01
+Manure Spreader,Seed Drill Model 50,Brand A,7,Good,228,Hybrid,96,0.6124396817326586,Urban,0.9588768497462808,Short-Term,10.008859510230526,Intermediate,High,1.0,1161.51
+Sprayer,Mower Model 29,Brand A,10,Good,15,Diesel,117,0.5962694434003136,Urban,0.9875488071009353,Long-Term,12.689804854157076,Advanced,Medium,0.9,1599.65
+Tractor,Plough Model 27,Brand B,1,Fair,274,Hybrid,372,0.4283308809341845,Rural,0.014449670943003756,Short-Term,9.371048025691088,Basic,Low,1.3,2803.21
+Plough,Manure Spreader Model 26,Brand A,4,Fair,194,Hybrid,371,0.7548708065109522,Suburban,0.18545454949309692,Short-Term,8.238566238672114,Basic,Low,1.0,2360.26
+Harrow,Tractor Model 3,Brand A,9,Good,143,Hybrid,292,0.1805710063351108,Rural,0.35248297212446367,Short-Term,8.338520906269448,Intermediate,High,1.0,2594.6
+Cultivator,Mower Model 49,Brand A,3,Good,110,Hybrid,293,0.02751681932181782,Urban,0.0577517768118182,Short-Term,6.434844933021781,Intermediate,High,1.1,4122.49
+Manure Spreader,Sprayer Model 16,Brand D,14,Poor,157,Diesel,155,0.2533675571901932,Suburban,0.49342496796206925,Short-Term,7.950502904039068,Basic,Medium,1.0,519.07
+Tractor,Harrow Model 24,Brand B,7,Poor,257,Hybrid,418,0.06671265118018732,Urban,0.8949787721850884,Short-Term,11.252504355250231,Basic,Medium,1.3,3014.82
+Combine Harvester,Seed Drill Model 39,Brand D,9,Poor,101,Hybrid,295,0.06987270799111933,Suburban,0.5493619033515514,Long-Term,13.615134968658872,Basic,High,1.2,1147.68
+Sprayer,Harrow Model 1,Brand A,10,New,151,Hybrid,226,0.7609054588823484,Rural,0.6027596035125592,Short-Term,7.425723717826119,Advanced,Low,0.9,2821.7
+Plough,Seed Drill Model 15,Brand B,7,Good,115,Electric,408,0.8952237538028915,Suburban,0.8710321943916406,Short-Term,11.177812804738842,Intermediate,High,1.0,5782.25
+Harrow,Harrow Model 29,Brand B,14,Good,122,Diesel,135,0.6570924899313597,Suburban,0.9941453574992956,Long-Term,10.965882384691705,Basic,High,1.0,1044.04
+Tractor,Plough Model 49,Brand D,11,Good,201,Hybrid,367,0.4666257990094774,Urban,0.19162783017841267,Long-Term,7.060086914859738,Basic,Low,1.3,1462.75
+Tractor,Seed Drill Model 4,Brand B,7,Poor,289,Diesel,447,0.0050207494586754775,Urban,0.3953171638792601,Short-Term,11.88268446319643,Intermediate,Low,1.3,2577.53
+Mower,Tractor Model 30,Brand D,14,Good,103,Diesel,297,0.221792592986769,Suburban,0.2528690717320361,Short-Term,9.962378240435115,Basic,Low,0.8,1385.68
+Tractor,Sprayer Model 26,Brand B,11,Good,260,Electric,261,0.7449346863821525,Rural,0.5155839498665722,Short-Term,12.461160130516747,Basic,High,1.3,1936.14
+Mower,Cultivator Model 19,Brand B,3,Good,215,Electric,159,0.800039462020766,Rural,0.795363327925926,Long-Term,10.839019811508411,Basic,Low,0.8,1133.69
+Sprayer,Combine Harvester Model 22,Brand B,7,Good,82,Hybrid,153,0.12426026845713001,Urban,0.4096032567850696,Short-Term,5.3930288583355335,Advanced,Medium,0.9,2199.96
+Seed Drill,Cultivator Model 50,Brand D,1,Poor,169,Diesel,224,0.9970931484797729,Urban,0.5010056359133224,Short-Term,5.5857099450909855,Advanced,High,1.2,2201.44
+Harrow,Seed Drill Model 29,Brand C,12,Poor,102,Hybrid,122,0.8060897249805925,Rural,0.03768778509029591,Short-Term,11.909554361511201,Advanced,High,1.0,479.04
+Combine Harvester,Tractor Model 23,Brand A,12,Good,271,Hybrid,444,0.8370324698887862,Urban,0.7876466047771323,Short-Term,10.637522506492736,Basic,Medium,1.2,4062.16
+Seed Drill,Tractor Model 46,Brand C,10,Good,295,Hybrid,334,0.633418248451949,Rural,0.7346105068965031,Long-Term,6.226693976692824,Intermediate,Low,1.2,2220.66
+Plough,Seed Drill Model 30,Brand A,13,Good,38,Hybrid,328,0.3495022143008565,Suburban,0.5033282888052795,Short-Term,5.138872427478136,Basic,High,1.0,4187.85
+Sprayer,Seed Drill Model 16,Brand D,11,Good,297,Electric,384,0.9993388000782322,Urban,0.5579693304016166,Short-Term,7.429150060907404,Basic,Low,0.9,1834.23
+Plough,Harrow Model 41,Brand D,4,Good,232,Electric,157,0.8204653746066656,Suburban,0.7129281854230786,Short-Term,11.356424243123763,Advanced,Low,1.0,1763.2
+Mower,Seed Drill Model 36,Brand D,3,Good,132,Electric,412,0.37769148111426065,Suburban,0.19248414588443052,Long-Term,7.441528746260109,Basic,Low,0.8,2179.02
+Sprayer,Seed Drill Model 4,Brand D,9,Fair,28,Electric,149,0.09412414160324323,Rural,0.2237436669204954,Short-Term,8.176837524772003,Basic,High,0.9,839.54
+Tractor,Manure Spreader Model 39,Brand B,7,Fair,41,Electric,334,0.464506302925903,Rural,0.8008248773992402,Short-Term,10.89025470889584,Intermediate,Low,1.3,5790.73
+Harrow,Seed Drill Model 10,Brand C,5,New,199,Electric,157,0.8334074042584744,Urban,0.4470801229990926,Long-Term,14.263458569724635,Advanced,High,1.0,1367.71
+Seed Drill,Sprayer Model 47,Brand D,11,Good,128,Hybrid,206,0.9787038085563059,Suburban,0.7138281138485327,Short-Term,8.589939643740315,Advanced,High,1.2,2382.69
+Harrow,Cultivator Model 34,Brand A,13,Good,60,Hybrid,400,0.0914410048357509,Urban,0.8180126791859116,Long-Term,8.159629637846983,Advanced,Medium,1.0,5307.38
+Mower,Cultivator Model 50,Brand D,4,Fair,57,Electric,159,0.19681302624651897,Rural,0.5219974403784734,Short-Term,5.799477739394056,Intermediate,Low,0.8,1514.75
+Manure Spreader,Plough Model 34,Brand D,6,Good,181,Electric,266,0.3463460053303805,Urban,0.7435698145460231,Long-Term,6.328034315427814,Basic,Medium,1.0,1707.61
+Seed Drill,Combine Harvester Model 7,Brand D,7,Fair,153,Diesel,356,0.9226647407348444,Rural,0.6478401956369607,Long-Term,8.779030351489702,Basic,Medium,1.2,1984.76
+Mower,Manure Spreader Model 18,Brand C,1,Fair,225,Hybrid,232,0.08868169611174337,Suburban,0.9361352333534512,Short-Term,10.495183425031621,Intermediate,Low,0.8,2007.71
+Harrow,Cultivator Model 49,Brand B,13,Good,88,Diesel,114,0.26813400960018385,Urban,0.5199869257736707,Long-Term,6.81660529750951,Intermediate,Medium,1.0,913.94
+Combine Harvester,Combine Harvester Model 8,Brand D,6,Good,30,Electric,119,0.9012267249477771,Rural,0.6078076702924018,Long-Term,9.787670245857218,Advanced,Medium,1.2,1871.81
+Cultivator,Manure Spreader Model 1,Brand B,6,Fair,270,Hybrid,424,0.3282673380160612,Urban,0.9735022440897768,Short-Term,7.783476086469369,Basic,Medium,1.1,3996.86
+Plough,Mower Model 41,Brand A,10,Fair,131,Hybrid,215,0.009376250296341149,Suburban,0.0032294578066870416,Short-Term,6.637622593897036,Intermediate,Low,1.0,1051.95
+Manure Spreader,Sprayer Model 47,Brand D,9,New,33,Electric,358,0.8662591289645288,Rural,0.5110040768823867,Long-Term,9.543107993229643,Advanced,High,1.0,4313.47
+Tractor,Combine Harvester Model 17,Brand B,8,Good,156,Diesel,256,0.24266830082835722,Urban,0.15716591642974975,Short-Term,14.326912043300236,Basic,Medium,1.3,1914.38
+Seed Drill,Plough Model 28,Brand C,8,Fair,295,Hybrid,63,0.09054266173803083,Rural,0.08830302573544258,Short-Term,6.995302201288304,Intermediate,High,1.2,310.85
+Sprayer,Harrow Model 47,Brand B,12,Fair,266,Diesel,113,0.6459238307142673,Urban,0.8197061444780293,Long-Term,11.266783206176617,Basic,Low,0.9,401.79
+Tractor,Manure Spreader Model 6,Brand A,12,Good,22,Electric,303,0.9336993723277015,Suburban,0.10260287464989848,Long-Term,14.489936735652172,Advanced,Medium,1.3,3129.41
+Seed Drill,Combine Harvester Model 26,Brand A,12,Good,74,Diesel,494,0.4407864033207264,Rural,0.33743405758841505,Short-Term,9.217181485004271,Basic,Low,1.2,5546.78
+Seed Drill,Seed Drill Model 6,Brand A,2,Fair,276,Diesel,160,0.7425686484737625,Urban,0.3246952357724001,Long-Term,5.85693425306265,Advanced,Medium,1.2,1566.07
+Cultivator,Manure Spreader Model 50,Brand B,2,Good,230,Electric,395,0.7981324556115016,Rural,0.16450136627966638,Short-Term,13.234580592481798,Basic,Medium,1.1,3373.28
+Manure Spreader,Cultivator Model 28,Brand A,9,Fair,93,Hybrid,467,0.4596538760528902,Rural,0.08836603862516412,Short-Term,7.191606330287641,Basic,High,1.0,2851.47
+Seed Drill,Plough Model 5,Brand B,2,Good,209,Hybrid,259,0.6230943722972595,Urban,0.6231758078144889,Short-Term,10.006860278575655,Advanced,Medium,1.2,4674.1
+Combine Harvester,Sprayer Model 1,Brand B,2,Fair,136,Diesel,225,0.6993470269782447,Rural,0.5264886176037448,Long-Term,8.196411236216203,Basic,Medium,1.2,2148.37
+Seed Drill,Cultivator Model 22,Brand D,13,Good,279,Electric,357,0.1716184658416413,Urban,0.8482933434561876,Short-Term,7.390382829777855,Basic,Low,1.2,2699.36
+Cultivator,Sprayer Model 1,Brand D,2,Good,136,Diesel,295,0.44203498588370593,Rural,0.8378052233550001,Long-Term,7.625851475194441,Basic,High,1.1,3428.57
+Manure Spreader,Tractor Model 9,Brand D,9,Fair,120,Electric,230,0.7637317934117033,Suburban,0.2649083571265126,Long-Term,11.379416852316362,Intermediate,High,1.0,837.52
+Combine Harvester,Combine Harvester Model 19,Brand A,13,Good,170,Diesel,200,0.19953738985715674,Urban,0.5246645061602738,Short-Term,9.47763876365121,Intermediate,Medium,1.2,1877.36
+Manure Spreader,Harrow Model 1,Brand D,3,Good,41,Diesel,445,0.39415107705585084,Urban,0.02900615860738265,Short-Term,8.984225127573577,Intermediate,High,1.0,5025.52
+Cultivator,Harrow Model 26,Brand A,7,Fair,12,Hybrid,297,0.3720083480247015,Urban,0.10928221355669743,Short-Term,11.190737592785197,Basic,Low,1.1,2882.2
+Cultivator,Cultivator Model 23,Brand B,8,Fair,68,Electric,324,0.9961241608031967,Urban,0.6857992949864761,Short-Term,14.795652194713043,Basic,Medium,1.1,3150.54
+Sprayer,Mower Model 6,Brand C,10,Good,234,Diesel,257,0.4003011899267569,Suburban,0.4964528123120294,Short-Term,8.638814244017869,Basic,Low,0.9,1279.99
+Tractor,Combine Harvester Model 41,Brand C,13,Good,209,Diesel,135,0.9169666554508767,Suburban,0.3899699293177169,Short-Term,10.001019185346767,Intermediate,High,1.3,965.98
+Tractor,Tractor Model 47,Brand B,4,Good,208,Diesel,432,0.7605701207263709,Rural,0.34228203176620653,Short-Term,5.936530456057234,Intermediate,Medium,1.3,5680.84
+Manure Spreader,Combine Harvester Model 43,Brand C,13,Fair,128,Hybrid,284,0.3605224689014457,Suburban,0.355317061236574,Short-Term,12.118415650324161,Advanced,Low,1.0,1680.16
+Manure Spreader,Mower Model 33,Brand B,2,Good,78,Electric,319,0.4115050598342006,Rural,0.0964811220010593,Short-Term,10.77250272225153,Basic,High,1.0,3860.26
+Manure Spreader,Mower Model 45,Brand C,10,Fair,169,Electric,133,0.24667897718451226,Urban,0.980721726675518,Long-Term,13.594601402128202,Basic,Low,1.0,531.73
+Manure Spreader,Plough Model 41,Brand D,12,Fair,85,Electric,456,0.9545445608680596,Rural,0.31891676448406625,Short-Term,6.46753261697627,Basic,Medium,1.0,2400.66
+Plough,Harrow Model 1,Brand C,9,Good,154,Hybrid,467,0.024188266504566625,Urban,0.013257319952157731,Long-Term,12.430301798188736,Intermediate,Medium,1.0,1700.46
+Mower,Harrow Model 21,Brand D,11,Good,86,Diesel,413,0.5720178505190406,Suburban,0.7950498683532221,Short-Term,7.490308790589168,Basic,Low,0.8,3085.12
+Combine Harvester,Plough Model 2,Brand B,10,Good,191,Hybrid,418,0.6125196798637389,Suburban,0.18960650683901825,Short-Term,7.977285029582864,Intermediate,High,1.2,2704.41
+Plough,Harrow Model 17,Brand A,1,Good,14,Hybrid,131,0.25885577095585544,Rural,0.8224395764826894,Short-Term,7.692993967120572,Advanced,Low,1.0,5125.54
+Seed Drill,Seed Drill Model 31,Brand D,3,Good,90,Hybrid,384,0.013023792860241246,Rural,0.8390586786048481,Long-Term,6.705328299696385,Advanced,Low,1.2,7309.54
+Combine Harvester,Sprayer Model 48,Brand D,11,Fair,146,Electric,177,0.49769752368257947,Suburban,0.18766399435101944,Long-Term,8.197583215035511,Basic,Medium,1.2,571.58
+Manure Spreader,Sprayer Model 30,Brand A,5,Good,25,Hybrid,448,0.24765888013635118,Urban,0.8986969765940449,Short-Term,12.468538880278004,Advanced,Medium,1.0,12690.51
+Seed Drill,Harrow Model 46,Brand D,9,Good,82,Electric,63,0.9870923195554588,Rural,0.20604733462601887,Short-Term,14.667062687332905,Basic,Medium,1.2,456.87
+Combine Harvester,Manure Spreader Model 6,Brand A,1,Good,81,Hybrid,245,0.33197027877596186,Suburban,0.825168784594938,Short-Term,8.003517666345013,Intermediate,High,1.2,7840.43
+Sprayer,Plough Model 20,Brand C,2,Good,254,Diesel,496,0.9131357756370896,Suburban,0.7936195128406125,Short-Term,11.584333424387829,Intermediate,Medium,0.9,5526.35
+Sprayer,Cultivator Model 18,Brand C,5,New,52,Hybrid,217,0.5256708700784745,Rural,0.5269206995132627,Short-Term,14.45876821240056,Basic,Medium,0.9,3144.41
+Tractor,Combine Harvester Model 8,Brand C,8,Good,233,Diesel,73,0.7260493731367477,Rural,0.10628123512020882,Short-Term,10.47821999016332,Advanced,Medium,1.3,583.96
+Plough,Combine Harvester Model 29,Brand A,14,Fair,102,Diesel,461,0.8132425918963356,Rural,0.6656410905842485,Short-Term,9.124448230275295,Basic,High,1.0,3648.04
+Manure Spreader,Tractor Model 36,Brand D,13,Good,213,Electric,436,0.3867622353532584,Urban,0.8537724926974674,Long-Term,8.475388548791212,Advanced,Medium,1.0,2631.1
+Combine Harvester,Cultivator Model 22,Brand C,11,Good,141,Hybrid,407,0.3039979306235556,Suburban,0.008909652267736767,Long-Term,12.423782589204006,Basic,High,1.2,1553.81
+Plough,Sprayer Model 37,Brand A,13,Good,25,Diesel,56,0.07888911018663547,Urban,0.8383505671694761,Short-Term,10.064480335871659,Basic,Medium,1.0,827.48
+Plough,Manure Spreader Model 15,Brand A,2,Good,177,Electric,193,0.6191743765191764,Rural,0.8841528500329102,Short-Term,10.276790052057585,Intermediate,High,1.0,3186.45
+Combine Harvester,Manure Spreader Model 11,Brand C,7,Fair,80,Diesel,226,0.002961209761212835,Rural,0.6511977696801263,Short-Term,10.243499450433891,Basic,High,1.2,2442.63
+Mower,Mower Model 32,Brand A,1,Good,88,Electric,379,0.24393267301092325,Urban,0.2471860500003633,Long-Term,12.700727638038922,Basic,Low,0.8,3342.42
+Combine Harvester,Mower Model 22,Brand C,7,Good,188,Diesel,193,0.9390583196217476,Suburban,0.9202303890008702,Short-Term,13.733733936642217,Intermediate,Low,1.2,2118.48
+Mower,Combine Harvester Model 39,Brand D,3,Poor,120,Electric,191,0.7109278383975505,Rural,0.8213565570191165,Long-Term,9.181421811030635,Intermediate,High,0.8,1006.56
+Seed Drill,Cultivator Model 47,Brand A,5,Good,32,Diesel,89,0.7916068100269659,Urban,0.029775653201098096,Long-Term,14.57503902634848,Advanced,Medium,1.2,1151.86
+Seed Drill,Plough Model 5,Brand A,1,Good,273,Diesel,68,0.777153706720061,Suburban,0.4079064680786817,Short-Term,9.995628323176572,Intermediate,High,1.2,1037.37
+Tractor,Tractor Model 3,Brand A,14,Good,294,Hybrid,237,0.29144470144018486,Rural,0.13257751702665688,Short-Term,13.639416806323874,Intermediate,Medium,1.3,1537.5
+Sprayer,Tractor Model 7,Brand C,13,Fair,144,Diesel,174,0.9943847213116693,Urban,0.0625796286077982,Short-Term,8.428010263221152,Basic,High,0.9,561.16
+Harrow,Manure Spreader Model 6,Brand D,2,New,187,Electric,234,0.9921881986516414,Rural,0.7467098407656989,Short-Term,9.501848224481988,Intermediate,Medium,1.0,3310.26
+Harrow,Plough Model 5,Brand D,1,Good,119,Electric,285,0.6892244611883859,Urban,0.2197794927389346,Short-Term,11.62684950547384,Intermediate,Low,1.0,3069.9
+Plough,Harrow Model 40,Brand D,2,Good,212,Hybrid,452,0.8942604165542182,Suburban,0.9466577232331277,Long-Term,6.431513113409547,Advanced,Medium,1.0,5360.31
+Cultivator,Sprayer Model 28,Brand B,5,Good,75,Electric,452,0.2813856682436465,Suburban,0.24636290417604967,Long-Term,12.144322752176656,Intermediate,Medium,1.1,4618.65
+Cultivator,Manure Spreader Model 17,Brand B,10,Good,298,Hybrid,372,0.999922775259732,Rural,0.33888433582192456,Long-Term,6.808450176919472,Intermediate,Low,1.1,1904.15
+Sprayer,Manure Spreader Model 33,Brand B,13,Fair,111,Electric,237,0.7397409921778895,Rural,0.39849507638199455,Short-Term,14.526982818406296,Intermediate,High,0.9,1233.55
+Seed Drill,Combine Harvester Model 3,Brand C,7,Good,132,Diesel,479,0.8562208595217408,Urban,0.2121828968452374,Short-Term,12.316065577275385,Basic,High,1.2,3970.32
+Tractor,Cultivator Model 2,Brand C,9,Fair,239,Electric,372,0.2748498492442193,Rural,0.8691624261709758,Short-Term,11.408439376555563,Intermediate,High,1.3,2869.94
+Sprayer,Tractor Model 30,Brand D,8,Fair,140,Electric,50,0.9489470234644385,Urban,0.0780689460564511,Long-Term,5.05357257218622,Intermediate,High,0.9,158.12
+Plough,Tractor Model 29,Brand C,8,Good,69,Hybrid,62,0.07713627206702711,Suburban,0.14069165169259357,Long-Term,5.819945059314719,Basic,High,1.0,402.72
+Mower,Plough Model 14,Brand D,5,New,206,Hybrid,186,0.44588829820651266,Urban,0.06572616981345514,Long-Term,6.761151198942734,Intermediate,Medium,0.8,846.27
+Tractor,Combine Harvester Model 7,Brand C,2,Poor,135,Diesel,262,0.19293544330081536,Suburban,0.5893938121215961,Short-Term,7.80743747922484,Basic,Medium,1.3,2691.98
+Harrow,Combine Harvester Model 9,Brand B,12,Good,249,Hybrid,133,0.631233234707186,Rural,0.3238247536870057,Long-Term,8.386114008921092,Basic,High,1.0,539.8
+Seed Drill,Harrow Model 46,Brand C,5,Good,38,Hybrid,55,0.2656928187591242,Suburban,0.4644967993101342,Long-Term,13.841661277822348,Intermediate,High,1.2,712.27
+Tractor,Sprayer Model 46,Brand C,8,Good,69,Diesel,471,0.594645947426297,Urban,0.10995510067615855,Short-Term,12.639492487618261,Basic,High,1.3,4510.54
+Harrow,Sprayer Model 39,Brand B,11,Good,257,Electric,50,0.27569877576348756,Urban,0.3354702278915014,Short-Term,14.003965077942148,Basic,High,1.0,243.25
+Plough,Combine Harvester Model 45,Brand B,10,Good,22,Electric,489,0.8780394622053536,Suburban,0.2909747763541357,Long-Term,11.057826344967875,Intermediate,Low,1.0,3794.2
+Seed Drill,Tractor Model 43,Brand C,4,Good,250,Hybrid,477,0.5803377307049983,Rural,0.5576548207277453,Short-Term,7.686768711309996,Basic,Low,1.2,5373.22
+Cultivator,Harrow Model 37,Brand C,8,Fair,152,Hybrid,388,0.2653967502752006,Rural,0.9139466410173636,Short-Term,6.7157170432499536,Intermediate,Low,1.1,3621.08
+Manure Spreader,Sprayer Model 23,Brand C,9,Good,24,Hybrid,279,0.642901393469538,Urban,0.2143234696361016,Long-Term,7.40332575255408,Basic,Low,1.0,1977.77
+Tractor,Mower Model 49,Brand C,4,Good,46,Electric,93,0.3397196144607114,Urban,0.04476428043708436,Long-Term,14.451088885614077,Intermediate,High,1.3,955.78
+Tractor,Combine Harvester Model 10,Brand D,3,Good,13,Hybrid,449,0.49952285625354986,Urban,0.24710153238170707,Short-Term,9.785083547184856,Basic,Low,1.3,7766.55
+Manure Spreader,Plough Model 45,Brand B,14,Good,49,Electric,72,0.29607603089219203,Rural,0.7991128423588167,Short-Term,10.21491577113691,Intermediate,Medium,1.0,972.82
+Seed Drill,Mower Model 28,Brand A,6,Good,218,Hybrid,346,0.8411078951888816,Urban,0.26163486187940455,Short-Term,11.796539791684278,Advanced,Medium,1.2,3970.58
+Manure Spreader,Seed Drill Model 48,Brand A,1,Fair,115,Diesel,105,0.9013853304361329,Rural,0.4912198703327523,Short-Term,7.915930427855649,Basic,High,1.0,1375.44
+Harrow,Combine Harvester Model 23,Brand D,4,Good,61,Electric,270,0.9283363529333098,Rural,0.2731191966883849,Short-Term,7.42745475976195,Basic,High,1.0,3121.03
+Tractor,Harrow Model 19,Brand B,13,Fair,58,Diesel,101,0.2971111294629223,Urban,0.8988956802817802,Short-Term,11.997381618185267,Basic,Medium,1.3,1195.89
+Harrow,Seed Drill Model 19,Brand C,9,Good,206,Diesel,96,0.4150701095075925,Rural,0.48950611126323895,Short-Term,12.394244549192713,Basic,Low,1.0,539.14
+Cultivator,Sprayer Model 34,Brand D,11,Good,151,Diesel,264,0.4074252448516932,Urban,0.6855215941764795,Long-Term,7.744787018053691,Basic,Low,1.1,1457.63
+Combine Harvester,Plough Model 23,Brand C,6,Good,69,Electric,244,0.059881172623661105,Suburban,0.5602109599740815,Short-Term,6.766005561669046,Basic,Medium,1.2,3975.88
+Combine Harvester,Plough Model 50,Brand C,10,Fair,263,Electric,57,0.39441214516671885,Rural,0.4976287293526128,Long-Term,8.161402935229173,Intermediate,High,1.2,236.57
+Harrow,Tractor Model 19,Brand B,12,Poor,142,Electric,158,0.2757185726077451,Suburban,0.2833337844550684,Short-Term,14.34447135006214,Advanced,High,1.0,679.39
+Harrow,Manure Spreader Model 45,Brand D,5,Good,284,Diesel,113,0.5780133652585484,Urban,0.6178498485373158,Long-Term,8.923879147671112,Basic,High,1.0,680.71
+Harrow,Plough Model 14,Brand B,10,Fair,61,Diesel,236,0.3746414820853443,Rural,0.28522057512738186,Short-Term,6.105318400796281,Basic,Medium,1.0,1617.46
+Mower,Tractor Model 28,Brand A,10,Good,200,Diesel,432,0.37194674768108493,Urban,0.8952161618596083,Long-Term,13.80939854187034,Basic,High,0.8,1960.47
+Manure Spreader,Tractor Model 35,Brand C,6,Fair,14,Hybrid,282,0.17776096393641339,Suburban,0.46950889954904174,Short-Term,12.954753525090918,Basic,High,1.0,2834.67
+Seed Drill,Tractor Model 42,Brand B,10,Good,189,Electric,161,0.3674102761827135,Rural,0.30258408691890215,Short-Term,12.184797845511994,Intermediate,High,1.2,1048.33
+Mower,Combine Harvester Model 14,Brand C,4,Good,131,Electric,241,0.8042192888418161,Rural,0.8819690752110714,Long-Term,10.899974702867082,Basic,High,0.8,1973.64
+Manure Spreader,Harrow Model 27,Brand A,13,Good,40,Diesel,158,0.6524146666386803,Rural,0.2151427153096429,Long-Term,10.816710505942584,Advanced,Low,1.0,1416.58
+Harrow,Tractor Model 48,Brand D,3,Good,131,Electric,113,0.2922123395614662,Rural,0.2956488034732182,Short-Term,11.934034048069707,Intermediate,Medium,1.0,1093.38
+Tractor,Harrow Model 13,Brand A,7,Good,28,Hybrid,456,0.5561271155595969,Suburban,0.15975543954304494,Long-Term,9.06824613749205,Basic,Medium,1.3,5446.89
+Plough,Combine Harvester Model 4,Brand B,9,Good,184,Diesel,222,0.9447556649329392,Urban,0.4346429041195563,Long-Term,9.704297011219424,Intermediate,High,1.0,1151.33
+Cultivator,Manure Spreader Model 4,Brand D,10,Good,265,Electric,301,0.37603005571543857,Urban,0.9924438402578661,Short-Term,9.795761429975768,Intermediate,Medium,1.1,2360.77
+Combine Harvester,Plough Model 41,Brand D,9,New,179,Hybrid,391,0.1250668878801795,Urban,0.24948213397332786,Short-Term,7.043595965269285,Basic,High,1.2,2819.25
+Harrow,Plough Model 29,Brand B,9,Fair,95,Electric,378,0.5164903065558688,Suburban,0.10360165825593559,Short-Term,8.608524017785594,Basic,Medium,1.0,2072.41
+Manure Spreader,Seed Drill Model 39,Brand C,12,Fair,295,Electric,441,0.9574528023606241,Rural,0.31250073364087194,Long-Term,6.994897004602196,Intermediate,Low,1.0,1366.8
+Plough,Combine Harvester Model 31,Brand C,1,Poor,43,Electric,211,0.11164132209358246,Suburban,0.49138898480597615,Short-Term,5.166601641150841,Intermediate,High,1.0,2672.43
+Mower,Tractor Model 15,Brand C,4,Good,127,Electric,101,0.6965670090883606,Suburban,0.6843255209994482,Long-Term,7.757059997504184,Intermediate,High,0.8,881.22
+Manure Spreader,Sprayer Model 44,Brand A,6,Poor,235,Hybrid,389,0.0412290024086851,Rural,0.2732572037381732,Long-Term,6.2617788861338495,Intermediate,Low,1.0,1549.39
+Combine Harvester,Combine Harvester Model 25,Brand C,13,Good,271,Hybrid,67,0.17866481387214928,Urban,0.7445884467196107,Short-Term,8.349944639047896,Intermediate,Low,1.2,573.78
+Tractor,Cultivator Model 47,Brand C,12,New,161,Hybrid,355,0.5701210397876741,Suburban,0.04590042406906758,Long-Term,6.550781289365685,Basic,Medium,1.3,1946.59
+Tractor,Cultivator Model 1,Brand C,10,Good,139,Electric,310,0.8547219974424077,Urban,0.03381485772991544,Short-Term,7.29361748136601,Basic,High,1.3,1957.89
+Cultivator,Mower Model 34,Brand B,11,Good,154,Hybrid,495,0.8961545042778836,Suburban,0.660999483814608,Long-Term,5.082826286536445,Intermediate,High,1.1,3752.1
+Sprayer,Tractor Model 9,Brand C,2,Fair,10,Electric,292,0.7207460118773374,Urban,0.2319746857032451,Long-Term,10.990362940814158,Basic,Low,0.9,2250.1
+Combine Harvester,Mower Model 39,Brand D,11,Fair,65,Hybrid,369,0.9934357355838274,Suburban,0.7660834298220437,Short-Term,8.232321868286565,Basic,Low,1.2,3234.24
+Cultivator,Tractor Model 28,Brand A,10,Good,100,Diesel,136,0.5445256951301896,Suburban,0.48266836192362983,Short-Term,8.902294432909677,Intermediate,High,1.1,1564.11
+Manure Spreader,Manure Spreader Model 48,Brand D,14,Fair,85,Hybrid,249,0.9979030229880335,Urban,0.5095573186648173,Long-Term,6.999706724597106,Basic,Medium,1.0,1114.09
+Plough,Combine Harvester Model 4,Brand D,1,Fair,173,Diesel,192,0.7681711849310404,Suburban,0.20694519510651788,Long-Term,14.192553858795693,Intermediate,Low,1.0,850.76
+Seed Drill,Plough Model 50,Brand B,11,Good,298,Electric,342,0.4908756595916939,Suburban,0.1827636641999255,Short-Term,6.539537888257042,Basic,Medium,1.2,2055.24
+Sprayer,Plough Model 45,Brand C,2,Fair,230,Diesel,494,0.5483186007750149,Urban,0.5661495328494011,Short-Term,11.982879571842474,Advanced,Low,0.9,4224.82
+Manure Spreader,Seed Drill Model 15,Brand B,3,Poor,245,Electric,359,0.12214554144785972,Suburban,0.07736066572529965,Short-Term,10.799501659847527,Intermediate,Low,1.0,1644.03
+Plough,Mower Model 43,Brand D,7,Good,162,Electric,86,0.8829150012346609,Suburban,0.496746539283064,Short-Term,9.000769552891734,Intermediate,High,1.0,676.64
+Manure Spreader,Sprayer Model 14,Brand A,1,Fair,132,Diesel,290,0.3468820351163753,Rural,0.08156563881357659,Short-Term,7.930510318595225,Advanced,High,1.0,3337.33
+Manure Spreader,Seed Drill Model 16,Brand C,8,Good,258,Hybrid,112,0.886332127823309,Urban,0.8743934717713092,Short-Term,13.457374521477712,Intermediate,High,1.0,928.62
+Harrow,Harrow Model 50,Brand A,13,Fair,268,Hybrid,131,0.936282461758968,Suburban,0.010312595082295761,Short-Term,5.199092850045269,Basic,Low,1.0,469.99
+Manure Spreader,Plough Model 41,Brand D,2,New,287,Electric,391,0.8451453498771966,Suburban,0.909391701384039,Long-Term,11.308187628571542,Intermediate,Medium,1.0,4372.59
+Harrow,Cultivator Model 47,Brand B,14,Fair,108,Diesel,76,0.041737908533883705,Rural,0.14722324560956745,Short-Term,8.797240244155532,Advanced,Low,1.0,485.46
+Plough,Harrow Model 38,Brand D,7,Good,87,Electric,240,0.8712551102808551,Suburban,0.6768834666263737,Long-Term,7.824250751627634,Intermediate,High,1.0,2222.99
+Cultivator,Mower Model 46,Brand A,3,New,290,Electric,247,0.7837776655775687,Rural,0.6652128791714091,Short-Term,14.603302078774684,Basic,High,1.1,3771.0
+Combine Harvester,Sprayer Model 14,Brand B,13,Good,62,Hybrid,88,0.7634961082294788,Urban,0.059460759403324404,Short-Term,6.321578393800497,Intermediate,High,1.2,868.65
+Tractor,Manure Spreader Model 38,Brand A,2,Poor,68,Hybrid,164,0.632927448832674,Suburban,0.7798229252006922,Short-Term,11.547350531281904,Basic,Low,1.3,2714.43
+Manure Spreader,Combine Harvester Model 6,Brand A,4,Good,169,Hybrid,174,0.6229415334722664,Urban,0.9265255999053675,Short-Term,9.421292038886993,Intermediate,Medium,1.0,2768.93
+Tractor,Harrow Model 33,Brand C,11,Good,265,Diesel,487,0.6179805227192329,Suburban,0.7470071679900057,Short-Term,11.629067528821693,Basic,Low,1.3,3851.98
+Mower,Manure Spreader Model 19,Brand C,1,Good,57,Hybrid,265,0.44931723743017515,Urban,0.06110988898941094,Short-Term,6.294655203662549,Basic,Medium,0.8,2789.25
+Tractor,Seed Drill Model 26,Brand A,6,Good,54,Hybrid,250,0.7732761749631984,Rural,0.15006166728409953,Long-Term,9.600562808046629,Basic,Medium,1.3,2912.26
+Tractor,Mower Model 46,Brand B,10,Poor,151,Hybrid,200,0.9141167367753814,Suburban,0.8720199858407338,Short-Term,11.433539838838424,Advanced,High,1.3,1664.78
+Sprayer,Sprayer Model 41,Brand B,14,Good,96,Electric,209,0.13273480853205655,Suburban,0.9666994047805488,Short-Term,11.05769020825146,Advanced,Medium,0.9,2747.7
+Combine Harvester,Plough Model 50,Brand C,13,Good,68,Hybrid,400,0.6721886407724381,Rural,0.26901278882926716,Short-Term,10.658824482048605,Intermediate,Medium,1.2,3873.78
+Harrow,Plough Model 11,Brand D,7,Good,41,Hybrid,366,0.09063276002795317,Urban,0.9103784364093066,Long-Term,11.795334271570642,Intermediate,Medium,1.0,4158.57
+Tractor,Mower Model 36,Brand B,12,Good,231,Diesel,178,0.6334724025309733,Rural,0.17239280565152182,Short-Term,14.915483337853845,Basic,Low,1.3,968.7
+Tractor,Cultivator Model 34,Brand C,11,Poor,150,Electric,378,0.606359227312067,Suburban,0.3278013741073178,Short-Term,7.99800352498946,Advanced,High,1.3,2182.51
+Sprayer,Mower Model 8,Brand B,3,Good,65,Electric,262,0.5165288755578362,Rural,0.6704967206489131,Short-Term,11.683721496216913,Intermediate,High,0.9,4633.49
+Cultivator,Mower Model 41,Brand C,11,Good,294,Electric,115,0.7753235476746029,Urban,0.6749014614026185,Short-Term,14.381955561633028,Advanced,Low,1.1,904.67
+Seed Drill,Seed Drill Model 4,Brand B,9,Fair,148,Hybrid,273,0.9168854440638274,Rural,0.28866645297866556,Short-Term,13.849681145206036,Basic,Medium,1.2,1513.68
+Manure Spreader,Plough Model 12,Brand A,12,Poor,46,Electric,394,0.43976627419004466,Suburban,0.8887680456658382,Short-Term,14.642515650371534,Basic,Low,1.0,2973.6
+Combine Harvester,Mower Model 5,Brand C,14,Good,51,Diesel,239,0.35778767358050045,Rural,0.8165228668920722,Long-Term,9.656539586792903,Basic,Low,1.2,2436.82
+Mower,Mower Model 1,Brand A,7,Fair,249,Diesel,439,0.9778149171368267,Urban,0.716878957997928,Long-Term,12.344751878001937,Intermediate,High,0.8,1997.0
+Plough,Sprayer Model 41,Brand A,4,Good,275,Hybrid,220,0.04811496513553404,Rural,0.018325480677868322,Short-Term,11.310545403326532,Basic,High,1.0,1507.92
+Mower,Sprayer Model 43,Brand C,10,Good,208,Hybrid,216,0.8923646152740776,Urban,0.943122444326986,Long-Term,9.866300034848814,Intermediate,Medium,0.8,999.91
+Manure Spreader,Cultivator Model 6,Brand C,2,Fair,142,Diesel,389,0.6228247853985862,Suburban,0.7729126286798633,Short-Term,13.055180839595073,Intermediate,Medium,1.0,4229.86
+Combine Harvester,Sprayer Model 17,Brand C,8,Good,92,Electric,142,0.34148493844426464,Suburban,0.7343028101318085,Short-Term,5.6345446492758064,Advanced,Low,1.2,2699.44
+Seed Drill,Seed Drill Model 39,Brand D,12,Good,256,Diesel,190,0.3310572204457718,Rural,0.20489142913980407,Short-Term,9.797548063124035,Intermediate,Low,1.2,983.05
+Sprayer,Seed Drill Model 49,Brand B,10,Fair,158,Electric,217,0.6824247966310224,Suburban,0.37118188584365885,Short-Term,8.666095953991615,Intermediate,Low,0.9,1018.8
+Combine Harvester,Cultivator Model 45,Brand D,14,Poor,200,Electric,150,0.8916319334339308,Suburban,0.6605678827200883,Short-Term,5.4400877772780865,Intermediate,Medium,1.2,678.09
+Harrow,Cultivator Model 39,Brand A,11,Good,297,Diesel,125,0.521777465061538,Urban,0.009188886857689704,Long-Term,11.351426826356546,Basic,Medium,1.0,397.67
+Manure Spreader,Combine Harvester Model 29,Brand C,5,Fair,244,Hybrid,418,0.8378490475141178,Suburban,0.6069678469683557,Long-Term,14.374021530172865,Intermediate,High,1.0,2048.02
+Combine Harvester,Cultivator Model 50,Brand B,6,Fair,49,Diesel,204,0.6411321479260581,Rural,0.433973550485778,Long-Term,8.873048668517136,Intermediate,Medium,1.2,2132.04
+Harrow,Harrow Model 21,Brand A,8,Fair,242,Hybrid,342,0.824947593502393,Rural,0.44364661667947236,Short-Term,7.988480334729237,Intermediate,Low,1.0,2196.52
+Manure Spreader,Manure Spreader Model 27,Brand C,9,Good,19,Electric,448,0.7189496434760524,Suburban,0.7760964731431751,Long-Term,7.921527665195423,Advanced,Low,1.0,6066.61
+Harrow,Harrow Model 34,Brand C,6,Fair,253,Electric,380,0.12522735590838685,Rural,0.732603915601379,Short-Term,11.634827220240076,Intermediate,High,1.0,2648.07
+Mower,Manure Spreader Model 14,Brand D,9,Good,109,Hybrid,226,0.47595059909009885,Rural,0.2639630161150841,Short-Term,11.68434482297529,Advanced,Medium,0.8,1435.19
+Harrow,Sprayer Model 34,Brand B,9,New,168,Diesel,199,0.1618687434943331,Rural,0.19242419112580345,Short-Term,6.064814625676284,Basic,Low,1.0,1504.48
+Sprayer,Combine Harvester Model 25,Brand A,9,Good,67,Diesel,71,0.02025172202985115,Rural,0.14748731072865684,Long-Term,11.8692998110808,Advanced,High,0.9,533.99
+Seed Drill,Sprayer Model 46,Brand C,1,Good,165,Diesel,102,0.3199368722978464,Suburban,0.4376651907370007,Short-Term,13.246687047128209,Basic,High,1.2,1233.4
+Plough,Mower Model 50,Brand A,10,Fair,53,Diesel,285,0.10649248516550092,Urban,0.44195098606288186,Short-Term,10.95136857455622,Intermediate,High,1.0,2456.3
+Plough,Cultivator Model 16,Brand C,10,Good,203,Electric,497,0.9301366478082561,Rural,0.5654837014508646,Long-Term,5.785227459296531,Basic,Medium,1.0,2277.8
+Cultivator,Combine Harvester Model 2,Brand B,8,Good,207,Hybrid,303,0.7701305145915095,Urban,0.2198363982617736,Short-Term,13.721716392479689,Intermediate,Low,1.1,1967.04
+Tractor,Mower Model 23,Brand C,2,Fair,238,Electric,430,0.1284833849275243,Urban,0.7539569676500634,Long-Term,6.096797124218273,Basic,High,1.3,3852.77
+Tractor,Plough Model 5,Brand B,8,Poor,124,Hybrid,170,0.8225607841685895,Rural,0.9516538865489919,Long-Term,9.11292578069418,Basic,High,1.3,1205.15
+Mower,Manure Spreader Model 17,Brand C,14,Fair,151,Hybrid,464,0.46758925734817225,Urban,0.8423108205060497,Short-Term,11.606282727407784,Intermediate,Medium,0.8,2305.14
+Plough,Seed Drill Model 15,Brand B,7,Fair,103,Electric,185,0.6279072670438751,Suburban,0.5748693354965855,Short-Term,8.203995644582898,Basic,Low,1.0,1672.94
+Harrow,Combine Harvester Model 30,Brand A,9,Good,219,Electric,485,0.286182931744803,Rural,0.3914948013361973,Short-Term,8.870093282905216,Basic,Medium,1.0,3279.48
+Seed Drill,Sprayer Model 41,Brand A,7,Good,140,Electric,67,0.6685199722232306,Rural,0.546502643408775,Short-Term,6.031328249669943,Intermediate,Low,1.2,1022.16
+Manure Spreader,Manure Spreader Model 3,Brand D,13,Good,153,Electric,120,0.8385370563353884,Rural,0.31902614936433615,Short-Term,7.75133410673202,Basic,Low,1.0,622.53
+Mower,Sprayer Model 4,Brand A,14,Good,59,Electric,226,0.06943451052825234,Urban,0.6568595953150619,Long-Term,14.336987430265655,Intermediate,High,0.8,1634.84
+Harrow,Cultivator Model 22,Brand D,6,Fair,287,Diesel,209,0.4568276378684544,Suburban,0.4998091175336181,Short-Term,8.878649891620466,Intermediate,Medium,1.0,1199.34
+Plough,Sprayer Model 34,Brand C,5,Good,283,Diesel,169,0.9279572622689151,Rural,0.9199247394166228,Short-Term,11.035300624553166,Basic,High,1.0,1715.84
+Plough,Combine Harvester Model 29,Brand B,11,Good,119,Hybrid,195,0.13435446809013818,Suburban,0.6845354813001124,Long-Term,10.162822433762344,Advanced,Medium,1.0,1704.0
+Plough,Mower Model 39,Brand D,5,Fair,63,Electric,205,0.6102628337777984,Urban,0.5089256541492594,Short-Term,13.939352180973838,Basic,Low,1.0,1718.79
+Manure Spreader,Mower Model 29,Brand B,3,Good,142,Electric,229,0.4693484812789991,Urban,0.3456495787545044,Short-Term,13.603415952280837,Basic,High,1.0,2352.17
+Harrow,Manure Spreader Model 9,Brand A,10,Good,142,Hybrid,480,0.2597084709644696,Urban,0.45113658310342863,Long-Term,5.075437095118173,Basic,Medium,1.0,3029.24
+Cultivator,Sprayer Model 14,Brand B,3,Good,90,Diesel,356,0.8663300993534175,Rural,0.966303066776984,Short-Term,8.080810145374791,Basic,High,1.1,8110.82
+Plough,Plough Model 25,Brand B,11,Good,178,Electric,338,0.5304444639734034,Rural,0.5336568322366316,Long-Term,10.81331652556527,Intermediate,High,1.0,1707.07
+Plough,Combine Harvester Model 16,Brand B,9,Good,296,Hybrid,292,0.08020318901242862,Rural,0.5064300522398342,Short-Term,13.300642386265514,Intermediate,Medium,1.0,1968.58
+Manure Spreader,Sprayer Model 32,Brand C,4,Good,209,Electric,319,0.3374297770714165,Urban,0.690012227510725,Short-Term,9.5694512248396,Intermediate,High,1.0,3445.24
+Harrow,Tractor Model 24,Brand B,3,Good,243,Electric,440,0.43812870366426915,Suburban,0.7166922748019542,Long-Term,10.29340869300249,Basic,Medium,1.0,3791.36
+Tractor,Sprayer Model 47,Brand C,2,Good,244,Hybrid,177,0.30194189227645185,Suburban,0.967272514991617,Long-Term,12.341636347490008,Basic,Medium,1.3,2096.94
+Seed Drill,Cultivator Model 31,Brand C,14,Fair,69,Hybrid,480,0.4775598141787307,Suburban,0.9187456771347929,Short-Term,10.089078234749811,Intermediate,Low,1.2,5314.36
+Plough,Sprayer Model 37,Brand B,5,Good,234,Hybrid,336,0.161150946137272,Rural,0.7963167345831477,Short-Term,12.61199899146133,Basic,Low,1.0,3397.87
+Tractor,Harrow Model 49,Brand B,11,Fair,247,Hybrid,279,0.09090712230002596,Rural,0.7998757795174791,Short-Term,13.855035779449597,Intermediate,Low,1.3,1968.31
+Plough,Plough Model 7,Brand A,8,New,275,Hybrid,439,0.1790933042975279,Urban,0.6200020750044961,Short-Term,14.319455582838966,Intermediate,Low,1.0,4631.37
+Mower,Plough Model 35,Brand A,4,Fair,261,Hybrid,309,0.8852284867657222,Urban,0.4302540832068147,Long-Term,12.065182084784054,Intermediate,Low,0.8,1449.65
+Harrow,Combine Harvester Model 13,Brand A,13,Good,207,Electric,329,0.8955349530986266,Rural,0.059795141963233545,Long-Term,6.718842493199935,Intermediate,Low,1.0,1324.22
+Sprayer,Seed Drill Model 27,Brand A,4,Good,18,Electric,52,0.7937679619938677,Rural,0.9267735383898673,Long-Term,5.300053867072022,Intermediate,High,0.9,1069.59
+Cultivator,Seed Drill Model 46,Brand C,6,Fair,46,Diesel,416,0.3328276888703965,Urban,0.2872655616027805,Short-Term,8.053241334831242,Intermediate,Low,1.1,4447.9
+Combine Harvester,Seed Drill Model 4,Brand C,7,Good,127,Electric,57,0.7179651161478189,Urban,0.1982726012532554,Short-Term,12.701796102658303,Intermediate,Low,1.2,520.52
+Mower,Tractor Model 29,Brand C,13,Good,297,Diesel,427,0.16499714022223355,Urban,0.36310707546193677,Short-Term,13.364686586918562,Intermediate,Medium,0.8,1719.84
+Sprayer,Harrow Model 38,Brand C,13,Good,115,Hybrid,78,0.026279011243172223,Urban,0.35170839072439,Short-Term,8.773885751763885,Intermediate,High,0.9,527.37
+Combine Harvester,Harrow Model 16,Brand B,14,Fair,177,Hybrid,123,0.7158471060736357,Urban,0.1317844389295294,Short-Term,8.42147204603385,Basic,Low,1.2,527.23
+Seed Drill,Combine Harvester Model 22,Brand A,3,Good,190,Diesel,489,0.9276296961849299,Suburban,0.17705289315968709,Short-Term,8.927481701534308,Advanced,Medium,1.2,6735.65
+Combine Harvester,Mower Model 28,Brand A,7,Fair,116,Hybrid,270,0.8885757367297491,Rural,0.33841468376336237,Short-Term,8.279525991556891,Advanced,High,1.2,3351.17
+Harrow,Seed Drill Model 21,Brand D,4,Fair,43,Diesel,309,0.18967362274774424,Rural,0.2930041897610022,Long-Term,10.763749773688271,Advanced,High,1.0,2631.46
+Plough,Seed Drill Model 2,Brand A,7,Poor,62,Electric,274,0.5170639102051663,Urban,0.1749687836243562,Long-Term,7.777837730202258,Basic,Low,1.0,1371.66
+Cultivator,Sprayer Model 1,Brand B,1,New,207,Electric,404,0.07829620604254484,Rural,0.21067175674091088,Long-Term,9.9024303649409,Basic,Medium,1.1,3802.48
+Manure Spreader,Sprayer Model 6,Brand D,4,Fair,225,Hybrid,449,0.9252044824192442,Suburban,0.1056729668413171,Short-Term,5.071976535380781,Intermediate,Low,1.0,2332.47
+Manure Spreader,Seed Drill Model 2,Brand C,8,New,133,Hybrid,163,0.545687727428927,Urban,0.8042937680539661,Short-Term,11.106452364085092,Advanced,Low,1.0,2566.48
+Mower,Plough Model 4,Brand B,8,Good,96,Hybrid,345,0.9106335572593092,Suburban,0.8921387220938841,Short-Term,5.534166748982447,Basic,High,0.8,3984.58
+Combine Harvester,Sprayer Model 35,Brand B,4,Poor,254,Diesel,399,0.45229960198797947,Rural,0.2721399470637592,Short-Term,13.745688205541224,Intermediate,High,1.2,2290.85
+Manure Spreader,Combine Harvester Model 30,Brand D,1,Good,203,Electric,314,0.3832496122765443,Urban,0.9704035898594818,Long-Term,10.066146876062096,Basic,High,1.0,2852.79
+Mower,Tractor Model 30,Brand A,11,Good,19,Hybrid,81,0.18837209527869891,Rural,0.581170886011037,Short-Term,6.327238145465658,Basic,Medium,0.8,900.81
+Seed Drill,Harrow Model 35,Brand D,6,Fair,99,Hybrid,208,0.5464768200524357,Suburban,0.9495341923847549,Short-Term,5.766143582700375,Intermediate,Medium,1.2,2878.87
+Mower,Mower Model 22,Brand C,4,Fair,147,Hybrid,257,0.0059473353704718734,Urban,0.6912338131413449,Short-Term,6.915682675671253,Basic,High,0.8,1905.02
+Cultivator,Tractor Model 14,Brand C,14,Fair,62,Electric,191,0.1787896978499618,Urban,0.9788780495608491,Short-Term,12.569732586082434,Basic,Medium,1.1,1767.97
+Combine Harvester,Combine Harvester Model 12,Brand B,12,Good,60,Hybrid,396,0.4738158358917638,Rural,0.7137432477496881,Short-Term,5.76321023040043,Intermediate,Medium,1.2,6430.89
+Seed Drill,Plough Model 13,Brand C,2,Poor,206,Diesel,317,0.42919074831559745,Urban,0.3725398186368908,Long-Term,5.296998230759126,Intermediate,High,1.2,1781.36
+Sprayer,Manure Spreader Model 21,Brand A,6,Poor,118,Hybrid,56,0.9518833874776518,Urban,0.5755418691490026,Short-Term,11.404333891683427,Advanced,Low,0.9,479.06
+Mower,Manure Spreader Model 9,Brand A,8,Poor,187,Electric,109,0.5310686098631828,Rural,0.6442639875995467,Short-Term,7.779303533656057,Advanced,High,0.8,588.69
+Seed Drill,Mower Model 19,Brand B,13,Good,223,Electric,291,0.748932487171382,Rural,0.6674281769742367,Short-Term,7.3276190584983905,Advanced,High,1.2,3157.71
+Tractor,Mower Model 23,Brand D,11,Fair,259,Electric,52,0.7248203914697493,Suburban,0.08737038753262405,Short-Term,9.51832659427938,Basic,Medium,1.3,180.34
+Manure Spreader,Tractor Model 1,Brand A,13,Fair,116,Diesel,407,0.2295751455391809,Urban,0.4379591478179692,Short-Term,8.727161608031434,Intermediate,Medium,1.0,2918.32
+Manure Spreader,Sprayer Model 8,Brand C,13,Good,117,Diesel,257,0.011139357815645567,Urban,0.2282257255447221,Long-Term,5.858381929282768,Advanced,Low,1.0,1630.3
+Plough,Cultivator Model 19,Brand A,10,Good,225,Electric,124,0.19071171193704184,Suburban,0.2560445591356847,Short-Term,8.105132691290063,Advanced,Medium,1.0,907.84
+Sprayer,Combine Harvester Model 3,Brand B,3,Fair,284,Diesel,499,0.7571035676661115,Suburban,0.4891505433188871,Short-Term,14.302895384014331,Advanced,High,0.9,4011.89
+Harrow,Combine Harvester Model 33,Brand A,13,Good,274,Diesel,135,0.5799033968130229,Suburban,0.04712264862420257,Short-Term,8.621308771199901,Basic,High,1.0,627.52
+Manure Spreader,Combine Harvester Model 35,Brand A,6,Poor,240,Diesel,162,0.8558617375283799,Rural,0.08021937457766992,Short-Term,11.878337793175815,Intermediate,High,1.0,653.61
+Mower,Combine Harvester Model 29,Brand A,9,Fair,183,Diesel,283,0.9265542250343524,Urban,0.27547244502701174,Long-Term,10.324977782142348,Intermediate,High,0.8,843.54
+Mower,Seed Drill Model 16,Brand C,10,Good,226,Electric,463,0.5195256102812326,Suburban,0.980905896500729,Short-Term,8.986253713150164,Basic,Medium,0.8,2694.97
+Seed Drill,Manure Spreader Model 31,Brand C,4,Good,48,Electric,376,0.010998960221162979,Suburban,0.1533580996537265,Long-Term,9.255983152499816,Basic,Medium,1.2,3963.04
+Seed Drill,Mower Model 12,Brand A,2,New,204,Diesel,276,0.36049720666680185,Urban,0.7750688675504064,Long-Term,8.232768686467313,Intermediate,Medium,1.2,4881.02
+Harrow,Plough Model 10,Brand D,7,Good,100,Electric,418,0.46336418624700626,Rural,0.45381404921344315,Long-Term,7.9249193766895285,Basic,Low,1.0,2903.21
+Cultivator,Cultivator Model 38,Brand D,8,Fair,38,Hybrid,118,0.5574986182853107,Suburban,0.880243276771141,Short-Term,6.823316893007428,Basic,High,1.1,1356.16
+Harrow,Plough Model 31,Brand C,4,Good,94,Electric,223,0.9353029405086875,Urban,0.7994346574777416,Short-Term,13.774125762369302,Basic,Low,1.0,3173.11
+Cultivator,Harrow Model 25,Brand C,4,Poor,33,Hybrid,83,0.06136052910470602,Urban,0.29487797411379935,Short-Term,14.942979721910612,Intermediate,Medium,1.1,716.31
+Mower,Harrow Model 5,Brand C,7,Poor,22,Diesel,372,0.551796710284827,Rural,0.6876144321077512,Short-Term,8.195512890971399,Intermediate,Medium,0.8,2936.91
+Seed Drill,Plough Model 44,Brand B,5,Good,195,Diesel,275,0.5157118100355026,Suburban,0.4179803150948521,Short-Term,13.123780575220884,Intermediate,High,1.2,2866.46
+Sprayer,Tractor Model 11,Brand D,7,Fair,31,Hybrid,86,0.3324454714627917,Urban,0.48225243506075544,Short-Term,9.523435461745565,Intermediate,Medium,0.9,736.56
+Seed Drill,Plough Model 37,Brand C,13,Good,52,Hybrid,78,0.7438813968081912,Rural,0.24023384426609784,Short-Term,12.970981248511936,Advanced,Low,1.2,876.4
+Combine Harvester,Manure Spreader Model 17,Brand D,11,Fair,140,Diesel,53,0.7156844862972945,Urban,0.3777049901235322,Short-Term,7.875505578410614,Intermediate,Medium,1.2,301.03
+Tractor,Seed Drill Model 44,Brand B,8,Poor,92,Electric,76,0.14529643226586597,Urban,0.8781987347028232,Short-Term,10.457210080823156,Basic,High,1.3,762.43
+Sprayer,Plough Model 27,Brand B,2,New,167,Hybrid,170,0.5499895115482635,Urban,0.3395275266890607,Short-Term,10.237429619802425,Intermediate,Low,0.9,2168.95
+Seed Drill,Cultivator Model 40,Brand B,3,Good,89,Diesel,78,0.6262848055475633,Urban,0.2448915551970231,Short-Term,7.69118889228754,Intermediate,Low,1.2,1365.2
+Harrow,Cultivator Model 7,Brand B,4,Good,260,Hybrid,293,0.14860382662869698,Rural,0.0207407805075126,Long-Term,6.594481183996024,Advanced,Medium,1.0,1973.42
+Cultivator,Plough Model 43,Brand A,11,Good,267,Electric,141,0.24300210521698706,Rural,0.9900078522708657,Short-Term,14.02172567175753,Intermediate,Low,1.1,1348.73
+Plough,Cultivator Model 24,Brand B,5,Fair,145,Electric,340,0.9451879489663375,Urban,0.8138910198286499,Long-Term,5.627715737980635,Basic,High,1.0,2701.26
+Cultivator,Combine Harvester Model 38,Brand B,2,Fair,264,Electric,152,0.0937622474195291,Suburban,0.055621536839014274,Short-Term,7.499386655774828,Intermediate,Low,1.1,1089.83
+Combine Harvester,Combine Harvester Model 24,Brand A,12,Good,50,Electric,492,0.15893489629605284,Urban,0.9558487633183481,Long-Term,7.715013300096363,Basic,Low,1.2,6752.76
+Plough,Harrow Model 1,Brand D,6,Poor,122,Diesel,108,0.9829953017467685,Urban,0.44547501364545405,Short-Term,8.682247491271093,Intermediate,Low,1.0,620.95
+Seed Drill,Plough Model 48,Brand B,12,Good,19,Electric,108,0.49170541172995064,Suburban,0.5575598807936613,Short-Term,13.005966345142237,Basic,High,1.2,1424.4
+Tractor,Cultivator Model 23,Brand A,12,Poor,178,Hybrid,398,0.9482839364789742,Rural,0.5705673291269484,Short-Term,5.119545001055307,Intermediate,High,1.3,2533.39
+Tractor,Sprayer Model 18,Brand D,13,Good,219,Hybrid,227,0.5740019572291236,Suburban,0.5240535538575349,Short-Term,11.396327067233575,Advanced,High,1.3,1841.44
+Combine Harvester,Plough Model 6,Brand C,7,Good,129,Electric,56,0.4107455280802421,Rural,0.830204916316992,Short-Term,13.088761838355778,Advanced,Medium,1.2,907.85
+Harrow,Cultivator Model 40,Brand D,10,Fair,259,Electric,182,0.3359333933670696,Suburban,0.20826255310533626,Short-Term,10.647615704832742,Advanced,Medium,1.0,685.68
+Manure Spreader,Harrow Model 43,Brand D,3,Poor,37,Diesel,477,0.9146509158080726,Rural,0.2028290802316085,Long-Term,13.764461502928926,Intermediate,Low,1.0,2527.57
+Plough,Combine Harvester Model 30,Brand C,5,Fair,102,Electric,280,0.2922089395925529,Urban,0.23550676254443137,Short-Term,9.066230479211416,Intermediate,Low,1.0,2262.45
+Mower,Cultivator Model 38,Brand D,4,Poor,48,Hybrid,290,0.4569102464315149,Urban,0.45868036169593207,Short-Term,12.690498820691353,Intermediate,High,0.8,1850.11
+Manure Spreader,Combine Harvester Model 38,Brand D,7,Good,259,Diesel,250,0.2266461622212187,Urban,0.8396808033824791,Long-Term,7.067939412697082,Intermediate,Medium,1.0,1691.9
+Tractor,Plough Model 11,Brand C,8,Good,299,Diesel,369,0.43902406656241,Suburban,0.5191275742312123,Short-Term,8.455840785746531,Intermediate,Medium,1.3,3569.85
+Tractor,Tractor Model 44,Brand D,14,Good,101,Diesel,107,0.5528280248775314,Suburban,0.9467729038293339,Long-Term,8.278259090422349,Advanced,Medium,1.3,1280.08
+Cultivator,Sprayer Model 35,Brand D,1,Good,141,Hybrid,61,0.8801771512787043,Urban,0.19172481877568315,Short-Term,8.850684366411521,Advanced,High,1.1,803.52
+Seed Drill,Tractor Model 7,Brand C,4,Fair,196,Electric,91,0.45700176278177274,Rural,0.9960201529815479,Long-Term,8.096487624135078,Basic,High,1.2,733.09
+Combine Harvester,Sprayer Model 46,Brand D,5,Good,176,Hybrid,61,0.6436279757350001,Urban,0.6858973982216897,Short-Term,5.583585664191924,Intermediate,Medium,1.2,743.58
+Tractor,Seed Drill Model 6,Brand A,5,Fair,50,Diesel,245,0.35552380960352903,Rural,0.4570154124239768,Short-Term,6.8284384606961455,Basic,High,1.3,4139.68
+Tractor,Sprayer Model 14,Brand B,1,Fair,129,Hybrid,354,0.12506507083189589,Suburban,0.2221564507081042,Short-Term,9.195316752330308,Intermediate,High,1.3,4587.32
+Manure Spreader,Seed Drill Model 37,Brand B,12,Good,194,Diesel,286,0.8732016744168759,Urban,0.3506641051583481,Short-Term,8.17995644556532,Intermediate,Medium,1.0,1743.93
+Plough,Plough Model 37,Brand C,11,Good,286,Diesel,278,0.9158940964667737,Suburban,0.6922419136616387,Short-Term,13.834975363624517,Intermediate,Medium,1.0,1720.07
+Tractor,Manure Spreader Model 42,Brand D,8,Fair,190,Electric,295,0.32727934083578325,Urban,0.6371402225268729,Short-Term,13.3006227050763,Basic,Medium,1.3,1709.94
+Seed Drill,Cultivator Model 6,Brand D,7,Good,274,Hybrid,403,0.8623623367406784,Urban,0.20261670697605494,Long-Term,11.909999201794133,Intermediate,Low,1.2,1943.75
+Harrow,Cultivator Model 38,Brand A,1,Good,109,Diesel,422,0.2170734205004352,Urban,0.7739659802360271,Short-Term,10.698014701651605,Basic,High,1.0,8498.98
+Mower,Sprayer Model 24,Brand A,6,Fair,295,Hybrid,362,0.2533139672706959,Urban,0.03365064963812803,Short-Term,7.097186373596801,Basic,Low,0.8,1436.66
+Manure Spreader,Combine Harvester Model 17,Brand B,4,Good,202,Hybrid,233,0.9924337215531742,Urban,0.5381215856859164,Short-Term,8.498710264138177,Advanced,Low,1.0,3040.56
+Tractor,Combine Harvester Model 27,Brand C,10,Good,237,Hybrid,257,0.38842698357471495,Suburban,0.5873896462910636,Long-Term,9.108799608686233,Basic,Medium,1.3,1457.46
+Manure Spreader,Seed Drill Model 50,Brand D,5,Good,11,Diesel,496,0.41281829191062447,Suburban,0.002773092918560982,Long-Term,5.363182532682665,Basic,High,1.0,3842.71
+Sprayer,Cultivator Model 21,Brand C,2,Good,245,Diesel,446,0.3067919498901991,Suburban,0.07781266885554872,Short-Term,6.880558883177015,Intermediate,Low,0.9,3276.21
+Mower,Tractor Model 19,Brand B,1,Poor,36,Diesel,115,0.130487704730345,Rural,0.2098751220447378,Long-Term,9.689273918010741,Intermediate,Medium,0.8,731.09
+Plough,Manure Spreader Model 18,Brand D,14,Good,194,Hybrid,187,0.5659858708777485,Urban,0.0772193880411256,Short-Term,10.508171888479305,Intermediate,Low,1.0,710.64
+Plough,Cultivator Model 32,Brand B,12,Poor,38,Hybrid,312,0.253594563078686,Urban,0.41883776507766135,Short-Term,7.0749074999758985,Basic,Medium,1.0,1939.44
+Plough,Mower Model 43,Brand B,10,Fair,16,Hybrid,188,0.3148833584922024,Rural,0.30987683709372416,Short-Term,12.44980181519441,Basic,High,1.0,1330.12
+Harrow,Sprayer Model 32,Brand A,8,Good,62,Diesel,212,0.6149985254704756,Suburban,0.28038974868457456,Short-Term,8.371438812281255,Basic,Medium,1.0,2412.36
+Sprayer,Seed Drill Model 33,Brand A,11,Good,123,Diesel,470,0.3085789850648816,Suburban,0.2474144542589144,Short-Term,14.793727029411599,Intermediate,Low,0.9,3006.14
+Mower,Manure Spreader Model 8,Brand D,5,Fair,269,Diesel,111,0.5957413130999811,Rural,0.16813241347562946,Short-Term,13.96706306633026,Advanced,High,0.8,452.53
+Mower,Cultivator Model 40,Brand C,5,New,98,Diesel,275,0.3354893686631133,Suburban,0.8551447048495293,Short-Term,14.615971413699762,Basic,High,0.8,3658.35
+Cultivator,Combine Harvester Model 45,Brand D,2,New,57,Electric,413,0.9037285885922839,Rural,0.7480803682230825,Short-Term,9.331518965323362,Intermediate,Medium,1.1,10891.31
+Plough,Combine Harvester Model 25,Brand A,13,Good,82,Electric,187,0.4766804597385036,Urban,0.32377651521195816,Short-Term,13.51934208752416,Basic,Medium,1.0,1541.58
+Manure Spreader,Sprayer Model 10,Brand D,4,Fair,233,Diesel,221,0.7720407154695748,Rural,0.4095880520488352,Short-Term,10.806424478847024,Advanced,Low,1.0,1549.15
+Harrow,Manure Spreader Model 1,Brand D,7,Good,19,Diesel,331,0.5128343170854144,Suburban,0.8327153469692519,Long-Term,13.580128993185026,Intermediate,Medium,1.0,3710.33
+Sprayer,Sprayer Model 16,Brand D,11,New,114,Electric,119,0.705547345273941,Rural,0.5581635159849861,Short-Term,7.69974774174916,Intermediate,High,0.9,1069.53
+Sprayer,Sprayer Model 6,Brand B,4,Good,168,Electric,162,0.5674216861682703,Urban,0.04089893126055233,Long-Term,10.29845392868634,Basic,Low,0.9,773.83
+Sprayer,Harrow Model 20,Brand A,5,Good,149,Hybrid,441,0.9988467205357839,Suburban,0.8904572792089388,Long-Term,13.749901257142257,Basic,Medium,0.9,3992.25
+Combine Harvester,Mower Model 36,Brand A,7,Good,112,Electric,492,0.4498012906961849,Rural,0.9802726186503641,Short-Term,10.247900984654462,Basic,Medium,1.2,9057.27
+Mower,Harrow Model 16,Brand C,14,Good,66,Diesel,356,0.6405761186510249,Suburban,0.10731867769325276,Long-Term,9.042654368006064,Basic,Medium,0.8,1421.74
+Plough,Plough Model 29,Brand C,9,Good,191,Hybrid,379,0.35143138696683696,Urban,0.5553430426451574,Short-Term,12.500718530404505,Intermediate,Low,1.0,2439.33
+Sprayer,Mower Model 50,Brand C,8,Good,174,Electric,291,0.9801790013956458,Rural,0.11310747178652847,Short-Term,9.01569240929047,Advanced,Low,0.9,1747.18
+Seed Drill,Manure Spreader Model 16,Brand C,3,Fair,41,Hybrid,324,0.36184233800261634,Suburban,0.3145777930190675,Short-Term,8.689979951526645,Advanced,High,1.2,5556.26
+Combine Harvester,Manure Spreader Model 6,Brand C,9,Good,43,Electric,51,0.1376136132335931,Urban,0.7676560185358611,Long-Term,5.810714423592989,Intermediate,Low,1.2,675.83
+Tractor,Sprayer Model 46,Brand C,9,Fair,244,Hybrid,423,0.5255027607162664,Urban,0.9450136344427713,Short-Term,9.939313930661578,Intermediate,High,1.3,3498.5
+Seed Drill,Manure Spreader Model 42,Brand D,13,New,159,Hybrid,267,0.145542455070805,Suburban,0.8969078471994184,Short-Term,11.418139608750808,Advanced,Medium,1.2,3509.5
+Combine Harvester,Sprayer Model 10,Brand A,1,Good,134,Electric,104,0.9934886378311737,Urban,0.5587614739481688,Long-Term,9.127495805102592,Advanced,Medium,1.2,2004.93
+Tractor,Combine Harvester Model 10,Brand A,1,Good,272,Hybrid,395,0.05592265937155083,Urban,0.25288273352302115,Short-Term,7.76889263039961,Intermediate,Medium,1.3,6067.92
+Cultivator,Manure Spreader Model 22,Brand C,6,Fair,96,Electric,283,0.5931007849335661,Rural,0.9820843501723503,Short-Term,14.16994318648052,Intermediate,High,1.1,3466.22
+Manure Spreader,Harrow Model 20,Brand B,8,Good,70,Electric,182,0.6860859281720202,Urban,0.6618239045498999,Short-Term,13.481159217604588,Basic,High,1.0,2161.48
+Mower,Seed Drill Model 29,Brand A,14,New,298,Hybrid,272,0.8912761146864551,Suburban,0.4902631225000589,Short-Term,7.491441490388857,Intermediate,Medium,0.8,2022.87
+Seed Drill,Cultivator Model 35,Brand D,8,Fair,198,Electric,415,0.4759382469977811,Urban,0.8807384771697023,Long-Term,10.133690538958614,Advanced,High,1.2,2655.75
+Seed Drill,Harrow Model 46,Brand C,11,Poor,157,Diesel,81,0.4018139061665872,Rural,0.8976293614280892,Long-Term,7.494035614086112,Intermediate,High,1.2,382.46
+Combine Harvester,Plough Model 18,Brand D,2,Good,156,Hybrid,209,0.7889173667062074,Rural,0.545516114118648,Short-Term,14.306501150399589,Basic,Medium,1.2,2365.85
+Combine Harvester,Mower Model 14,Brand B,8,Fair,126,Diesel,204,0.16999845981172323,Suburban,0.1485976625419515,Short-Term,10.661713814012906,Basic,Medium,1.2,1294.99
+Tractor,Combine Harvester Model 1,Brand C,9,Fair,251,Electric,428,0.12092143616823758,Suburban,0.4139977906302337,Short-Term,11.398047806139504,Basic,High,1.3,2271.31
+Cultivator,Plough Model 17,Brand D,7,Poor,183,Diesel,105,0.5945518993974768,Urban,0.559488736673238,Short-Term,12.518352575590363,Basic,High,1.1,420.27
+Combine Harvester,Mower Model 12,Brand D,6,Good,97,Diesel,378,0.6376984656818132,Rural,0.08270265172978208,Short-Term,13.62433215388489,Basic,Medium,1.2,3034.22
+Sprayer,Manure Spreader Model 45,Brand D,9,New,177,Hybrid,402,0.7615419672193319,Urban,0.6263647462277417,Short-Term,7.050667340818797,Basic,High,0.9,2859.69
+Sprayer,Tractor Model 7,Brand C,11,Good,204,Electric,292,0.5077712817501653,Urban,0.36212184245094925,Long-Term,10.447227401852977,Intermediate,Low,0.9,1053.65
+Tractor,Combine Harvester Model 20,Brand D,9,Good,73,Electric,425,0.14321736681477204,Suburban,0.9947684272498044,Short-Term,8.570993549936409,Intermediate,High,1.3,7110.71
+Sprayer,Combine Harvester Model 8,Brand A,13,New,141,Diesel,320,0.7731188434450551,Urban,0.9772403158803541,Short-Term,7.213855620757355,Basic,Low,0.9,3984.56
+Combine Harvester,Tractor Model 12,Brand C,13,Good,114,Diesel,394,0.4891730216632576,Rural,0.641988349399371,Short-Term,13.848038660564331,Intermediate,Low,1.2,3902.78
+Cultivator,Plough Model 13,Brand B,1,Fair,278,Diesel,134,0.6520503032333684,Urban,0.26565032242597075,Long-Term,9.266689536824638,Intermediate,Low,1.1,881.25
+Seed Drill,Plough Model 5,Brand C,3,Fair,63,Electric,489,0.5069756351133619,Urban,0.34937238189434805,Long-Term,12.33729118388239,Basic,High,1.2,4299.8
+Tractor,Plough Model 50,Brand B,9,Fair,15,Diesel,425,0.0371380464859723,Rural,0.644181124957734,Long-Term,9.106995221863023,Advanced,Medium,1.3,5648.45
+Manure Spreader,Plough Model 46,Brand D,11,Good,79,Electric,270,0.22707974146408594,Suburban,0.35471126501043404,Long-Term,8.410617758032803,Intermediate,Medium,1.0,1580.89
+Combine Harvester,Seed Drill Model 21,Brand C,6,Fair,170,Diesel,57,0.9477076879861077,Suburban,0.3454077283403354,Short-Term,10.475222409088467,Intermediate,Low,1.2,404.97
+Seed Drill,Seed Drill Model 38,Brand A,9,New,62,Hybrid,365,0.5484806205851475,Rural,0.2507340132475162,Long-Term,6.433325665867185,Intermediate,Low,1.2,4775.12
+Plough,Seed Drill Model 38,Brand B,7,Fair,104,Electric,385,0.7217901401822576,Suburban,0.6832876999532033,Short-Term,12.653991481991492,Intermediate,Low,1.0,3727.37
+Sprayer,Seed Drill Model 38,Brand A,5,New,226,Electric,111,0.38284722322060605,Urban,0.7921906377292319,Long-Term,9.350259963084234,Advanced,Medium,0.9,1432.34
+Tractor,Combine Harvester Model 10,Brand A,10,Good,218,Hybrid,381,0.5292600531702946,Urban,0.46820860343785287,Short-Term,8.336173093903458,Advanced,Low,1.3,4219.88
+Plough,Seed Drill Model 43,Brand B,13,Good,28,Hybrid,169,0.5817268485887289,Suburban,0.3114338020936367,Short-Term,14.592375425768658,Intermediate,High,1.0,1619.0
+Seed Drill,Plough Model 40,Brand B,5,Fair,243,Diesel,438,0.8156662365978494,Suburban,0.6437834570564905,Short-Term,7.683503422311545,Basic,Low,1.2,4027.32
+Plough,Combine Harvester Model 50,Brand B,13,Good,229,Hybrid,383,0.4731188227912665,Rural,0.9851106665179002,Long-Term,9.527661173542835,Advanced,High,1.0,2963.24
+Plough,Manure Spreader Model 36,Brand C,11,Good,32,Diesel,279,0.9529163840736522,Rural,0.48974875044908095,Long-Term,14.087126684004277,Basic,Low,1.0,1880.3
+Seed Drill,Plough Model 50,Brand A,1,Fair,76,Diesel,344,0.22190589913492287,Rural,0.8706507587483557,Short-Term,6.1099222623058305,Basic,Medium,1.2,8113.44
+Combine Harvester,Mower Model 39,Brand C,9,Good,42,Hybrid,372,0.8201857061034448,Urban,0.5061010449547243,Short-Term,6.17033085326328,Basic,Low,1.2,5073.0
+Plough,Cultivator Model 14,Brand C,12,Good,262,Diesel,485,0.4896249892618545,Urban,0.4088568918012695,Short-Term,5.357478654341115,Intermediate,Medium,1.0,2957.09
+Mower,Sprayer Model 25,Brand A,13,Good,149,Hybrid,342,0.4103596059218694,Urban,0.8671952573223867,Short-Term,8.24797345859737,Intermediate,Low,0.8,2973.93
+Mower,Harrow Model 20,Brand B,9,Fair,272,Electric,198,0.7973774997556375,Urban,0.5917002999159106,Short-Term,7.5974522446889035,Basic,Medium,0.8,863.27
+Tractor,Tractor Model 26,Brand D,5,Good,219,Electric,244,0.08177211943827889,Suburban,0.7766873336221509,Short-Term,5.7895793393450745,Intermediate,Medium,1.3,3266.52
+Mower,Harrow Model 1,Brand B,10,Fair,95,Diesel,315,0.170976595453444,Suburban,0.9677808443117422,Short-Term,14.175633996557085,Basic,Medium,0.8,1996.92
+Plough,Combine Harvester Model 22,Brand B,10,Good,291,Hybrid,101,0.860545904844082,Suburban,0.3742486515684311,Long-Term,6.631611086810771,Intermediate,Medium,1.0,484.01
+Tractor,Combine Harvester Model 47,Brand D,14,Good,280,Diesel,380,0.5178164872514711,Urban,0.3255452180056274,Short-Term,10.140266677976278,Intermediate,Medium,1.3,2327.23
+Combine Harvester,Tractor Model 36,Brand A,8,Good,18,Electric,249,0.8391201262419832,Rural,0.8416014408432112,Short-Term,7.71982724957235,Advanced,Medium,1.2,7372.56
+Plough,Sprayer Model 33,Brand D,8,Good,67,Hybrid,458,0.054836494314839945,Rural,0.14267720907866532,Short-Term,14.7605542852777,Advanced,High,1.0,3908.04
+Manure Spreader,Mower Model 39,Brand B,6,Fair,24,Electric,422,0.3610005107862386,Urban,0.7971790760111491,Short-Term,7.27887914215374,Basic,Medium,1.0,6212.9
+Cultivator,Harrow Model 38,Brand C,12,Fair,238,Diesel,446,0.520485771729343,Urban,0.6921790204119432,Short-Term,5.444708800923804,Intermediate,Medium,1.1,2690.28
+Combine Harvester,Mower Model 4,Brand A,5,Poor,166,Hybrid,290,0.6736587858477732,Urban,0.666294524426922,Long-Term,10.123090476127013,Intermediate,Medium,1.2,1966.96
+Tractor,Tractor Model 4,Brand C,9,Good,160,Electric,55,0.45115521207579,Rural,0.9387803126854282,Long-Term,14.732782102415893,Advanced,Medium,1.3,544.3
+Sprayer,Cultivator Model 25,Brand D,4,Good,206,Electric,468,0.14187171537977072,Suburban,0.7956844323214385,Short-Term,9.64565763785652,Basic,High,0.9,3948.67
+Seed Drill,Plough Model 29,Brand D,7,Good,136,Electric,122,0.5650371652208792,Urban,0.5865931993389988,Short-Term,12.33774985556435,Basic,Medium,1.2,1170.23
+Cultivator,Seed Drill Model 32,Brand A,10,Good,299,Electric,203,0.015235838815640279,Rural,0.7073767397104358,Long-Term,5.496798998041151,Intermediate,Low,1.1,1481.18
+Manure Spreader,Plough Model 12,Brand D,10,Fair,233,Hybrid,322,0.37410287698340283,Urban,0.5337373717186426,Short-Term,6.154127759071427,Basic,Medium,1.0,1292.4
+Plough,Combine Harvester Model 37,Brand A,1,Poor,234,Hybrid,365,0.9385420085971815,Suburban,0.689549159368895,Short-Term,12.131693933155834,Intermediate,Low,1.0,3109.49
+Seed Drill,Sprayer Model 40,Brand B,2,Good,145,Electric,171,0.03462119237827699,Urban,0.0616279545669044,Short-Term,9.469466133995597,Basic,Medium,1.2,1891.74
+Plough,Harrow Model 10,Brand D,2,Good,172,Diesel,246,0.29385457788723124,Rural,0.5699120765920381,Long-Term,12.825577295535027,Intermediate,Low,1.0,1854.01
+Cultivator,Seed Drill Model 20,Brand D,5,Good,151,Electric,469,0.14106886638279004,Rural,0.7243873982512905,Short-Term,11.057115754147148,Basic,Medium,1.1,4962.58
+Plough,Plough Model 8,Brand B,8,Good,263,Hybrid,197,0.7062729565570376,Urban,0.07504311479150638,Short-Term,6.75635165011239,Advanced,Medium,1.0,1393.19
+Seed Drill,Cultivator Model 36,Brand D,10,Good,255,Hybrid,225,0.23568872839427424,Rural,0.5354731992906985,Short-Term,6.318081282712205,Basic,High,1.2,1442.15
+Mower,Manure Spreader Model 49,Brand D,1,Good,188,Hybrid,368,0.19283372408474042,Suburban,0.627114682355301,Long-Term,6.157084217906849,Intermediate,Medium,0.8,2619.79
+Combine Harvester,Harrow Model 14,Brand B,4,Fair,190,Electric,132,0.9880955615107919,Urban,0.2629940811914425,Short-Term,12.238873494617696,Intermediate,High,1.2,998.92
+Seed Drill,Combine Harvester Model 11,Brand A,2,Fair,174,Hybrid,193,0.3884026375769749,Rural,0.5461292980240529,Short-Term,9.2551457413438,Basic,Medium,1.2,2218.17
+Plough,Seed Drill Model 20,Brand D,6,Good,184,Hybrid,185,0.0316092529808194,Urban,0.6974185067894517,Short-Term,8.745825933690437,Basic,High,1.0,1460.13
+Combine Harvester,Cultivator Model 8,Brand C,11,Good,102,Electric,130,0.28981819156754784,Urban,0.08129057835335451,Long-Term,10.166164806840605,Basic,Low,1.2,654.15
+Sprayer,Cultivator Model 34,Brand D,9,New,232,Electric,88,0.7406956751499222,Suburban,0.4827976888415587,Short-Term,13.563126206564723,Intermediate,Low,0.9,534.49
+Seed Drill,Tractor Model 37,Brand B,7,New,62,Diesel,263,0.005494040507492581,Urban,0.8150391743357486,Long-Term,8.206646840301048,Intermediate,Low,1.2,5230.09
+Cultivator,Sprayer Model 12,Brand C,12,Good,174,Hybrid,316,0.1878820217658106,Suburban,0.26482738720995214,Short-Term,13.451751314446987,Advanced,Medium,1.1,2004.75
+Manure Spreader,Seed Drill Model 9,Brand A,4,Good,81,Hybrid,379,0.3604331633645744,Suburban,0.6002704977936018,Short-Term,6.881687119063069,Basic,Low,1.0,6930.52
+Plough,Combine Harvester Model 29,Brand D,9,Good,58,Hybrid,211,0.3732663064543572,Suburban,0.6540730096050282,Long-Term,8.03168027863622,Advanced,Medium,1.0,2120.43
+Plough,Tractor Model 29,Brand A,7,Good,295,Hybrid,323,0.7722486287951366,Rural,0.34516140899618386,Short-Term,10.428781900480779,Basic,Low,1.0,2419.15
+Manure Spreader,Sprayer Model 14,Brand B,8,Good,115,Electric,176,0.7257069639482017,Suburban,0.5332788059056395,Short-Term,8.29840804285861,Intermediate,Low,1.0,1998.09
+Combine Harvester,Mower Model 14,Brand A,2,Fair,95,Diesel,399,0.4060828769425229,Suburban,0.8438534991423514,Long-Term,5.067673263121404,Intermediate,High,1.2,6904.16
+Seed Drill,Manure Spreader Model 32,Brand B,6,Good,73,Electric,292,0.837124324422051,Suburban,0.34058553330594754,Short-Term,6.141167687763547,Basic,Low,1.2,4488.37
+Cultivator,Manure Spreader Model 23,Brand B,7,Good,108,Hybrid,121,0.40905979115173075,Suburban,0.22206146156608175,Short-Term,10.52201767339723,Advanced,High,1.1,1516.93
+Seed Drill,Sprayer Model 30,Brand C,1,Good,251,Electric,62,0.6040510277336592,Urban,0.3134088735851982,Short-Term,10.812026403152304,Intermediate,Low,1.2,723.29
+Tractor,Mower Model 3,Brand A,14,Good,242,Electric,222,0.6660209927857267,Suburban,0.759601788383078,Short-Term,14.093431623757835,Intermediate,High,1.3,2215.6
+Cultivator,Combine Harvester Model 6,Brand C,11,Poor,146,Electric,355,0.44704240950062524,Suburban,0.15356908232456135,Short-Term,6.4545931478815515,Intermediate,Low,1.1,1337.24
+Cultivator,Plough Model 6,Brand C,11,Good,212,Electric,395,0.0485739721026609,Urban,0.9810763896032771,Short-Term,9.795663765586426,Advanced,Medium,1.1,4044.9
+Manure Spreader,Cultivator Model 6,Brand A,10,Fair,156,Hybrid,57,0.43384363308244067,Suburban,0.7510031222329298,Short-Term,9.204037255253892,Advanced,Low,1.0,489.09
+Manure Spreader,Mower Model 13,Brand B,8,Fair,286,Diesel,312,0.6389626314810072,Urban,0.3712053389586255,Short-Term,11.345737888234062,Intermediate,Low,1.0,1632.07
+Seed Drill,Tractor Model 37,Brand C,2,Good,162,Diesel,76,0.024298355097678304,Suburban,0.8175536948001072,Long-Term,12.610014191697077,Intermediate,High,1.2,934.25
+Cultivator,Tractor Model 16,Brand B,3,Good,159,Hybrid,346,0.9640459361882667,Urban,0.7244754605637076,Long-Term,9.79911008553714,Basic,High,1.1,3755.58
+Tractor,Mower Model 36,Brand D,2,Fair,241,Electric,188,0.4470360326012992,Urban,0.6757214660475747,Long-Term,8.9186972422387,Intermediate,Medium,1.3,1509.83
+Seed Drill,Seed Drill Model 27,Brand C,11,Good,198,Electric,257,0.657048040365042,Rural,0.169149527469998,Short-Term,13.948247139088982,Intermediate,High,1.2,1315.09
+Manure Spreader,Cultivator Model 12,Brand C,8,Poor,278,Hybrid,301,0.04392979997254731,Rural,0.15958670930968466,Long-Term,8.42204462977163,Intermediate,Low,1.0,748.55
+Combine Harvester,Mower Model 41,Brand A,3,Good,298,Diesel,144,0.9197330694383249,Suburban,0.9609638584451409,Short-Term,6.927726036970049,Intermediate,Low,1.2,2905.6
+Combine Harvester,Mower Model 5,Brand B,14,Good,198,Electric,421,0.7521436233994601,Urban,0.1221961764563102,Long-Term,5.8202424552072864,Advanced,Low,1.2,2371.91
+Cultivator,Tractor Model 49,Brand D,14,New,74,Hybrid,248,0.048820104634567985,Rural,0.3884740757973615,Short-Term,10.246835282304797,Advanced,High,1.1,3164.18
+Harrow,Cultivator Model 48,Brand A,4,Good,287,Hybrid,441,0.17831974358773395,Rural,0.25765715056264615,Short-Term,6.529096821454624,Basic,Medium,1.0,4099.7
+Tractor,Harrow Model 38,Brand A,7,Good,20,Electric,200,0.833784391537373,Suburban,0.058896430219633866,Short-Term,7.1186554039295675,Basic,High,1.3,3091.31
+Manure Spreader,Combine Harvester Model 2,Brand D,10,Fair,97,Hybrid,411,0.9143787677242653,Rural,0.19619589861783682,Short-Term,6.5002364888529565,Intermediate,High,1.0,2064.89
+Mower,Cultivator Model 40,Brand C,7,Fair,16,Electric,361,0.3553539457445367,Urban,0.21590234858519952,Short-Term,10.703157453514628,Advanced,Low,0.8,3021.05
+Manure Spreader,Tractor Model 30,Brand A,8,New,251,Electric,268,0.2663793523996256,Urban,0.08470942688982408,Short-Term,9.48602484652896,Basic,Medium,1.0,1903.11
+Sprayer,Manure Spreader Model 10,Brand D,12,Good,128,Electric,457,0.403151827219868,Urban,0.3851792796833815,Short-Term,9.107726251879809,Intermediate,High,0.9,2683.92
+Harrow,Tractor Model 44,Brand B,10,Good,274,Electric,235,0.10138651542086452,Urban,0.8742310531177534,Long-Term,14.948205928746853,Basic,High,1.0,1178.66
+Mower,Seed Drill Model 40,Brand C,9,Good,297,Diesel,54,0.7070461715314064,Urban,0.058439615699080516,Short-Term,7.672130993898026,Advanced,High,0.8,246.35
+Cultivator,Plough Model 38,Brand C,13,Fair,123,Hybrid,60,0.062021309230771204,Urban,0.5049941647940762,Short-Term,14.329024859560114,Basic,High,1.1,324.84
+Sprayer,Cultivator Model 13,Brand B,8,Poor,184,Electric,189,0.7023702977945051,Urban,0.517674931897098,Long-Term,7.086475523204507,Basic,Low,0.9,567.98
+Tractor,Mower Model 36,Brand A,5,Good,13,Diesel,369,0.15332622551272745,Urban,0.3214701989911244,Short-Term,11.146242504109829,Intermediate,Medium,1.3,8515.35
+Tractor,Sprayer Model 14,Brand D,5,Fair,182,Hybrid,300,0.30302380400385076,Suburban,0.5189956052535624,Short-Term,14.912334762132026,Basic,Low,1.3,1952.52
+Manure Spreader,Harrow Model 9,Brand C,8,Good,104,Diesel,334,0.9765043343806376,Rural,0.731686291474004,Short-Term,14.309042981396615,Advanced,Low,1.0,4245.03
+Manure Spreader,Combine Harvester Model 35,Brand A,8,Fair,152,Diesel,419,0.6824402773557027,Urban,0.3117890453211015,Short-Term,12.67205937381442,Advanced,Medium,1.0,3069.11
+Harrow,Seed Drill Model 44,Brand A,14,Fair,62,Diesel,421,0.4466336060593282,Urban,0.8082862629975445,Short-Term,6.8480955683106925,Basic,Low,1.0,4353.34
+Combine Harvester,Tractor Model 29,Brand D,11,New,279,Hybrid,101,0.8214992404909536,Suburban,0.4173460726456649,Long-Term,5.392006305650039,Intermediate,Medium,1.2,626.86
+Sprayer,Cultivator Model 2,Brand B,13,Fair,14,Diesel,382,0.5562979206025472,Suburban,0.1757031327236388,Long-Term,11.314702475618123,Basic,High,0.9,1686.14
+Tractor,Combine Harvester Model 28,Brand A,5,New,137,Hybrid,350,0.5390939874815387,Suburban,0.8161666357392112,Short-Term,13.191004216381247,Intermediate,Low,1.3,8611.45
+Cultivator,Harrow Model 40,Brand C,13,Fair,74,Electric,112,0.18659353885322105,Urban,0.8509959217463796,Short-Term,7.9832556435470305,Intermediate,High,1.1,1123.51
+Manure Spreader,Manure Spreader Model 1,Brand B,12,Good,204,Hybrid,381,0.5461495958131477,Suburban,0.5473123682697035,Long-Term,8.748525698227391,Intermediate,High,1.0,1974.19
+Seed Drill,Manure Spreader Model 18,Brand C,12,Fair,289,Diesel,480,0.06956618890066313,Rural,0.002508634173004065,Short-Term,13.188631079384852,Intermediate,High,1.2,1605.64
+Combine Harvester,Seed Drill Model 37,Brand C,9,New,286,Electric,167,0.3064940962061382,Suburban,0.7773938514137905,Short-Term,5.214007793467191,Intermediate,High,1.2,2125.1
+Sprayer,Cultivator Model 18,Brand A,3,Good,144,Diesel,443,0.054761984788592066,Urban,0.2341106088087499,Short-Term,11.97508732394807,Intermediate,High,0.9,4623.3
+Manure Spreader,Tractor Model 30,Brand D,8,Fair,151,Hybrid,405,0.049136571412117025,Urban,0.8577695949226212,Short-Term,5.942873405409603,Advanced,Low,1.0,3615.86
+Seed Drill,Mower Model 47,Brand D,10,Good,101,Diesel,478,0.2528867486991515,Urban,0.4402726284383902,Long-Term,9.226171121460482,Intermediate,High,1.2,3243.87
+Mower,Manure Spreader Model 39,Brand A,13,New,254,Diesel,435,0.14367979798522434,Rural,0.8020093607368326,Long-Term,14.033010081973101,Intermediate,Medium,0.8,2568.38
+Plough,Plough Model 45,Brand C,10,Good,269,Diesel,271,0.35165513443892193,Suburban,0.2717598532178729,Short-Term,13.029756767142151,Intermediate,Medium,1.0,1282.1
+Plough,Combine Harvester Model 34,Brand C,8,Good,12,Diesel,281,0.40169093081759855,Suburban,0.9760099423559752,Short-Term,13.880932107945352,Basic,Medium,1.0,4279.58
+Plough,Seed Drill Model 27,Brand C,3,Good,76,Electric,450,0.04878084885008638,Suburban,0.7786456906943741,Short-Term,8.716639020724065,Advanced,Medium,1.0,10342.8
+Plough,Sprayer Model 46,Brand A,14,Good,20,Hybrid,297,0.6256400396424848,Urban,0.3906807167134938,Short-Term,11.238321801643567,Advanced,Medium,1.0,4276.38
+Combine Harvester,Mower Model 29,Brand A,13,Good,160,Diesel,277,0.058123743020969454,Urban,0.1779504209491236,Short-Term,13.85539364699561,Basic,High,1.2,1753.53
+Combine Harvester,Seed Drill Model 2,Brand A,6,New,128,Hybrid,74,0.6417104285472879,Suburban,0.3213599770540032,Long-Term,11.729772527968317,Advanced,Low,1.2,1084.31
+Combine Harvester,Combine Harvester Model 2,Brand B,4,Good,253,Electric,148,0.15916031024993282,Suburban,0.08128035540617728,Short-Term,5.286657203474583,Intermediate,Medium,1.2,1464.58
+Plough,Seed Drill Model 25,Brand C,3,Good,165,Electric,160,0.46137811563325104,Suburban,0.025717355346185466,Short-Term,12.384612546750377,Basic,Medium,1.0,1048.2
+Mower,Plough Model 49,Brand C,13,Good,73,Diesel,332,0.7574448533507561,Rural,0.7419768971609518,Short-Term,9.150496168701286,Intermediate,Low,0.8,2981.28
+Plough,Mower Model 27,Brand D,9,Fair,212,Diesel,187,0.7952712302109307,Rural,0.09289886329595909,Long-Term,6.304839353596278,Basic,Low,1.0,439.99
+Combine Harvester,Combine Harvester Model 27,Brand C,5,Good,188,Hybrid,78,0.38296770613101505,Urban,0.4716276706515077,Short-Term,9.198510926391489,Intermediate,Low,1.2,831.32
+Combine Harvester,Cultivator Model 13,Brand A,7,Poor,294,Diesel,345,0.2614236294327992,Suburban,0.6236602592784495,Short-Term,7.6728110266963165,Basic,High,1.2,2304.61
+Tractor,Combine Harvester Model 16,Brand D,2,Fair,38,Hybrid,429,0.7277065451912651,Rural,0.6763213254714822,Short-Term,9.475700735088772,Intermediate,Medium,1.3,8144.13
+Plough,Plough Model 37,Brand B,14,Fair,164,Hybrid,79,0.6414139984649353,Suburban,0.6214935967947618,Long-Term,7.166135403442308,Intermediate,High,1.0,365.28
+Plough,Harrow Model 9,Brand A,8,Poor,237,Hybrid,475,0.9714746828373017,Suburban,0.13195952587188287,Short-Term,6.731045212642424,Basic,Low,1.0,1732.25
+Combine Harvester,Seed Drill Model 30,Brand D,2,Fair,91,Diesel,353,0.9177552628362465,Urban,0.8738401341633775,Short-Term,6.813801750056172,Intermediate,High,1.2,6099.25
+Tractor,Manure Spreader Model 18,Brand A,11,Good,122,Hybrid,403,0.3215332520868073,Urban,0.47745966895722514,Long-Term,8.642863656389048,Basic,Low,1.3,3429.91
+Sprayer,Seed Drill Model 41,Brand D,9,Fair,164,Electric,385,0.9300495165425507,Urban,0.12412075415909096,Short-Term,12.388955444588259,Advanced,Low,0.9,1419.48
+Harrow,Cultivator Model 28,Brand C,10,Fair,251,Electric,232,0.4171890333084427,Rural,0.6610319591373589,Short-Term,6.228083925174235,Intermediate,High,1.0,1230.86
+Seed Drill,Sprayer Model 22,Brand A,4,Good,44,Hybrid,316,0.0755157305168972,Rural,0.8553793509345562,Short-Term,10.336636544300035,Basic,High,1.2,8495.97
+Cultivator,Plough Model 29,Brand B,4,Poor,186,Diesel,240,0.8486557716952938,Rural,0.03862467055204277,Long-Term,6.11923561243382,Basic,High,1.1,819.07
+Combine Harvester,Cultivator Model 5,Brand A,9,Good,228,Diesel,474,0.3112651300281345,Rural,0.8210066605227256,Short-Term,14.01961031999884,Basic,Low,1.2,4526.37
+Manure Spreader,Cultivator Model 15,Brand B,1,Fair,243,Electric,436,0.6062746601911323,Urban,0.05913245793983413,Short-Term,8.430330432667503,Intermediate,High,1.0,2956.4
+Manure Spreader,Manure Spreader Model 6,Brand A,6,Fair,187,Hybrid,57,0.7434037174765247,Rural,0.4909068271722058,Short-Term,13.361475343572376,Basic,Low,1.0,359.56
+Mower,Manure Spreader Model 19,Brand A,1,Poor,255,Diesel,278,0.4288700278626377,Rural,0.06677547919009075,Short-Term,14.341424667915726,Basic,High,0.8,1037.32
+Tractor,Harrow Model 41,Brand A,7,Fair,78,Electric,434,0.5478170734018089,Rural,0.5105124522854172,Short-Term,6.619711664798804,Basic,Low,1.3,6026.65
+Plough,Sprayer Model 37,Brand D,4,New,27,Hybrid,334,0.7349469599792215,Urban,0.3716069814859887,Short-Term,7.822888318763165,Advanced,High,1.0,7458.62
+Harrow,Tractor Model 48,Brand A,2,Fair,144,Diesel,270,0.7180959568437367,Urban,0.7450702254174171,Short-Term,9.108231215915053,Advanced,Low,1.0,4402.96
+Cultivator,Harrow Model 30,Brand B,6,Fair,177,Electric,140,0.40952858492362587,Suburban,0.995443161084586,Short-Term,6.971587574043382,Basic,High,1.1,1395.98
+Sprayer,Tractor Model 23,Brand D,6,Poor,203,Hybrid,456,0.7072479780987164,Rural,0.15898324992313584,Short-Term,14.235000536537601,Advanced,Low,0.9,1497.55
+Seed Drill,Mower Model 11,Brand C,5,Fair,179,Electric,298,0.13824401229513072,Urban,0.010063566590418849,Short-Term,13.524864204216287,Basic,Medium,1.2,1385.8
+Harrow,Harrow Model 42,Brand B,7,Good,220,Electric,356,0.7943990715672918,Rural,0.002903782753540307,Short-Term,14.408486657170181,Basic,High,1.0,1675.95
+Seed Drill,Mower Model 13,Brand D,2,Good,231,Electric,99,0.7908027901355656,Urban,0.34396638769581744,Short-Term,7.7708929169831205,Intermediate,Medium,1.2,1069.94
+Sprayer,Manure Spreader Model 48,Brand D,6,Good,184,Hybrid,437,0.43515765309558796,Suburban,0.7723794553820329,Long-Term,9.203790411781048,Intermediate,Low,0.9,2650.14
+Sprayer,Manure Spreader Model 35,Brand A,14,Poor,142,Electric,249,0.5788098576663248,Suburban,0.1462342707600448,Short-Term,6.08148515403096,Basic,High,0.9,852.95
+Combine Harvester,Seed Drill Model 41,Brand B,1,Fair,298,Hybrid,177,0.6168900549878398,Urban,0.4391712700596414,Short-Term,9.496491983508824,Basic,Low,1.2,1742.32
+Manure Spreader,Harrow Model 7,Brand C,13,Poor,59,Hybrid,204,0.025380345663916892,Suburban,0.4800044065757806,Long-Term,5.149289416949491,Intermediate,Low,1.0,962.14
+Seed Drill,Manure Spreader Model 21,Brand C,6,Good,180,Diesel,378,0.41756271988021254,Urban,0.11598287130950902,Long-Term,14.055819605200671,Intermediate,High,1.2,1960.58
+Sprayer,Harrow Model 20,Brand D,3,Good,181,Electric,266,0.019988442713948174,Suburban,0.9647968217820275,Short-Term,11.900355676244846,Intermediate,Medium,0.9,2764.11
+Combine Harvester,Sprayer Model 25,Brand D,14,Good,247,Hybrid,224,0.28946453185580456,Urban,0.7296431286744426,Long-Term,14.947356028632553,Basic,High,1.2,1017.99
+Manure Spreader,Mower Model 9,Brand B,11,Good,40,Electric,325,0.7875488471002832,Rural,0.7537392361263406,Short-Term,5.711138053600485,Intermediate,Low,1.0,4800.62
+Manure Spreader,Combine Harvester Model 42,Brand B,6,Good,187,Diesel,71,0.6223412322933697,Rural,0.15852334058927675,Short-Term,14.128453873237136,Basic,Medium,1.0,418.37
+Cultivator,Tractor Model 22,Brand A,12,Fair,176,Electric,131,0.6293020569783394,Rural,0.21459552120129366,Short-Term,9.139922641598407,Advanced,Low,1.1,776.59
+Seed Drill,Cultivator Model 33,Brand D,8,Fair,21,Electric,130,0.7627726856254815,Urban,0.5229822481566626,Long-Term,8.39026846744326,Basic,Medium,1.2,1010.94
+Tractor,Seed Drill Model 30,Brand B,3,Fair,231,Hybrid,308,0.9060609748078522,Suburban,0.7655379693520626,Short-Term,10.295171525591176,Basic,High,1.3,3548.18
+Manure Spreader,Harrow Model 41,Brand B,9,Fair,199,Electric,491,0.7278931700182326,Suburban,0.6701658289996638,Long-Term,9.399916162109662,Intermediate,Low,1.0,2236.79
+Seed Drill,Harrow Model 11,Brand B,9,Poor,136,Electric,381,0.026652141622199976,Rural,0.5595449409243584,Short-Term,10.308269756854767,Basic,Low,1.2,2259.41
+Plough,Harrow Model 47,Brand D,13,Good,283,Electric,499,0.6315724223212243,Rural,0.21074545208968543,Short-Term,11.48752295507775,Basic,Medium,1.0,1899.25
+Manure Spreader,Cultivator Model 19,Brand D,11,Poor,89,Hybrid,312,0.9572796518691004,Suburban,0.7733749943148913,Short-Term,8.326131583536457,Basic,Medium,1.0,1634.42
+Cultivator,Mower Model 26,Brand A,1,Good,86,Electric,334,0.3666898489825303,Urban,0.5026122627203262,Short-Term,11.818461138163148,Advanced,High,1.1,8677.98
+Seed Drill,Mower Model 41,Brand B,4,Poor,223,Diesel,286,0.9111062534697002,Urban,0.1725387200602454,Short-Term,7.007572104931144,Basic,Medium,1.2,1576.34
+Sprayer,Manure Spreader Model 31,Brand A,13,Fair,12,Electric,205,0.7605125146658297,Suburban,0.9575354169583395,Long-Term,5.412069071051638,Intermediate,Low,0.9,2038.65
+Combine Harvester,Mower Model 31,Brand A,7,Good,125,Diesel,396,0.14910963217506024,Suburban,0.2485912600483804,Short-Term,12.427821235887539,Intermediate,High,1.2,4586.15
+Plough,Plough Model 19,Brand D,13,Fair,36,Diesel,181,0.5847069137613772,Urban,0.6179421144005312,Short-Term,7.400277448525069,Advanced,Low,1.0,1754.44
+Cultivator,Harrow Model 42,Brand B,10,Good,251,Electric,351,0.5447593498761766,Suburban,0.7887617237917438,Short-Term,12.063293524628449,Basic,Low,1.1,2622.08
+Combine Harvester,Combine Harvester Model 9,Brand A,7,New,129,Electric,283,0.7998982504219914,Rural,0.07426593145830696,Short-Term,11.521403846033131,Advanced,Low,1.2,4174.35
+Sprayer,Tractor Model 10,Brand A,8,Fair,49,Electric,422,0.3372616016687361,Urban,0.29868978568528326,Long-Term,9.225676181142887,Basic,Medium,0.9,2528.99
+Harrow,Combine Harvester Model 4,Brand B,4,Fair,277,Hybrid,335,0.8450498539062009,Urban,0.9991367410878262,Short-Term,14.41388912761072,Basic,Low,1.0,2901.52
+Combine Harvester,Tractor Model 11,Brand C,5,Good,255,Hybrid,329,0.9617937331413029,Suburban,0.0073893063816956595,Short-Term,13.710515388287552,Advanced,High,1.2,2584.78
+Combine Harvester,Seed Drill Model 3,Brand A,8,Good,20,Hybrid,196,0.2540735716821291,Urban,0.2635286968120294,Short-Term,9.205276777762853,Intermediate,Low,1.2,3254.5
+Harrow,Mower Model 2,Brand A,6,Good,53,Electric,496,0.45557232026411176,Rural,0.03586990672101764,Short-Term,11.333186703799331,Advanced,High,1.0,6721.97
+Seed Drill,Combine Harvester Model 10,Brand A,4,Fair,144,Diesel,356,0.8653100585985064,Suburban,0.18205891458315948,Short-Term,11.97567732808377,Basic,High,1.2,3044.78
+Plough,Plough Model 12,Brand B,5,New,280,Electric,475,0.5881757354614975,Rural,0.7526200139146223,Short-Term,7.36733756283436,Basic,High,1.0,6506.74
+Plough,Seed Drill Model 36,Brand D,14,Fair,130,Diesel,408,0.8823825791641816,Suburban,0.489674286493913,Short-Term,8.578854652301882,Intermediate,High,1.0,2151.43
+Combine Harvester,Seed Drill Model 1,Brand B,5,Good,123,Electric,286,0.2081238197283406,Rural,0.9756896346076931,Short-Term,7.810121704338913,Intermediate,Medium,1.2,6132.17
+Sprayer,Tractor Model 2,Brand C,6,Good,199,Diesel,235,0.4015754123041746,Urban,0.6318386332496805,Long-Term,10.541209324123493,Intermediate,High,0.9,1419.53
+Harrow,Harrow Model 25,Brand A,2,Poor,37,Hybrid,373,0.03601165126081707,Suburban,0.758724746626278,Short-Term,11.092218526530075,Intermediate,Medium,1.0,5754.29
+Mower,Cultivator Model 20,Brand D,9,Fair,201,Hybrid,389,0.10271026533099104,Urban,0.7790549028105462,Short-Term,6.364870343713006,Intermediate,High,0.8,1746.22
+Mower,Tractor Model 25,Brand B,1,Fair,117,Electric,76,0.42413065442853815,Rural,0.3402150857930629,Short-Term,12.209489287186786,Advanced,Medium,0.8,776.41
+Seed Drill,Mower Model 44,Brand C,6,Poor,27,Electric,218,0.11653127759464144,Rural,0.7581912570505791,Short-Term,14.976939173455579,Intermediate,High,1.2,2480.63
+Harrow,Manure Spreader Model 45,Brand A,8,Fair,112,Electric,365,0.5861262743363324,Rural,0.8152650739148039,Short-Term,7.770423233665112,Intermediate,Medium,1.0,4103.51
+Combine Harvester,Plough Model 32,Brand B,2,Good,27,Hybrid,371,0.8140177932701268,Rural,0.006694687668205801,Long-Term,6.666450343729592,Advanced,High,1.2,6153.32
+Plough,Seed Drill Model 28,Brand C,2,Fair,254,Hybrid,213,0.8209174725528163,Suburban,0.54526063002896,Short-Term,6.791488789449966,Intermediate,Medium,1.0,1872.5
+Plough,Manure Spreader Model 16,Brand B,7,New,107,Hybrid,88,0.5149585774119891,Suburban,0.9140252590238652,Short-Term,13.556827219562468,Basic,Low,1.0,1423.27
+Plough,Mower Model 29,Brand D,7,Good,132,Diesel,345,0.09703314259050466,Suburban,0.7074271085167808,Long-Term,7.473575809255605,Basic,Low,1.0,2495.81
+Sprayer,Sprayer Model 7,Brand D,1,Fair,187,Hybrid,144,0.23169315102091692,Suburban,0.07625958186842885,Short-Term,14.002146311488735,Intermediate,Medium,0.9,651.69
+Tractor,Cultivator Model 11,Brand D,4,Fair,132,Electric,345,0.9424524737398997,Urban,0.045290602051095585,Short-Term,13.114675261499787,Intermediate,High,1.3,2400.37
+Manure Spreader,Seed Drill Model 40,Brand A,8,Good,54,Electric,251,0.11841647638456887,Rural,0.6055103123603341,Short-Term,10.393901842571378,Basic,Medium,1.0,3531.95
+Manure Spreader,Mower Model 49,Brand A,12,Poor,118,Diesel,51,0.2811563819232231,Urban,0.021657216575770466,Short-Term,7.077667601366393,Advanced,Low,1.0,244.52
+Mower,Tractor Model 45,Brand B,11,Good,40,Hybrid,215,0.754932092966652,Suburban,0.6895048545684882,Short-Term,10.125572926293012,Advanced,High,0.8,2657.39
+Manure Spreader,Sprayer Model 11,Brand A,7,Fair,245,Hybrid,277,0.198500286380088,Suburban,0.39875747465152434,Long-Term,10.411465863853397,Basic,Low,1.0,1213.9
+Sprayer,Plough Model 42,Brand D,8,Good,298,Electric,413,0.4804615561038569,Rural,0.08507237195009587,Long-Term,12.015643832726473,Advanced,Low,0.9,1467.28
+Seed Drill,Sprayer Model 24,Brand D,13,Good,275,Electric,108,0.3552205059565251,Urban,0.9891422412596835,Short-Term,13.523283145747323,Intermediate,Medium,1.2,854.03
+Combine Harvester,Manure Spreader Model 40,Brand A,11,Good,124,Diesel,104,0.26781266707110873,Suburban,0.615024875415805,Long-Term,9.372988508551419,Basic,Low,1.2,873.18
+Combine Harvester,Harrow Model 32,Brand B,4,Good,122,Hybrid,208,0.03954320774985698,Suburban,0.49092971266530205,Long-Term,13.71385026764934,Advanced,Medium,1.2,2833.65
+Combine Harvester,Manure Spreader Model 27,Brand B,14,New,156,Electric,215,0.22602856222079093,Suburban,0.2444808158411791,Long-Term,10.174540886663848,Intermediate,High,1.2,1496.35
+Seed Drill,Mower Model 6,Brand B,14,Fair,100,Hybrid,464,0.7151914844698266,Urban,0.24427063836990903,Short-Term,5.9586898917674045,Intermediate,Medium,1.2,3552.24
+Harrow,Manure Spreader Model 38,Brand B,7,Fair,237,Electric,376,0.3766010446266984,Urban,0.7982314172160665,Short-Term,6.7127056950115,Intermediate,High,1.0,3060.41
+Seed Drill,Cultivator Model 11,Brand D,2,Poor,47,Hybrid,437,0.6453824829938348,Rural,0.1138402513265353,Long-Term,13.526197261617781,Basic,Low,1.2,2413.7
+Harrow,Tractor Model 39,Brand B,11,Good,208,Hybrid,190,0.9786004927293532,Urban,0.8687416811331604,Long-Term,10.522475849238653,Advanced,High,1.0,1356.57
+Mower,Sprayer Model 25,Brand D,10,Fair,219,Hybrid,471,0.6346601520877302,Suburban,0.2092521537228791,Short-Term,10.96879096776637,Advanced,High,0.8,1411.5
+Plough,Sprayer Model 12,Brand D,6,Good,113,Diesel,334,0.6771880114541843,Suburban,0.4610528698144829,Short-Term,9.147919873978733,Basic,Low,1.0,3108.58
+Sprayer,Plough Model 21,Brand A,2,Good,117,Electric,74,0.9131614916171586,Rural,0.941639472264264,Short-Term,9.619622735583931,Intermediate,High,0.9,1514.51
+Mower,Plough Model 1,Brand B,10,Poor,19,Electric,360,0.3992003901171426,Urban,0.17719554814408667,Long-Term,11.486738728013998,Basic,Low,0.8,1080.48
+Tractor,Harrow Model 25,Brand A,14,Good,118,Hybrid,353,0.980418627425562,Rural,0.7482574138509693,Short-Term,14.555088237211969,Intermediate,Low,1.3,4689.74
+Sprayer,Plough Model 25,Brand B,10,Fair,215,Diesel,249,0.8619746492801252,Suburban,0.5095183178503055,Long-Term,10.624801685665274,Basic,High,0.9,744.11
+Sprayer,Plough Model 30,Brand B,8,Poor,194,Hybrid,160,0.3311394396387132,Rural,0.3194290808327015,Short-Term,14.763455438150391,Advanced,Medium,0.9,619.45
+Manure Spreader,Seed Drill Model 28,Brand A,14,Good,272,Hybrid,358,0.6527563193771555,Rural,0.9024011080441441,Long-Term,11.40234078775342,Basic,Low,1.0,2144.74
+Cultivator,Tractor Model 37,Brand D,5,Good,11,Hybrid,118,0.7928111221588143,Urban,0.2697161438282687,Long-Term,13.550378477252757,Intermediate,Low,1.1,1190.76
+Tractor,Tractor Model 14,Brand C,2,Fair,265,Hybrid,435,0.12711314137058383,Rural,0.6693241663908905,Short-Term,11.364465517800838,Intermediate,Medium,1.3,4908.92
+Harrow,Sprayer Model 4,Brand C,11,New,45,Electric,488,0.826727084332452,Rural,0.0931027753817325,Long-Term,14.216395108771556,Advanced,High,1.0,3757.73
+Tractor,Manure Spreader Model 13,Brand A,1,Fair,46,Hybrid,240,0.7737412076974391,Suburban,0.10788733086571378,Short-Term,6.570552533545398,Basic,Medium,1.3,3974.54
+Sprayer,Manure Spreader Model 48,Brand C,3,Good,264,Electric,63,0.7393587362312593,Suburban,0.8927007158753554,Long-Term,12.42221331515589,Basic,Medium,0.9,468.72
+Seed Drill,Combine Harvester Model 12,Brand A,5,Good,89,Electric,115,0.5705870712611564,Urban,0.7915624849381345,Long-Term,10.51335114014177,Basic,Medium,1.2,1798.5
+Combine Harvester,Sprayer Model 26,Brand B,13,Good,111,Electric,483,0.3335512391601725,Suburban,0.22461207781967685,Short-Term,11.70783042260327,Intermediate,High,1.2,4156.16
+Plough,Tractor Model 39,Brand D,1,Poor,154,Electric,80,0.85713612257612,Suburban,0.36514742918072296,Short-Term,13.419157596103764,Intermediate,Low,1.0,464.66
+Combine Harvester,Sprayer Model 47,Brand B,8,Fair,117,Hybrid,427,0.7740896016652821,Urban,0.2159014664883152,Long-Term,7.453583906202235,Basic,Low,1.2,2378.31
+Harrow,Plough Model 35,Brand D,8,Poor,78,Diesel,60,0.010617296250345132,Suburban,0.103993604489247,Long-Term,13.138723994618452,Advanced,Medium,1.0,215.89
+Tractor,Combine Harvester Model 40,Brand D,13,Poor,113,Electric,100,0.9834693827269136,Rural,0.27221790464568196,Short-Term,14.576246870936052,Advanced,High,1.3,509.75
+Tractor,Harrow Model 46,Brand D,10,New,142,Diesel,456,0.2734340009096832,Rural,0.034346206451550176,Long-Term,12.166781217080345,Basic,Medium,1.3,2177.17
+Mower,Mower Model 24,Brand B,12,New,20,Diesel,419,0.9572087579079958,Suburban,0.06791358853578133,Short-Term,6.259090677051216,Basic,High,0.8,3600.28
+Seed Drill,Harrow Model 25,Brand C,14,Poor,39,Diesel,128,0.2747393111965356,Urban,0.8861514650271304,Long-Term,10.140170765448548,Intermediate,Medium,1.2,894.08
+Seed Drill,Plough Model 28,Brand C,6,Good,123,Hybrid,442,0.9535764608709767,Urban,0.5257694053312248,Short-Term,6.844174758170776,Intermediate,Medium,1.2,6324.83
+Tractor,Plough Model 41,Brand A,1,Good,226,Diesel,243,0.6652419212033198,Rural,0.38738118588675685,Long-Term,7.3905067377088765,Basic,Low,1.3,2838.82
+Cultivator,Seed Drill Model 14,Brand D,11,Good,162,Electric,398,0.06886800859775533,Suburban,0.6526187945230486,Short-Term,14.880182583773275,Basic,High,1.1,2353.01
+Harrow,Sprayer Model 36,Brand C,4,Good,47,Hybrid,439,0.42810636465238117,Suburban,0.8839991417582738,Long-Term,13.002248377396858,Intermediate,Medium,1.0,6437.14
+Cultivator,Cultivator Model 35,Brand A,10,Poor,85,Electric,314,0.10183977742409567,Suburban,0.36900926158566527,Long-Term,14.761926751050165,Basic,Medium,1.1,1240.57
+Combine Harvester,Seed Drill Model 7,Brand A,6,Poor,147,Hybrid,287,0.5537686979097806,Urban,0.4333105410117909,Short-Term,13.199819993535131,Intermediate,Low,1.2,2141.88
+Mower,Cultivator Model 47,Brand A,8,New,112,Electric,305,0.5222691394491065,Urban,0.766582563373169,Short-Term,13.493304747559975,Intermediate,High,0.8,3961.82
+Plough,Tractor Model 25,Brand A,13,Good,269,Electric,360,0.21490369931849085,Suburban,0.954391480624693,Long-Term,12.680778229840966,Intermediate,Low,1.0,2373.12
+Sprayer,Mower Model 12,Brand C,2,Fair,202,Electric,183,0.9212005506367382,Rural,0.8542759628011498,Short-Term,6.1524584965866485,Basic,Low,0.9,1598.45
+Cultivator,Mower Model 43,Brand A,11,Fair,59,Hybrid,268,0.6210669819000215,Rural,0.996268511263264,Short-Term,5.6366003755995955,Intermediate,Low,1.1,3823.66
+Combine Harvester,Combine Harvester Model 50,Brand B,6,Good,166,Hybrid,210,0.7641828608226997,Rural,0.6503706303998873,Short-Term,10.267624637922054,Intermediate,Medium,1.2,2750.79
+Plough,Tractor Model 48,Brand D,12,Fair,243,Hybrid,308,0.5669405394041938,Urban,0.2439192667139375,Long-Term,13.03831943234279,Intermediate,Low,1.0,721.4
+Manure Spreader,Harrow Model 21,Brand B,5,Fair,145,Electric,250,0.7671638113757459,Rural,0.3517378160754955,Long-Term,11.268520105315515,Intermediate,Low,1.0,1459.26
+Plough,Seed Drill Model 49,Brand B,6,Fair,114,Diesel,451,0.25278713251037954,Rural,0.291954537839043,Long-Term,12.509676283321387,Intermediate,Low,1.0,2611.01
+Combine Harvester,Manure Spreader Model 15,Brand C,8,Fair,68,Hybrid,176,0.8824394811222044,Rural,0.6558300153832097,Short-Term,5.793141653222973,Basic,Low,1.2,1999.09
+Mower,Plough Model 17,Brand B,6,Good,292,Diesel,444,0.8199390494034436,Urban,0.5689990883806904,Long-Term,9.961567067299914,Intermediate,Medium,0.8,2550.98
+Plough,Plough Model 9,Brand B,7,Good,51,Hybrid,389,0.8249335005545883,Urban,0.9052060830585315,Short-Term,11.365055471725892,Intermediate,Medium,1.0,7023.73
+Harrow,Plough Model 8,Brand A,1,Good,36,Electric,143,0.7693003647078391,Suburban,0.39183360135237677,Short-Term,14.64413222815521,Basic,Low,1.0,2671.51
+Cultivator,Manure Spreader Model 49,Brand C,2,Good,48,Electric,117,0.09081798992433843,Suburban,0.7418232091596875,Short-Term,6.233339852963507,Intermediate,Low,1.1,2984.62
+Tractor,Manure Spreader Model 17,Brand A,3,Fair,180,Electric,366,0.9519181191287793,Urban,0.799815211755239,Long-Term,8.459613263960804,Intermediate,High,1.3,4066.18
+Manure Spreader,Harrow Model 2,Brand A,7,Poor,133,Diesel,106,0.867978742239393,Urban,0.391810283205133,Short-Term,14.00108503724289,Intermediate,Low,1.0,621.76
+Manure Spreader,Seed Drill Model 4,Brand B,2,Good,238,Diesel,150,0.2906989954974868,Rural,0.43678475077194456,Long-Term,12.80360496655431,Advanced,Medium,1.0,1413.82
+Cultivator,Cultivator Model 14,Brand B,4,Poor,275,Hybrid,310,0.6026261775479727,Suburban,0.5761393566191859,Short-Term,7.895771442882054,Basic,Medium,1.1,2070.06
+Seed Drill,Harrow Model 10,Brand B,8,Poor,153,Electric,248,0.33129068627597225,Urban,0.32662766728322257,Short-Term,14.785723993104511,Basic,High,1.2,1149.62
+Tractor,Cultivator Model 8,Brand B,5,Good,84,Diesel,100,0.7210205532779448,Urban,0.3837907182136189,Short-Term,12.570261907022893,Advanced,High,1.3,2028.93
+Plough,Seed Drill Model 50,Brand B,2,Poor,87,Diesel,91,0.35127876421100745,Suburban,0.6213651287195943,Long-Term,8.746194822814314,Intermediate,High,1.0,790.31
+Sprayer,Manure Spreader Model 5,Brand A,2,Fair,33,Electric,250,0.8288699997974135,Urban,0.5857265886822989,Long-Term,11.601196898590857,Intermediate,Low,0.9,3022.89
+Tractor,Plough Model 34,Brand A,4,Good,281,Hybrid,84,0.4468333651901454,Urban,0.2182487633525506,Short-Term,10.259572363731298,Intermediate,Low,1.3,1006.22
+Seed Drill,Mower Model 42,Brand B,13,Fair,76,Hybrid,378,0.8803279127415115,Suburban,0.6606056522307234,Short-Term,14.232453305303958,Basic,Medium,1.2,3242.79
+Plough,Seed Drill Model 20,Brand C,8,Good,257,Electric,85,0.4942045716506076,Urban,0.554737140448384,Short-Term,9.067070664327106,Intermediate,High,1.0,639.71
+Tractor,Cultivator Model 34,Brand C,13,Good,106,Electric,56,0.6093379238291948,Rural,0.6779344363873832,Short-Term,12.320162180010897,Basic,Medium,1.3,595.13
+Harrow,Seed Drill Model 4,Brand D,13,Fair,144,Hybrid,169,0.6626835493236972,Urban,0.5656078634856376,Short-Term,11.673214620534438,Basic,Medium,1.0,752.53
+Manure Spreader,Harrow Model 30,Brand A,10,Good,75,Hybrid,446,0.08594579304499805,Suburban,0.7684316408281457,Short-Term,7.787842837086549,Basic,Low,1.0,5653.84
+Harrow,Seed Drill Model 29,Brand A,6,Good,207,Electric,361,0.5945764379601173,Urban,0.06283461419045144,Short-Term,11.645100210809943,Basic,Medium,1.0,2244.17
+Mower,Plough Model 46,Brand A,11,New,91,Electric,195,0.21958171864827336,Suburban,0.03441592104916025,Short-Term,5.881148473630776,Intermediate,Medium,0.8,1557.66
+Tractor,Combine Harvester Model 11,Brand D,7,Fair,264,Electric,409,0.353734264383079,Urban,0.8849316208138776,Short-Term,8.423734766000106,Intermediate,Low,1.3,3592.4
+Cultivator,Cultivator Model 35,Brand B,14,Good,232,Electric,82,0.7972409178296936,Rural,0.9207245548329364,Long-Term,13.037610324522365,Intermediate,High,1.1,531.62
+Combine Harvester,Mower Model 7,Brand D,10,Good,258,Electric,367,0.7912137140178538,Rural,0.06605860897863625,Short-Term,12.17610670006686,Advanced,Low,1.2,1891.44
+Cultivator,Harrow Model 27,Brand B,11,Fair,207,Electric,381,0.4929290113745002,Urban,0.23800252816336553,Short-Term,6.729897158815891,Basic,Low,1.1,1641.76
+Combine Harvester,Manure Spreader Model 11,Brand B,9,Poor,74,Diesel,395,0.19477076648670988,Urban,0.02416692844421109,Short-Term,12.001356976430273,Basic,Medium,1.2,1888.18
+Plough,Cultivator Model 7,Brand A,4,Good,185,Electric,98,0.40291260135760454,Urban,0.16402676987653075,Short-Term,13.395594930065492,Basic,High,1.0,734.94
+Mower,Tractor Model 28,Brand D,7,Fair,89,Diesel,142,0.9172774983361828,Suburban,0.07494231653802708,Short-Term,7.74390520871464,Basic,Low,0.8,609.71
+Tractor,Sprayer Model 42,Brand B,10,Good,49,Electric,120,0.7849755889944886,Urban,0.5782989230653149,Short-Term,7.097996880400404,Intermediate,High,1.3,1964.84
+Sprayer,Mower Model 40,Brand D,5,Good,194,Hybrid,314,0.8321794612323528,Urban,0.22171090166185103,Short-Term,12.32702749146546,Basic,Low,0.9,1599.85
+Combine Harvester,Manure Spreader Model 35,Brand C,14,Good,239,Diesel,155,0.008143795883160942,Rural,0.5957427484839494,Short-Term,5.992639901281278,Intermediate,Low,1.2,1269.56
+Seed Drill,Sprayer Model 33,Brand D,8,Fair,173,Hybrid,174,0.3195880462095311,Suburban,0.8538458364888967,Short-Term,7.755841776486393,Basic,Medium,1.2,1240.79
+Harrow,Combine Harvester Model 31,Brand C,12,Good,103,Electric,282,0.5936673590563517,Suburban,0.5052769199637608,Short-Term,12.248485885873592,Advanced,High,1.0,2723.75
+Manure Spreader,Cultivator Model 19,Brand A,3,Poor,138,Hybrid,490,0.22428109647509153,Suburban,0.8505574350972971,Short-Term,6.811403764362129,Intermediate,Low,1.0,5653.95
+Harrow,Cultivator Model 12,Brand A,2,Good,267,Hybrid,163,0.1392457892711163,Suburban,0.8174196041772203,Long-Term,10.105657188209758,Intermediate,Low,1.0,1896.42
+Combine Harvester,Manure Spreader Model 25,Brand C,7,Good,28,Electric,150,0.8049896121721108,Rural,0.12557552073554656,Short-Term,13.377657779399122,Intermediate,Medium,1.2,1795.88
+Cultivator,Seed Drill Model 41,Brand A,2,Fair,42,Diesel,326,0.9230496945329296,Rural,0.5896811787219534,Short-Term,5.413353995715738,Intermediate,Low,1.1,7066.21
+Manure Spreader,Harrow Model 32,Brand D,8,New,172,Diesel,119,0.9882725598468057,Rural,0.029629451860168632,Short-Term,6.1599179876736745,Intermediate,Medium,1.0,745.91
+Sprayer,Tractor Model 36,Brand B,12,Fair,216,Hybrid,191,0.12478271785242634,Rural,0.4988599125906159,Short-Term,12.538272667173295,Advanced,Medium,0.9,944.3
+Tractor,Plough Model 42,Brand C,6,Fair,280,Diesel,365,0.20711538871573565,Urban,0.8685619821369177,Short-Term,8.240884492497505,Advanced,Medium,1.3,4510.2
+Harrow,Plough Model 3,Brand B,11,Good,275,Electric,230,0.6173181596052407,Urban,0.4217110928717953,Short-Term,7.398417140423969,Intermediate,Medium,1.0,1498.5
+Manure Spreader,Combine Harvester Model 24,Brand B,11,Fair,62,Electric,263,0.3294045159810949,Rural,0.9947593113083713,Long-Term,6.820506595504829,Basic,Low,1.0,2063.56
+Harrow,Seed Drill Model 23,Brand D,10,Good,230,Diesel,360,0.357759224211581,Suburban,0.21818675126085252,Short-Term,5.304962986599478,Basic,High,1.0,1554.32
+Tractor,Cultivator Model 26,Brand D,6,Fair,221,Electric,482,0.10774881064145769,Rural,0.5118605848419445,Short-Term,10.438668132114236,Advanced,High,1.3,4152.91
+Cultivator,Combine Harvester Model 27,Brand C,3,Poor,142,Hybrid,350,0.47424713140724695,Suburban,0.5431385626011318,Short-Term,8.357344998483018,Basic,Low,1.1,2676.79
+Seed Drill,Tractor Model 18,Brand D,2,Good,62,Hybrid,108,0.36883188274690715,Rural,0.6505100292941868,Short-Term,14.57335126940662,Basic,High,1.2,1881.75
+Tractor,Combine Harvester Model 21,Brand A,12,Good,254,Diesel,167,0.47196609272306744,Rural,0.3217467318954208,Short-Term,5.777947007074915,Advanced,Medium,1.3,1747.6
+Mower,Sprayer Model 44,Brand A,5,Fair,124,Electric,132,0.06875949855822694,Suburban,0.5256032431993372,Short-Term,13.910458101989551,Intermediate,High,0.8,1048.39
+Seed Drill,Cultivator Model 46,Brand C,6,Fair,287,Diesel,98,0.03106036065079243,Urban,0.7134734583439346,Short-Term,6.182231299025089,Advanced,Medium,1.2,1065.8
+Manure Spreader,Cultivator Model 9,Brand C,8,Good,180,Hybrid,339,0.6058910705467033,Rural,0.22075937840444593,Short-Term,7.109337272691256,Basic,Low,1.0,1917.04
+Sprayer,Sprayer Model 10,Brand A,4,New,16,Diesel,273,0.22005816762535846,Urban,0.171523467902571,Long-Term,6.111103247280849,Basic,Medium,0.9,3844.35
+Plough,Seed Drill Model 31,Brand D,8,Good,198,Diesel,490,0.40611055593446055,Rural,0.6096023953656123,Short-Term,13.087302088238891,Basic,High,1.0,2877.14
+Seed Drill,Cultivator Model 22,Brand C,9,Fair,145,Hybrid,429,0.0052638123626549405,Urban,0.8780239298168412,Long-Term,10.764177126966153,Basic,High,1.2,2556.4
+Harrow,Harrow Model 49,Brand D,9,Good,279,Electric,408,0.2552098585382917,Rural,0.647413382525608,Short-Term,10.326519660479423,Basic,Low,1.0,2379.88
+Seed Drill,Harrow Model 30,Brand A,8,Good,46,Electric,231,0.9464419115139655,Urban,0.6056911273414969,Long-Term,13.219906796801787,Advanced,Low,1.2,3679.12
+Tractor,Mower Model 13,Brand A,8,Good,284,Electric,191,0.34149069739464066,Urban,0.8770576133798338,Short-Term,13.19371869415788,Intermediate,Low,1.3,2487.98
+Seed Drill,Seed Drill Model 16,Brand C,13,Good,65,Electric,111,0.9431241674038187,Suburban,0.4174863259392123,Long-Term,10.853051206511903,Intermediate,Medium,1.2,906.08
+Harrow,Tractor Model 7,Brand B,10,Fair,267,Electric,264,0.4749093495010338,Urban,0.023991635706614334,Short-Term,8.301439692766763,Intermediate,High,1.0,913.18
+Manure Spreader,Sprayer Model 18,Brand D,6,Good,83,Electric,253,0.10756337439451868,Suburban,0.8353642505917837,Short-Term,10.21750652559783,Basic,High,1.0,3240.48
+Seed Drill,Mower Model 27,Brand A,5,Good,88,Electric,184,0.3611599001465007,Rural,0.056768935680136856,Short-Term,5.608855930710604,Intermediate,High,1.2,2746.14
+Cultivator,Cultivator Model 40,Brand C,11,New,73,Hybrid,187,0.28238615729902017,Urban,0.5478256359318253,Short-Term,9.044627969393636,Intermediate,Low,1.1,2569.81
+Seed Drill,Mower Model 25,Brand D,4,Fair,266,Hybrid,294,0.628348446555997,Suburban,0.6462838980718935,Short-Term,13.820770952068072,Intermediate,High,1.2,2294.19
+Tractor,Combine Harvester Model 44,Brand D,5,Fair,37,Hybrid,391,0.4698001398776286,Rural,0.9385490176899377,Long-Term,12.813564531435468,Advanced,Low,1.3,5939.6
+Manure Spreader,Plough Model 16,Brand A,10,New,215,Hybrid,125,0.561748135500607,Urban,0.27693041833044707,Long-Term,5.387837630060474,Basic,High,1.0,706.08
+Plough,Tractor Model 34,Brand A,3,Fair,168,Hybrid,336,0.5807901770885361,Suburban,0.7335234443384628,Long-Term,9.731066942714635,Intermediate,High,1.0,2872.43
+Combine Harvester,Combine Harvester Model 40,Brand D,9,Good,260,Diesel,387,0.0822700624406385,Urban,0.8448390519347925,Short-Term,12.735586479711245,Advanced,High,1.2,3752.29
+Cultivator,Seed Drill Model 36,Brand D,8,Fair,262,Electric,177,0.559542032341008,Rural,0.45839494283734217,Short-Term,13.983410063444925,Basic,Medium,1.1,762.03
+Manure Spreader,Manure Spreader Model 3,Brand B,4,New,40,Hybrid,332,0.656193670296533,Urban,0.008494052738470703,Long-Term,9.474757496675027,Intermediate,High,1.0,3936.86
+Tractor,Plough Model 23,Brand A,3,Fair,230,Hybrid,299,0.554546512456372,Rural,0.7703359820139732,Long-Term,10.68436420728635,Basic,Low,1.3,2803.76
+Seed Drill,Tractor Model 35,Brand D,2,Fair,238,Electric,390,0.34883696415020815,Urban,0.9864628360879053,Long-Term,5.478447111557859,Intermediate,Low,1.2,3658.11
+Sprayer,Mower Model 22,Brand D,1,Good,201,Hybrid,342,0.663517345418781,Suburban,0.7117027690731368,Short-Term,13.270173497166647,Basic,Low,0.9,3031.24
+Plough,Mower Model 21,Brand B,1,New,269,Hybrid,245,0.6833829978969242,Urban,0.828701655033467,Short-Term,10.485931078204127,Basic,High,1.0,4172.79
+Cultivator,Sprayer Model 12,Brand B,8,Good,155,Diesel,81,0.723692755596611,Urban,0.8829734338122123,Short-Term,10.305418733719659,Basic,High,1.1,911.79
+Mower,Seed Drill Model 24,Brand C,7,Good,295,Electric,142,0.9772282134578845,Rural,0.5283743846339157,Short-Term,5.2874814607606595,Basic,Low,0.8,889.14
+Tractor,Tractor Model 48,Brand D,7,Good,196,Diesel,86,0.43373180942776657,Urban,0.04187272231735217,Short-Term,11.132474464211041,Advanced,Medium,1.3,623.36
+Sprayer,Harrow Model 35,Brand A,12,Fair,263,Hybrid,121,0.743880523104576,Urban,0.3332198855215647,Short-Term,12.871728978596604,Advanced,Low,0.9,576.41
+Sprayer,Plough Model 12,Brand C,2,Fair,61,Electric,263,0.11027305266958964,Urban,0.3646282825885244,Short-Term,12.453802928289052,Basic,High,0.9,2486.6
+Cultivator,Tractor Model 16,Brand C,6,Good,142,Electric,202,0.18409507404719305,Urban,0.5582788938902491,Short-Term,10.317929244455856,Basic,Medium,1.1,2118.81
+Plough,Sprayer Model 20,Brand D,8,Good,93,Hybrid,387,0.5380821571972506,Urban,0.3078891544158543,Short-Term,8.936219118085189,Advanced,Medium,1.0,3894.04
+Manure Spreader,Combine Harvester Model 6,Brand A,8,Good,181,Hybrid,397,0.8988607599047016,Rural,0.6435334722457591,Long-Term,10.267183968878884,Basic,Low,1.0,2544.04
+Cultivator,Mower Model 17,Brand B,7,New,151,Electric,384,0.2778608754369458,Urban,0.030050791734975157,Short-Term,5.136418762890566,Basic,High,1.1,3602.44
+Harrow,Tractor Model 45,Brand D,13,Good,22,Electric,382,0.6014018101926355,Urban,0.09473153361963071,Long-Term,12.221047986951472,Advanced,Medium,1.0,2372.57
+Seed Drill,Tractor Model 3,Brand A,13,Good,163,Diesel,459,0.46801193740269154,Urban,0.15486348400064887,Short-Term,12.31756407915584,Basic,Medium,1.2,2900.58
+Sprayer,Manure Spreader Model 27,Brand A,10,New,22,Diesel,258,0.08753370870046162,Suburban,0.6642884745159576,Short-Term,11.673072380221996,Intermediate,High,0.9,4169.92
+Mower,Manure Spreader Model 17,Brand C,3,Fair,31,Electric,391,0.8965673978515685,Rural,0.8306550072449207,Long-Term,5.969425935323783,Basic,Low,0.8,3898.53
+Harrow,Mower Model 8,Brand A,2,Poor,239,Hybrid,61,0.7610435020171237,Rural,0.6945532796852071,Short-Term,13.987873408614375,Basic,Low,1.0,431.48
+Tractor,Manure Spreader Model 22,Brand A,7,Good,216,Diesel,138,0.6353005535540083,Urban,0.8916307462501948,Long-Term,8.099709295075062,Basic,High,1.3,1483.7
+Sprayer,Seed Drill Model 39,Brand C,14,Fair,236,Hybrid,365,0.16519170700253516,Rural,0.5645521456189206,Short-Term,13.781065099096338,Advanced,Low,0.9,1667.56
+Cultivator,Manure Spreader Model 15,Brand A,1,Good,32,Electric,194,0.6876500699067266,Rural,0.5700963279249577,Short-Term,7.190911764266843,Basic,Low,1.1,5300.03
+Harrow,Combine Harvester Model 6,Brand D,7,Good,137,Diesel,485,0.07631171131163283,Rural,0.2280507929108504,Short-Term,5.338544217429416,Intermediate,High,1.0,3768.97
+Harrow,Seed Drill Model 37,Brand D,1,Good,47,Electric,82,0.7740376031437531,Rural,0.2389649007214547,Short-Term,7.890364952144524,Intermediate,Low,1.0,1249.33
+Manure Spreader,Mower Model 15,Brand D,12,Good,27,Hybrid,65,0.5964825752292177,Rural,0.6822669663577319,Short-Term,9.267493770396067,Basic,High,1.0,665.77
+Cultivator,Tractor Model 40,Brand A,10,Good,110,Hybrid,371,0.14348402496893808,Suburban,0.8647703792705476,Long-Term,13.579429417613795,Basic,High,1.1,3198.56
+Manure Spreader,Tractor Model 31,Brand D,9,Good,29,Hybrid,168,0.04045903074375512,Suburban,0.832529554931614,Short-Term,6.161354451647045,Basic,High,1.0,2175.2
+Plough,Manure Spreader Model 30,Brand D,4,Fair,184,Hybrid,354,0.5461833573574065,Rural,0.6711098231054587,Short-Term,11.818680373989782,Basic,High,1.0,2216.37
+Tractor,Seed Drill Model 12,Brand B,7,Good,155,Diesel,499,0.19234677834074532,Rural,0.7576751115353125,Long-Term,6.577476224861012,Intermediate,Medium,1.3,5953.68
+Cultivator,Harrow Model 23,Brand B,13,Good,248,Hybrid,171,0.0929953349494137,Suburban,0.9451929462465299,Short-Term,6.022646789440886,Intermediate,Medium,1.1,1720.6
+Cultivator,Tractor Model 37,Brand B,12,Fair,111,Diesel,171,0.25710636179623647,Urban,0.7093913227667158,Short-Term,9.619027104536098,Intermediate,Medium,1.1,1473.15
+Manure Spreader,Manure Spreader Model 16,Brand C,10,Fair,61,Diesel,55,0.02337821448331645,Suburban,0.7903110994434523,Long-Term,6.417384803846531,Intermediate,Low,1.0,391.54
+Cultivator,Tractor Model 49,Brand C,14,Poor,173,Diesel,144,0.39739170725336237,Rural,0.47535939717750597,Short-Term,11.31987092880193,Basic,Medium,1.1,502.68
+Combine Harvester,Seed Drill Model 20,Brand B,14,Good,197,Electric,322,0.08416338666300949,Urban,0.8232579281797544,Short-Term,9.915398061873107,Basic,High,1.2,2794.57
+Manure Spreader,Plough Model 41,Brand B,13,Good,94,Diesel,280,0.2998663505854823,Urban,0.3196719924723883,Short-Term,12.415945850109011,Basic,Low,1.0,2067.84
+Tractor,Plough Model 14,Brand A,12,Poor,284,Diesel,428,0.2235612027180135,Urban,0.850612803719308,Short-Term,5.698751024338837,Basic,Medium,1.3,2818.01
+Manure Spreader,Cultivator Model 33,Brand C,6,Good,231,Electric,68,0.6349855070495504,Rural,0.39103139333701253,Short-Term,12.337442454035891,Intermediate,Low,1.0,499.89
+Plough,Manure Spreader Model 13,Brand C,5,Good,170,Electric,108,0.7926011632679485,Urban,0.23387049849136787,Long-Term,5.888081818298976,Intermediate,Medium,1.0,686.49
+Cultivator,Combine Harvester Model 19,Brand A,5,Good,198,Electric,303,0.8833420203561183,Urban,0.14043771939412664,Short-Term,14.44449546390483,Advanced,High,1.1,2917.4
+Plough,Combine Harvester Model 50,Brand C,4,Good,296,Diesel,286,0.4210518365984811,Rural,0.09047254966016827,Short-Term,10.792366901650261,Intermediate,High,1.0,1944.73
+Seed Drill,Seed Drill Model 22,Brand B,14,Fair,174,Diesel,377,0.5199377997616521,Suburban,0.28986489915730784,Short-Term,7.782042924965323,Basic,Medium,1.2,1894.28
+Manure Spreader,Seed Drill Model 25,Brand D,12,New,97,Diesel,252,0.1569094248433066,Suburban,0.8559483835275298,Long-Term,13.953209732669281,Basic,High,1.0,1921.25
+Plough,Harrow Model 19,Brand C,7,Fair,86,Hybrid,418,0.4272981529351594,Rural,0.19792955329881945,Short-Term,8.509985627389304,Intermediate,Medium,1.0,3043.7
+Mower,Sprayer Model 43,Brand D,12,Good,208,Hybrid,128,0.40759056248159264,Urban,0.07281454324552239,Short-Term,5.331116883238661,Advanced,Low,0.8,505.92
+Cultivator,Tractor Model 8,Brand B,4,Good,15,Diesel,327,0.026286722655530115,Rural,0.47353566117169665,Short-Term,12.328448377061626,Basic,Low,1.1,6140.6
+Plough,Harrow Model 4,Brand A,11,Good,244,Diesel,289,0.9762122615829343,Rural,0.04154048352433193,Short-Term,7.336425469032546,Advanced,Low,1.0,1780.5
+Mower,Cultivator Model 37,Brand A,2,Good,129,Diesel,429,0.4049763498069966,Urban,0.2699702282880022,Long-Term,11.424209893811497,Advanced,Low,0.8,4151.46
+Manure Spreader,Sprayer Model 21,Brand C,4,Fair,24,Electric,444,0.674842861510101,Rural,0.9390594582338632,Long-Term,5.861377967960521,Basic,Low,1.0,5643.49
+Harrow,Tractor Model 9,Brand B,9,New,277,Diesel,459,0.7868065872206877,Rural,0.7919107342364574,Short-Term,12.121896072931762,Advanced,High,1.0,5574.9
+Tractor,Harrow Model 8,Brand D,10,Good,137,Diesel,326,0.6376010277848995,Suburban,0.4099903776735978,Short-Term,13.330092326403353,Basic,Low,1.3,2257.67
+Tractor,Sprayer Model 8,Brand D,9,New,93,Diesel,284,0.8354232736260057,Suburban,0.2923543784604017,Short-Term,5.1117247336181055,Basic,High,1.3,3477.82
+Mower,Seed Drill Model 31,Brand B,14,Good,78,Diesel,117,0.2776941628496591,Suburban,0.3471267505638125,Short-Term,10.75205601342755,Intermediate,High,0.8,850.76
+Combine Harvester,Cultivator Model 36,Brand D,1,Good,212,Electric,88,0.11554269502929582,Suburban,0.5086837847426621,Long-Term,9.655396926676552,Basic,Medium,1.2,740.64
+Manure Spreader,Seed Drill Model 46,Brand C,7,Fair,248,Hybrid,403,0.08115306184157511,Rural,0.9515339990083185,Short-Term,11.210077270867444,Advanced,Medium,1.0,3501.8
+Plough,Cultivator Model 12,Brand B,2,Poor,208,Electric,68,0.2989740641114108,Suburban,0.5165376041195241,Short-Term,12.32979127717558,Basic,Low,1.0,408.81
